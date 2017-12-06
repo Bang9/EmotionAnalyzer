@@ -1,0 +1,5391 @@
+대륙연구소(이사장	대륙/NNG + 연구소/NNG + (/SS + 이사장/NNG
+장덕진)는	장덕진/NNP + )/SS + 는/JX
+19일	19/SN + 일/NNB
+오전	오전/NNG
+연구소	연구소/NNG
+회의실에서	회의실/NNG + 에서/JKB
+'문민정부	'/SS + 문민정부/NNG
+하의	하/NNG + 의/JKG
+개혁	개혁/NNG
+과제와	과제/NNG + 와/JC
+정책	정책/NNG
+방향'이란	방향/NNG + '/SS + 이/VCP + 란/ETM
+주제로	주제/NNG + 로/JKB
+정기	정기/NNG
+정책	정책/NNG
+토론회를	토론회/NNG + 를/JKO
+가졌다.	가지/VV + 었/EP + 다/EF + ./SF
+
+이날	이날/NNG
+토론회에서는	토론회/NNG + 에서/JKB + 는/JX
+서울대	서울대/NNP
+박동서	박동서/NNP
+교수(행정대학원)의	교수/NNG + (/SS + 행정/NNG + 대학원/NNG + )/SS + 의/JKG
+사회로	사회/NNG + 로/JKB
+서울대	서울대/NNP
+홍원탁	홍원탁/NNP
+교수(국제경제학)와	교수/NNG + (/SS + 국제/NNG + 경제학/NNG + )/SS + 와/JC
+고려대	고려대/NNP
+김호진	김호진/NNP
+교수(정치학)가	교수/NNG + (/SS + 정치학/NNG + )/SS + 가/JKS
+각각	각각/MAG
+경제	경제/NNG
+부문과	부문/NNG + 과/JC
+정치	정치/NNG
+부문에	부문/NNG + 에/JKB
+관한	관하/VV + ㄴ/ETM
+주제	주제/NNG
+발표를	발표/NNG + 를/JKO
+했다.	하/VV + 았/EP + 다/EF + ./SF
+
+이어	이어/MAG
+벌어진	벌어지/VV + ㄴ/ETM
+토론에는	토론/NNG + 에/JKB + 는/JX
+안청시(서울대	안청시/NNP + (/SS + 서울대/NNP
+정치학)	정치학/NNG + )/SS
+한흥수(연세대	한흥수/NNP + (/SS + 연세대/NNP
+정치학)	정치학/NNG + )/SS
+곽상경(고려대	곽상경/NNP + (/SS + 고려대/NNP
+경제학)	경제학/NNG + )/SS
+박진근	박진근/NNP
+교수(연세대	교수/NNG + (/SS + 연세대/NNP
+경제학)가	경제학/NNG + )/SS + 가/JKS
+참여했다.	참여/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+다음은	다음/NNG + 은/JX
+주제	주제/NNG
+발표	발표/NNG
+및	및/MAG
+토론	토론/NNG
+요지다.	요지/NNG + 이/VCP + 다/EF + ./SF
+
+홍원탁	홍원탁/NNP
+교수(경제부문)	교수/NNG + (/SS + 경제/NNG + 부문/NNG + )/SS
+=	=/SW
+새	새/MM
+정부가	정부/NNG + 가/JKS
+농업	농업/NNG
+서민	서민/NNG
+주택	주택/NNG
+사회	사회/NNG
+간접	간접/NNG
+자본	자본/NNG
+과학	과학/NNG
+기술	기술/NNG
+교육	교육/NNG
+등에	등/NNB + 에/JKB
+대한	대하/VV + ㄴ/ETM
+대대적인	대대적/NNG + 이/VCP + ㄴ/ETM
+개선과	개선/NNG + 과/JC
+개혁을	개혁/NNG + 을/JKO
+하자면	하/VV + 자면/EC
+막대한	막대/XR + 하/XSA + ㄴ/ETM
+투자가	투자/NNG + 가/JKS
+필요할	필요/NNG + 하/XSA + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+현재	현재/MAG
+GNP의	GNP/SL + 의/JKG
+19%	19/SN + %/SW
+내외에	내외/NNG + 에/JKB
+불과한	불과/MAG + 하/XSA + ㄴ/ETM
+조세부담률을	조세/NNG + 부담/NNG + 률/XSN + 을/JKO
+가지고서는,	가지/VV + 고서/EC + 는/JX + ,/SP
+비인플레적으로	비/XPN + 인플레/NNG + 적/XSN + 으로/JKB
+이들	이/NP + 들/XSN
+문제를	문제/NNG + 를/JKO
+해결하기는	해결/NNG + 하/XSV + 기/ETN + 는/JX
+불가능할	불/XPN + 가능/NNG + 하/XSA + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+매년	매년/MAG
+최소한	최소한/NNG
+GNP의	GNP/SL + 의/JKG
+4%가	4/SN + %/SW + 가/JKS
+넘는	넘/VV + 는/ETM
+추가	추가/NNG
+재원을	재원/NNG + 을/JKO
+마련해야	마련/NNG + 하/XSV + 아야/EC
+할	하/VX + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+토지에	토지/NNG + 에/JKB
+대한	대한/NNP
+평균	평균/NNG
+재산세율을	재산세/NNG + 율/XSN + 을/JKO
+시가	시가/NNG
+대비	대비/NNG
+1%	1/SN + %/SW
+이상으로만	이상/NNG + 으로/JKB + 만/JX
+만들어	만들/VV + 어/EC
+놓아도	놓/VX + 아도/EC
+GNP의	GNP/SL + 의/JKG
+10%가	10/SN + %/SW + 가/JKS
+넘는	넘/VV + 는/ETM
+재원이	재원/NNG + 이/JKS
+확보될	확보/NNG + 되/XSV + ㄹ/ETM
+수	수/NNB
+있다.	있/VV + 다/EF + ./SF
+
+새	새/MM
+정부가	정부/NNG + 가/JKS
+토지	토지/NNG
+보유에	보유/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+과세와	과세/NNG + 와/JC
+양도	양도/NNG
+차익에	차익/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+과세를	과세/NNG + 를/JKO
+선진국	선진국/NNG
+수준으로	수준/NNG + 으로/JKB
+상향	상향/NNG
+조정하고,	조정/NNG + 하/XSV + 고/EC + ,/SP
+동시에	동시/NNG + 에/JKB
+금융	금융/NNG
+자산	자산/NNG
+소득을	소득/NNG + 을/JKO
+실명제를	실명/NNG + 제/XSN + 를/JKO
+통해	통하/VV + 아/EC
+모두	모두/MAG
+합산하여	합산/NNG + 하/XSV + 아/EC
+종합	종합/NNG
+과세하면,	과세/NNG + 하/XSV + 면/EC + ,/SP
+소득세율을	소득세/NNG + 율/XSN + 을/JKO
+크게	크/VA + 게/EC
+하향	하향/NNG
+조정하더라도	조정/NNG + 하/XSV + 더라도/EC
+추가	추가/NNG
+재원이	재원/NNG + 이/JKS
+쉽게	쉽/VA + 게/EC
+확보될	확보/NNG + 되/XSV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+80년대	80/SN + 년대/NNB
+중반	중반/NNG
+정부가	정부/NNG + 가/JKS
+발표한	발표/NNG + 하/XSV + ㄴ/ETM
+과세포착률	과세/NNG + 포착/NNG + 률/XSN
+자료에	자료/NNG + 에/JKB
+따르면,	따르/VV + 면/EC + ,/SP
+이자소득은	이자/NNG + 소득/NNG + 은/JX
+3분의	3/SN + 분/XSN + 의/JKG
+1	1/SN
+정도만,	정도/NNG + 만/JX + ,/SP
+배당소득은	배당/NNG + 소득/NNG + 은/JX
+절반	절반/NNG
+정도만	정도/NNG + 만/JX
+과세	과세/NNG
+대상으로	대상/NNG + 으로/JKB
+포착됐다고	포착/NNG + 되/XSV + 었/EP + 다고/EC
+한다.	하/VV + ㄴ다/EF + ./SF
+
+한국병의	한국/NNP + 병/NNG + 의/JKG
+핵심은	핵심/NNG + 은/JX
+비생산적인	비/XPN + 생산/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+정치	정치/NNG
+활동에	활동/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+수익률,	수익/NNG + 률/XSN + ,/SP
+땅	땅/NNG
+투기	투기/NNG
+수익률,	수익/NNG + 률/XSN + ,/SP
+불로소득적	불로/NNG + 소득/NNG + 적/XSN
+성격이	성격/NNG + 이/JKS
+강한	강하/VV + ㄴ/ETM
+재산소득	재산/NNG + 소득/NNG
+수익률	수익/NNG + 률/XSN
+등을	등/NNB + 을/JKO
+극대화시켜	극대/NNG + 화/XSN + 시키/XSV + 어/EC
+주는	주/VX + 는/ETM
+제도들을	제도/NNG + 들/XSN + 을/JKO
+마치	마치/MAG
+체제	체제/NNG
+유지	유지/NNG
+차원인	차원/NNG + 이/VCP + ㄴ/ETM
+듯	듯/NNB
+수호하고	수호/NNG + 하/XSV + 고/EC
+있는	있/VX + 는/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+문제의	문제/NNG + 의/JKG
+심각성은	심각/XR + 성/XSN + 은/JX
+이러한	이러/XR + 하/XSA + ㄴ/ETM
+왜곡된	왜곡/NNG + 되/XSV + ㄴ/ETM
+체제를	체제/NNG + 를/JKO
+즐기는	즐기/VV + 는/ETM
+기득권	기득/NNG + 권/XSN
+세력이,	세력/NNG + 이/JKS + ,/SP
+근본적인	근본/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+제도	제도/NNG
+개선을	개선/NNG + 을/JKO
+불가능하게	불/XPN + 가능/NNG + 하/XSA + 게/EC
+만들고	만들/VV + 고/EC
+있는	있/VX + 는/ETM
+데	데/NNB
+있다.	있/VV + 다/EF + ./SF
+
+금융실명제만	금융/NNG + 실명/NNG + 제/XSN + 만/JX
+해도	하/VV + 아도/EC
+"경제가	"/SS + 경제/NNG + 가/JKS
+어려움을	어려움/NNG + 을/JKO
+넘긴	넘기/VV + ㄴ/ETM
+뒤	뒤/NNG
+임기	임기/NNG
+중에	중/NNB + 에/JKB
+실시할	실시/NNG + 하/XSV + ㄹ/ETM
+방침"이란	방침/NNG + "/SS + 이/VCP + 란/ETM
+설명과	설명/NNG + 과/JKB
+함께	함께/MAG
+새	새/MM
+정부의	정부/NNG + 의/JKG
+중점	중점/NNG
+과제에서	과제/NNG + 에서/JKB
+빠져	빠지/VV + 어/EC
+버렸다.	버리/VX + 었/EP + 다/EF + ./SF
+
+아마도	아마도/MAG
+한국에서는	한국/NNP + 에서/JKB + 는/JX
+뇌물성	뇌물/NNG + 성/XSN
+정치자금	정치/NNG + 자금/NNG
+수수의	수수/NNG + 의/JKG
+제거와	제거/NNG + 와/JC
+금융실명제의	금융/NNG + 실명/NNG + 제/XSN + 의/JKG
+실시가	실시/NNG + 가/JKS
+함께	함께/MAG
+이뤄져야	이루어지/VV + 어야/EC
+한다는	하/VX + ㄴ다는/ETM
+사실이,	사실/NNG + 이/JKS + ,/SP
+현실적으로	현실/NNG + 적/XSN + 으로/JKB
+금융실명제의	금융/NNG + 실명/NNG + 제/XSN + 의/JKG
+실시를	실시/NNG + 를/JKO
+더욱	더욱/MAG
+어렵게	어렵/VA + 게/EC
+만드는	만들/VV + 는/ETM
+것	것/NNB
+같다.	같/VA + 다/EF + ./SF
+
+한국	한국/NNP
+경제의	경제/NNG + 의/JKG
+수출	수출/NNG
+저변	저변/NNG
+확대와	확대/NNG + 와/JC
+다품종	다품종/NNG
+소량	소량/NNG
+생산에	생산/NNG + 에/JKB
+의한	의하/VV + ㄴ/ETM
+세계	세계/NNG
+수요	수요/NNG
+변화에의	변화/NNG + 에/JKB + 의/JKG
+탄력	탄력/NNG
+대응과	대응/NNG + 과/JC
+경제력	경제력/NNG
+집중에	집중/NNG + 에/JKB
+따른	따르/VV + ㄴ/ETM
+비효율성	비/XPN + 효율/NNG + 성/XSN
+제거를	제거/NNG + 를/JKO
+위해	위하/VV + 아/EC
+과거와	과거/NNG + 와/JKB
+다른	다르/VA + ㄴ/ETM
+중소기업	중소기업/NNG
+육성	육성/NNG
+정책이	정책/NNG + 이/JKS
+필요하다.	필요/NNG + 하/XSA + 다/EF + ./SF
+
+중소기업	중소기업/NNG
+진흥을	진흥/NNG + 을/JKO
+위해서는	위하/VV + 아서/EC + 는/JX
+무엇보다도	무엇/NP + 보다/JKB + 도/JX
+대기업에	대/XPN + 기업/NNG + 에/JKB
+편중된	편중/NNG + 되/XSV + ㄴ/ETM
+관치금융으로부터의	관치/NNG + 금융/NNG + 으로부터/JKB + 의/JKG
+탈피와	탈피/NNG + 와/JC
+정부나	정부/NNG + 나/JC
+특정	특정/NNG
+재벌에	재벌/NNG + 에/JKB
+지배되지	지배/NNG + 되/XSV + 지/EC
+않는	않/VX + 는/ETM
+금융	금융/NNG
+자율화가	자율/NNG + 화/XSN + 가/JKS
+필요하다.	필요/NNG + 하/XSA + 다/EF + ./SF
+
+한국의	한국/NNP + 의/JKG
+재벌	재벌/NNG
+기업도	기업/NNG + 도/JX
+전문	전문/NNG
+분야별로	분야/NNG + 별/XSN + 로/JKB
+명실상부한	명실상부/NNG + 하/XSA + ㄴ/ETM
+국제적	국제/NNG + 적/XSN
+대기업이	대/XPN + 기업/NNG + 이/JKC
+되려면	되/VV + 려면/EC
+장기적으로	장기/NNG + 적/XSN + 으로/JKB
+자산	자산/NNG
+규모가	규모/NNG + 가/JKS
+현재보다	현재/NNG + 보다/JKB
+10배	10/SN + 배/NNG
+이상	이상/NNG
+커져야	커지/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+소유와	소유/NNG + 와/JC
+경영의	경영/NNG + 의/JKG
+분리를	분리/NNG + 를/JKO
+전제로,	전제/NNG + 로/JKB + ,/SP
+주식	주식/NNG
+공모를	공모/NNG + 를/JKO
+통해서	통하/VV + 아서/EC
+충분히	충분히/MAG
+자산	자산/NNG
+규모를	규모/NNG + 를/JKO
+확대해	확대/NNG + 하/XSV + 아/EC
+나갈	나가/VX + ㄹ/ETM
+수	수/NNB
+있을	있/VV + 을/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+UR체제에	UR/SL + 체제/NNG + 에/JKB
+대비해	대비/NNG + 하/XSV + 아/EC
+정부는	정부/NNG + 는/JX
+국제	국제/NNG
+사회에서	사회/NNG + 에서/JKB
+용납	용납/NNG
+받을	받/VV + 을/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+산업	산업/NNG
+지원	지원/NNG
+정책을	정책/NNG + 을/JKO
+추진해	추진/NNG + 하/XSV + 아/EC
+나가야	나가/VX + 아야/EC
+할	하/VX + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+경제정책이	경제/NNG + 정책/NNG + 이/JKS
+무절제한	무/XPN + 절제/NNG + 하/XSV + ㄴ/ETM
+정치적	정치/NNG + 적/XSN
+사고에	사고/NNG + 에/JKB
+의해	의하/VV + 아/EC
+교란되지	교란/NNG + 되/XSV + 지/EC
+않게	않/VX + 게/EC
+만들기	만들/VV + 기/ETN
+위해서도	위하/VV + 아서/EC + 도/JX
+조속히	조속히/MAG
+OECD에	OECD/SL + 에/JKB
+가입해야	가입/NNG + 하/XSV + 아야/EC
+할	하/VX + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+김호진	김호진/NNP
+교수(정치부문)	교수/NNG + (/SS + 정치/NNG + 부문/NNG + )/SS
+=	=/SW
+정치	정치/NNG
+개혁은	개혁/NNG + 은/JX
+체제의	체제/NNG + 의/JKG
+정당성(민주성)과	정당/XR + 성/XSN + (/SS + 민주/NNG + 성/XSN + )/SS + 과/JC
+효율성(생산성	효율/NNG + 성/XSN + (/SS + 생산/NNG + 성/XSN
+안정성)	안정/NNG + 성/XSN + )/SS
+및	및/MAG
+도덕성을	도덕/NNG + 성/XSN + 을/JKO
+제고하는데	제고/NNG + 하/XSV + 는데/EC
+역점을	역점/NNG + 을/JKO
+두어야	두/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+제반여건에	제반/NNG + 여건/NNG + 에/JKB
+비추어	비추/VV + 어/EC
+볼	보/VX + ㄹ/ETM
+때	때/NNG
+대통령	대통령/NNG
+중심제가	중심/NNG + 제/XSN + 가/JKS
+내각제보다	내각/NNG + 제/XSN + 보다/JKB
+한국	한국/NNP
+사회에서의	사회/NNG + 에서/JKB + 의/JKG
+한국	한국/NNP
+사회에서의	사회/NNG + 에서/JKB + 의/JKG
+적실성이	적실/XR + 성/XSN + 이/JKS
+더	더/MAG
+높다고	높/VA + 다고/EC
+볼	보/VX + ㄹ/ETM
+수	수/NNB
+있다.	있/VV + 다/EF + ./SF
+
+그러나	그러나/MAJ
+현행	현행/NNG
+대통령제는	대통령/NNG + 제/XSN + 는/JX
+내각제와	내각/NNG + 제/XSN + 와/JC
+2원	2/SN + 원/NNG
+집정부제의	집정부/NNG + 제/XSN + 의/JKG
+요소를	요소/NNG + 를/JKO
+가미함으로써	가미/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+그	그/MM
+성격이	성격/NNG + 이/JKS
+모호하다.	모호/XR + 하/XSA + 다/EF + ./SF
+
+또	또/MAG
+민주성을	민주/NNG + 성/XSN + 을/JKO
+지나치게	지나치/VA + 게/EC
+중시한	중시/NNG + 하/XSV + ㄴ/ETM
+나머지	나머지/NNG
+효율성과	효율/NNG + 성/XSN + 과/JC
+책임성을	책임/NNG + 성/XSN + 을/JKO
+경시하고	경시/NNG + 하/XSV + 고/EC
+있다는	있/VX + 다는/ETM
+점에서	점/NNG + 에서/JKB
+큰	크/VA + ㄴ/ETM
+결함을	결함/NNG + 을/JKO
+내포하고	내포/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+현행	현행/NNG
+헌법은	헌법/NNG + 은/JX
+국회에	국회/NNG + 에/JKB
+국정감사권을	국정/NNG + 감사/NNG + 권/XSN + 을/JKO
+부여하고	부여/NNG + 하/XSV + 고/EC
+국무총리	국무총리/NNG
+임명에	임명/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+사전동의와	사전/NNG + 동의/NNG + 와/JC
+해임	해임/NNG
+건의를	건의/NNG + 를/JKO
+할	하/VV + ㄹ/ETM
+수	수/NNB
+있게	있/VV + 게/EC
+하면서,	하/VX + 면서/EC + ,/SP
+대통령에게는	대통령/NNG + 에게/JKB + 는/JX
+국회해산권을	국회/NNG + 해산/NNG + 권/XSN + 을/JKO
+인정치	인정/NNG + 하/XSV + 지/EC
+않음으로써	않/VX + 음/ETN + 으로써/JKB
+대통령의	대통령/NNG + 의/JKG
+리더십을	리더십/NNG + 을/JKO
+약화시키는	약화/NNG + 시키/XSV + 는/ETM
+결함을	결함/NNG + 을/JKO
+갖고	갖/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+대통령에게	대통령/NNG + 에게/JKB
+국회해산권을	국회/NNG + 해산/NNG + 권/XSN + 을/JKO
+부여해야	부여/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+6공	6/SN + 공/NNG
+헌법은	헌법/NNG + 은/JX
+대통령의	대통령/NNG + 의/JKG
+임기는	임기/NNG + 는/JX
+5년으로	5/SN + 년/NNB + 으로/JKB
+하고	하/VV + 고/EC
+국회의원의	국회의원/NNG + 의/JKG
+임기는	임기/NNG + 는/JX
+4년으로	4/SN + 년/NNB + 으로/JKB
+규정해	규정/NNG + 하/XSV + 아/EC
+대통령과	대통령/NNG + 과/JC
+국회가	국회/NNG + 가/JKS
+기능적인	기능/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+조화를	조화/NNG + 를/JKO
+이룩할	이룩/XR + 하/XSV + ㄹ/ETM
+수	수/NNB
+없게	없/VA + 게/EC
+만들어	만들/VV + 어/EC
+버렸다.	버리/VX + 었/EP + 다/EF + ./SF
+
+또	또/MAG
+대통령의	대통령/NNG + 의/JKG
+임기를	임기/NNG + 를/JKO
+5년	5/SN + 년/NNB
+단임으로	단임/NNG + 으로/JKB
+못박아	못/NNG + 박/VV + 아/EC
+놓아	놓/VX + 아/EC
+대통령의	대통령/NNG + 의/JKG
+레임	레임/NNG
+덕	덕/NNG
+현상을	현상/NNG + 을/JKO
+촉진시키고	촉진/NNG + 시키/XSV + 고/EC
+책임	책임/NNG
+정치를	정치/NNG + 를/JKO
+불가능하게	불/XPN + 가능/NNG + 하/XSA + 게/EC
+만들었다.	만들/VV + 었/EP + 다/EF + ./SF
+
+대통령과	대통령/NNG + 과/JC
+국회의원의	국회의원/NNG + 의/JKG
+임기	임기/NNG
+불일치를	불/XPN + 일치/NNG + 를/JKO
+시정하고,	시정/NNG + 하/XSV + 고/EC + ,/SP
+1차에	1/SN + 차/NNB + 에/JKB
+한하여	한하/VV + 아/EC
+연임할	연임/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있도록	있/VV + 도록/EC
+대통령	대통령/NNG
+임기를	임기/NNG + 를/JKO
+재조정해야	재/XPN + 조정/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+국가의	국가/NNG + 의/JKG
+권력	권력/NNG
+기관	기관/NNG
+등	등/NNB
+행정기관의	행정/NNG + 기관/NNG + 의/JKG
+정치	정치/NNG
+개입을	개입/NNG + 을/JKO
+지양하기	지양/NNG + 하/XSV + 기/ETN
+위해서는	위하/VV + 아서/EC + 는/JX
+정치와	정치/NNG + 와/JC
+행정의	행정/NNG + 의/JKG
+분리,	분리/NNG + ,/SP
+행정의	행정/NNG + 의/JKG
+정치적	정치/NNG + 적/XSN
+중립이	중립/NNG + 이/JKS
+제도적으로	제도/NNG + 적/XSN + 으로/JKB
+보장돼야	보장/NNG + 되/XSV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+그러기	그러/VV + 기/ETN
+위해서는	위하/VV + 아서/EC + 는/JX
+직업	직업/NNG
+공무원제의	공무원/NNG + 제/XSN + 의/JKG
+확립,	확립/NNG + ,/SP
+경찰청과	경찰청/NNG + 과/JC
+검찰청의	검찰청/NNG + 의/JKG
+실질적	실질/NNG + 적/XSN
+독립,	독립/NNG + ,/SP
+안기부의	안기부/NNG + 의/JKG
+기능과	기능/NNG + 과/JC
+권한의	권한/NNG + 의/JKG
+재조정이	재/XPN + 조정/NNG + 이/JKS
+있어야	있/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+안기부의	안기부/NNG + 의/JKG
+수사권은	수사/NNG + 권/XSN + 은/JX
+인권침해	인권/NNG + 침해/NNG
+소지가	소지/NNG + 가/JKS
+큰	크/VA + ㄴ/ETM
+만큼	만큼/NNB
+원칙적으로	원칙/NNG + 적/XSN + 으로/JKB
+검찰과	검찰/NNG + 과/JC
+경찰에	경찰/NNG + 에/JKB
+이양하고,	이양/NNG + 하/XSV + 고/EC + ,/SP
+국외로부터	국외/NNG + 로부터/JKB
+잠입하는	잠입/NNG + 하/XSV + 는/ETM
+간첩에	간첩/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+수사권만	수사/NNG + 권/XSN + 만/JX
+인정하는데	인정/NNG + 하/XSV + 는데/EC
+그쳐야	그치/VV + 어야/EC
+할	하/VX + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+안기부도	안기부/NNG + 도/JX
+국정감사를	국정/NNG + 감사/NNG + 를/JKO
+받고	받/VV + 고/EC
+국가	국가/NNG
+기밀에	기밀/NNG + 에/JKB
+관한	관하/VV + ㄴ/ETM
+사항이라도	사항/NNG + 이/VCP + 라도/EC
+국회의	국회/NNG + 의/JKG
+요청이	요청/NNG + 이/JKS
+있으면	있/VV + 으면/EC
+자료를	자료/NNG + 를/JKO
+제출하고	제출/NNG + 하/XSV + 고/EC
+증언	증언/NNG
+요구에도	요구/NNG + 에/JKB + 도/JX
+응해야	응하/VV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+정치자금을	정치/NNG + 자금/NNG + 을/JKO
+줄이기	줄이/VV + 기/ETN
+위해서는	위하/VV + 아서/EC + 는/JX
+현행	현행/NNG
+1인	1/SN + 인/NNG
+1구의	1/SN + 구/NNG + 의/JKG
+소선거구제를	소/XPN + 선거구/NNG + 제/XSN + 를/JKO
+광역	광역/NNG
+행정	행정/NNG
+단위에	단위/NNG + 에/JKB
+맞춰서	맞추/VV + 어서/EC
+중-대선거구로	중/NNG + -/SS + 대/XPN + 선거구/NNG + 로/JKB
+바꾸고,	바꾸/VV + 고/EC + ,/SP
+돈이	돈/NNG + 이/JKS
+적게	적/VA + 게/EC
+드는	들/VV + 는/ETM
+전국구	전국구/NNG
+의원을	의원/NNG + 을/JKO
+늘리되	늘리/VV + 되/EC
+대표성을	대표/NNG + 성/XSN + 을/JKO
+살리기	살리/VV + 기/ETN
+위해	위하/VV + 아/EC
+서독식의	서독식/NNG + 의/JKG
+정당명부식	정당/NNG + 명부식/NNG
+투표제를	투표/NNG + 제/XSN + 를/JKO
+채택하는	채택/NNG + 하/XSV + 는/ETM
+것이	것/NNB + 이/JKS
+바람직하다.	바람직/XR + 하/XSA + 다/EF + ./SF
+
+대통령	대통령/NNG
+선거는	선거/NNG + 는/JX
+가능한한	가능/NNG + 하/XSA + ㄴ/ETM + 한/NNG
+대규모	대/XPN + 규모/NNG
+집회를	집회/NNG + 를/JKO
+피하고	피하/VV + 고/EC
+신문	신문/NNG
+라디오	라디오/NNG
+TV	TV/SL
+등	등/NNB
+대중매체를	대중/NNG + 매체/NNG + 를/JKO
+이용해서	이용/NNG + 하/XSV + 아서/EC
+정책	정책/NNG
+대결을	대결/NNG + 을/JKO
+하도록	하/VV + 도록/EC
+해야	하/VX + 아야/EC
+할	하/VX + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+경제	경제/NNG
+부문의	부문/NNG + 의/JKG
+자율성과	자율/NNG + 성/XSN + 과/JC
+독립성을	독립/NNG + 성/XSN + 을/JKO
+신장시켜	신장/NNG + 시키/XSV + 어/EC
+경제	경제/NNG
+논리가	논리/NNG + 가/JKS
+정치	정치/NNG
+논리에	논리/NNG + 에/JKB
+지배되지	지배/NNG + 되/XSV + 지/EC
+않고	않/VX + 고/EC
+시장	시장/NNG
+원리에	원리/NNG + 에/JKB
+충실할	충실/NNG + 하/XSA + ㄹ/ETM
+수	수/NNB
+있도록	있/VV + 도록/EC
+해야	하/VX + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+그래야	그러/VV + 어야/EC
+정치가	정치/NNG + 가/JKS
+경제의	경제/NNG + 의/JKG
+정치화를	정치/NNG + 화/XSN + 를/JKO
+조장하는	조장/NNG + 하/XSV + 는/ETM
+일과,	일/NNG + 과/JC + ,/SP
+경제가	경제/NNG + 가/JKS
+정치	정치/NNG
+부패를	부패/NNG + 를/JKO
+유혹하는	유혹/NNG + 하/XSV + 는/ETM
+일을	일/NNG + 을/JKO
+없앨	없애/VV + ㄹ/ETM
+수	수/NNB
+있다.	있/VV + 다/EF + ./SF
+
+곽상경	곽상경/NNP
+교수	교수/NNG
+=	=/SW
+상식적으로	상식/NNG + 적/XSN + 으로/JKB
+말해	말/NNG + 하/XSV + 아/EC
+정부가	정부/NNG + 가/JKS
+할	하/VV + ㄹ/ETM
+일을	일/NNG + 을/JKO
+제대로	제대로/MAG
+하는	하/VV + 는/ETM
+것이	것/NNB + 이/JKS
+개혁이다.	개혁/NNG + 이/VCP + 다/EF + ./SF
+
+성장을	성장/NNG + 을/JKO
+위한	위하/VV + ㄴ/ETM
+개혁과	개혁/NNG + 과/JC
+형평을	형평/NNG + 을/JKO
+위한	위하/VV + ㄴ/ETM
+개혁,	개혁/NNG + ,/SP
+안정을	안정/NNG + 을/JKO
+위한	위하/VV + ㄴ/ETM
+개혁이	개혁/NNG + 이/JKS
+따로	따로/MAG
+있는	있/VV + 는/ETM
+것처럼	것/NNB + 처럼/JKB
+말하고	말/NNG + 하/XSV + 고/EC
+있지만,	있/VX + 지만/EC + ,/SP
+개혁을	개혁/NNG + 을/JKO
+하면	하/VV + 면/EC
+그	그/MM
+세가지가	세/MM + 가지/NNB + 가/JKS
+효율적으로	효율/NNG + 적/XSN + 으로/JKB
+달성된다.	달성/NNG + 되/XSV + ㄴ다/EF + ./SF
+
+개혁을	개혁/NNG + 을/JKO
+하면	하/VV + 면/EC
+안정을	안정/NNG + 을/JKO
+해친다는	해치/VV + ㄴ다는/ETM
+논리는	논리/NNG + 는/JX
+그걸	그것/NP + ㄹ/JKO
+피하려는	피하/VV + 려는/ETM
+핑계일	핑계/NNG + 이/VCP + ㄹ/ETM
+뿐이다.	뿐/NNB + 이/VCP + 다/EF + ./SF
+
+경제의	경제/NNG + 의/JKG
+어려움을	어려움/NNG + 을/JKO
+극복하고	극복/NNG + 하/XSV + 고/EC
+난	나/VX + ㄴ/ETM
+뒤에	뒤/NNG + 에/JKB
+금융실명제를	금융/NNG + 실명/NNG + 제/XSN + 를/JKO
+실시하겠다는	실시/NNG + 하/XSV + 겠/EP + 다는/ETM
+것은	것/NNB + 은/JX
+가장	가장/MAG
+비겁한	비겁/XR + 하/XSA + ㄴ/ETM
+변명이다.	변명/NNG + 이/VCP + 다/EF + ./SF
+
+경제는	경제/NNG + 는/JX
+어렵지	어렵/VA + 지/EC
+않는	않/VX + 는/ETM
+날이	날/NNG + 이/JKS
+없는데	없/VA + 는데/EC
+경제가	경제/NNG + 가/JKS
+어렵지	어렵/VA + 지/EC
+않을	않/VX + 을/ETM
+때	때/NNG
+하겠다는	하/VV + 겠/EP + 다는/ETM
+것은	것/NNB + 은/JX
+하지	하/VV + 지/EC
+않겠다는	않/VX + 겠/EP + 다는/ETM
+뜻이나	뜻/NNG + 이나/JX
+마찬가지다.	마찬가지/NNG + 이/VCP + 다/EF + ./SF
+
+또	또/MAG
+금융실명제의	금융/NNG + 실명/NNG + 제/XSN + 의/JKG
+부작용에	부작용/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+걱정은	걱정/NNG + 은/JX
+금융가명제를	금융/NNG + 가명/NNG + 제/XSN + 를/JKO
+해서	하/VV + 아서/EC
+득보는	득/NNG + 보/VV + 는/ETM
+사람들의	사람/NNG + 들/XSN + 의/JKG
+변명에	변명/NNG + 에/JKB
+불과하다.	불과/MAG + 하/XSA + 다/EF + ./SF
+
+새	새/MM
+정부가	정부/NNG + 가/JKS
+유능한	유능/NNG + 하/XSA + ㄴ/ETM
+정부냐	정부/NNG + 이/VCP + 냐/EC
+아니냐,	아니/VCN + 냐/EC + ,/SP
+또	또/MAG
+정직한	정직/NNG + 하/XSA + ㄴ/ETM
+정부냐	정부/NNG + 이/VCP + 냐/EC
+아니냐는,	아니/VCN + 냐/EC + 는/JX + ,/SP
+실명제의	실명/NNG + 제/XSN + 의/JKG
+즉시	즉시/NNG
+실시	실시/NNG
+여부에	여부/NNG + 에/JKB
+달려	달리/VV + 어/EC
+있다는	있/VX + 다는/ETM
+점을	점/NNG + 을/JKO
+명심해야	명심/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+박진상	박진상/NNP
+교수	교수/NNG
+=	=/SW
+문민정부를	문민정부/NNG + 를/JKO
+너무	너무/MAG
+강조하다	강조/NNG + 하/XSV + 다/EC
+보니	보/VV + 니/EC
+오히려	오히려/MAG
+초점이	초점/NNG + 이/JKS
+흐려진다.	흐리/VA + 어/EC + 지/VX + ㄴ다/EF + ./SF
+
+문민정부건	문민정부/NNG + 이/VCP + 건/EC
+아니건	아니/VCN + 건/EC
+간에	간/NNB + 에/JKB
+우리가	우리/NP + 가/JKS
+추진해	추진/NNG + 하/XSV + 아/EC
+나가야	나가/VX + 아야/EC
+할	하/VX + ㄹ/ETM
+당면	당면/NNG
+과제를	과제/NNG + 를/JKO
+해결해	해결/NNG + 하/XSV + 아/EC
+나가야	나가/VX + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+30년	30/SN + 년/NNB
+동안	동안/NNG
+쌓였던	쌓이/VV + 었/EP + 던/ETM
+것들이	것/NNB + 들/XSN + 이/JKS
+단번에	단번에/MAG
+해결되리라는	해결/NNG + 되/XSV + 리라는/ETM
+과도한	과도/NNG + 하/XSA + ㄴ/ETM
+기대감이	기대감/NNG + 이/JKS
+걸러져야	거르/VV + 어/EC + 지/VX + 어야/EC
+실제	실제/NNG
+필요한	필요/NNG + 하/XSA + ㄴ/ETM
+핵심	핵심/NNG
+과제를	과제/NNG + 를/JKO
+추진해	추진/NNG + 하/XSV + 아/EC
+나갈	나가/VX + ㄹ/ETM
+수	수/NNB
+있을	있/VV + 을/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+비인플레적	비/XPN + 인플레/NNG + 적/XSN
+재정	재정/NNG
+정책에	정책/NNG + 에/JKB
+관한	관하/VV + ㄴ/ETM
+부분에는	부분/NNG + 에/JKB + 는/JX
+상당한	상당/NNG + 하/XSA + ㄴ/ETM
+논란의	논란/NNG + 의/JKG
+여지가	여지/NNG + 가/JKS
+있다.	있/VV + 다/EF + ./SF
+
+확보한	확보/NNG + 하/XSV + ㄴ/ETM
+재원을	재원/NNG + 을/JKO
+어떻게	어떻/VA + 게/EC
+지출하느냐에	지출/NNG + 하/XSV + 느냐/EC + 에/JKB
+따라	따르/VV + 아/EC
+인플레에	인플레/NNG + 에/JKB
+영향을	영향/NNG + 을/JKO
+줄	주/VV + ㄹ/ETM
+수	수/NNB
+있기	있/VV + 기/ETN
+때문이다.	때문/NNB + 이/VCP + 다/EF + ./SF
+
+금융	금융/NNG
+자율화가	자율/NNG + 화/XSN + 가/JKS
+곧	곧/MAG
+중소기업	중소기업/NNG
+육성책이란	육성책/NNG + 이/VCP + 란/ETM
+것에	것/NNB + 에/JKB
+대해서도	대하/VV + 아서/EC + 도/JX
+이의가	이의/NNG + 가/JKS
+있다.	있/VV + 다/EF + ./SF
+
+금융	금융/NNG
+자율화가	자율/NNG + 화/XSN + 가/JKS
+현안이	현안/NNG + 이/JKC
+돼	되/VV + 어/EC
+있는	있/VX + 는/ETM
+특정	특정/NNG
+분야에	분야/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+집중	집중/NNG
+지원으로	지원/NNG + 으로/JKB
+이어지지만은	이어지/VV + 지만/EC + 은/JX
+않는다는	않/VX + 는다는/ETM
+현실을	현실/NNG + 을/JKO
+어떻게	어떻/VA + 게/EC
+해결할	해결/NNG + 하/XSV + ㄹ/ETM
+것인가가	것/NNB + 이/VCP + ㄴ가/EC + 가/JKS
+과제인	과제/NNG + 이/VCP + ㄴ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+현안이	현안/NNG + 이/JKC
+돼	되/VV + 어/EC
+있는	있/VX + 는/ETM
+중소기업	중소기업/NNG
+부문에서	부문/NNG + 에서/JKB
+금융	금융/NNG
+자율화에	자율/NNG + 화/XSN + 에/JKB
+상응하는	상응/NNG + 하/XSV + 는/ETM
+자율적	자율/NNG + 적/XSN
+노력도	노력/NNG + 도/JX
+있어야	있/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+한흥수	한흥수/NNP
+교수	교수/NNG
+=	=/SW
+노태우	노태우/NNP
+정권은	정권/NNG + 은/JX
+정당성의	정당/XR + 성/XSN + 의/JKG
+위기,	위기/NNG + ,/SP
+정책	정책/NNG
+침투의	침투/NNG + 의/JKG
+위기,	위기/NNG + ,/SP
+일체성의	일체/NNG + 성/XSN + 의/JKG
+위기,	위기/NNG + ,/SP
+참여의	참여/NNG + 의/JKG
+위기,	위기/NNG + ,/SP
+분배의	분배/NNG + 의/JKG
+위기	위기/NNG
+등	등/NNB
+5가지의	5/SN + 가지/NNB + 의/JKG
+위기를	위기/NNG + 를/JKO
+모두	모두/MAG
+안고	안/VV + 고/EC
+있었다.	있/VX + 었/EP + 다/EF + ./SF
+
+그러나	그러나/MAJ
+14대	14/SN + 대/NNB
+대선을	대선/NNG + 을/JKO
+거치면서	거치/VV + 면서/EC
+정당성의	정당/XR + 성/XSN + 의/JKG
+위기와	위기/NNG + 와/JC
+정책	정책/NNG
+침투의	침투/NNG + 의/JKG
+위기는	위기/NNG + 는/JX
+상당히	상당히/MAG
+극복이	극복/NNG + 이/JKC
+될	되/VV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+전망된다.	전망/NNG + 되/XSV + ㄴ다/EF + ./SF
+
+그러나	그러나/MAJ
+손쉽게	손쉽/VA + 게/EC
+해결	해결/NNG
+안되는	안/MAG + 되/XSV + 는/ETM
+것이	것/NNB + 이/JKS
+참여와	참여/NNG + 와/JC
+분배의	분배/NNG + 의/JKG
+위기	위기/NNG
+문제다.	문제/NNG + 이/VCP + 다/EF + ./SF
+
+그리고	그리고/MAJ
+선거	선거/NNG
+과정에서	과정/NNG + 에서/JKB
+일체성의	일체/NNG + 성/XSN + 의/JKG
+위기는	위기/NNG + 는/JX
+극복될	극복/NNG + 되/XSV + ㄹ/ETM
+줄	줄/NNB
+알았는데	알/VV + 았/EP + 는데/EC
+막판	막판/NNG
+부산	부산/NNP
+기관장	기관장/NNG
+사건과	사건/NNG + 과/JC
+투표	투표/NNG
+결과는	결과/NNG + 는/JX
+그것을	그것/NP + 을/JKO
+극복하기	극복/NNG + 하/XSV + 기/ETN
+어려운	어렵/VA + ㄴ/ETM
+상황으로	상황/NNG + 으로/JKB
+몰고	몰/VV + 고/EC
+가고	가/VX + 고/EC
+말았다.	말/VX + 았/EP + 다/EF + ./SF
+
+새	새/MM
+정부가	정부/NNG + 가/JKS
+이번	이번/NNG
+대선을	대선/NNG + 을/JKO
+통해	통하/VV + 아/EC
+획득한	획득/NNG + 하/XSV + ㄴ/ETM
+정당성을	정당/XR + 성/XSN + 을/JKO
+유지하기	유지/NNG + 하/XSV + 기/ETN
+위해서는	위하/VV + 아서/EC + 는/JX
+정권의	정권/NNG + 의/JKG
+기능	기능/NNG
+수행	수행/NNG
+과정이	과정/NNG + 이/JKS
+정당성을	정당/XR + 성/XSN + 을/JKO
+얻어야	얻/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+정권의	정권/NNG + 의/JKG
+기능	기능/NNG
+수행	수행/NNG
+과정에서	과정/NNG + 에서/JKB
+정당성을	정당/XR + 성/XSN + 을/JKO
+확보하는	확보/NNG + 하/XSV + 는/ETM
+요체는	요체/NNG + 는/JX
+정치의	정치/NNG + 의/JKG
+도덕성과	도덕/NNG + 성/XSN + 과/JC
+정책의	정책/NNG + 의/JKG
+공익성을	공익/NNG + 성/XSN + 을/JKO
+지켜	지키/VV + 어/EC
+나가는데	나가/VX + 는데/EC
+있다.	있/VV + 다/EF + ./SF
+
+안청시	안청시/NNP
+교수	교수/NNG
+=	=/SW
+정치제도	정치/NNG + 제도/NNG
+개선은	개선/NNG + 은/JX
+경제적인	경제/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+것과	것/NNB + 과/JC
+구조적인	구조/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+것	것/NNB
+등에	등/NNB + 에/JKB
+결부돼	결부/NNG + 되/XSV + 어/EC
+있는	있/VX + 는/ETM
+만큼	만큼/NNB
+이들을	이/NP + 들/XSN + 을/JKO
+함께	함께/MAG
+개혁해	개혁/NNG + 하/XSV + 아/EC
+나가야	나가/VX + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+김	김/NNP
+차기	차기/NNG
+대통령의	대통령/NNG + 의/JKG
+개혁의	개혁/NNG + 의/JKG
+구조적인	구조/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+여건을	여건/NNG + 을/JKO
+보면	보/VV + 면/EC
+차기	차기/NNG
+정권의	정권/NNG + 의/JKG
+주체	주체/NNG
+세력이	세력/NNG + 이/JKS
+바로	바로/MAG
+개혁	개혁/NNG
+대상인데	대상/NNG + 이/VCP + ㄴ데/EC
+그들이	그/NP + 들/XSN + 이/JKS
+주도하는	주도/NNG + 하/XSV + 는/ETM
+개혁의	개혁/NNG + 의/JKG
+결과가	결과/NNG + 가/JKS
+어떨지	어떻/VA + ㄹ지/EC
+궁금하다.	궁금/XR + 하/XSA + 다/EF + ./SF
+
+새	새/MM
+정부는	정부/NNG + 는/JX
+경제에	경제/NNG + 에/JKB
+치중을	치중/NNG + 을/JKO
+하고	하/VV + 고/EC
+있는	있/VX + 는/ETM
+데,	데/NNB + ,/SP
+경제뿐만	경제/NNG + 뿐/JX + 만/JX
+아니라	아니/VCN + 라/EC
+외교	외교/NNG
+안보	안보/NNG
+분야에도	분야/NNG + 에/JKB + 도/JX
+개선	개선/NNG
+보완돼야	보완/NNG + 되/XSV + 어야/EC
+할	하/VV + ㄹ/ETM
+점이	점/NNG + 이/JKS
+많다.	많/VA + 다/EF + ./SF
+
+정치	정치/NNG
+개혁에	개혁/NNG + 에/JKB
+정당성과	정당/XR + 성/XSN + 과/JC
+효율성	효율/NNG + 성/XSN
+도덕성을	도덕/NNG + 성/XSN + 을/JKO
+강조하고	강조/NNG + 하/XSV + 고/EC
+있는	있/VX + 는/ETM
+데	데/NNB
+국제화도	국제/NNG + 화/XSN + 도/JX
+고려해야	고려/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+통일에	통일/NNG + 에/JKB
+대한	대한/NNP
+준비	준비/NNG
+문제도	문제/NNG + 도/JX
+개혁의	개혁/NNG + 의/JKG
+범주에	범주/NNG + 에/JKB
+넣어	넣/VV + 어/EC
+국가	국가/NNG
+운영의	운영/NNG + 의/JKG
+장기	장기/NNG
+비전을	비전/NNG + 을/JKO
+세워	세우/VV + 어/EC
+나가야	나가/VX + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+대통령이	대통령/NNG + 이/JKS
+다수당을	다수당/NNG + 을/JKO
+이끌고	이끌/VV + 고/EC
+있다는	있/VX + 다는/ETM
+것이	것/NNB + 이/JKS
+개혁	개혁/NNG
+추진에	추진/NNG + 에/JKB
+도움이	도움/NNG + 이/JKC
+되기도	되/VV + 기/ETN + 도/JX
+하지만	하/VX + 지만/EC
+오히려	오히려/MAG
+저해	저해/NNG
+요인이	요인/NNG + 이/JKC
+될	되/VV + ㄹ/ETM
+수도	수/NNB + 도/JX
+있다.	있/VV + 다/EF + ./SF
+
+이	이/NP
+같은	같/VA + 은/ETM
+문제를	문제/NNG + 를/JKO
+해결할	해결/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+장치와	장치/NNG + 와/JC
+기구가	기구/NNG + 가/JKS
+필요하다.	필요/NNG + 하/XSA + 다/EF + ./SF
+
+박동서	박동서/NNP
+교수	교수/NNG
+=	=/SW
+정치와	정치/NNG + 와/JC
+경제	경제/NNG
+양자간의	양자/NNG + 간/NNB + 의/JKG
+관계를	관계/NNG + 를/JKO
+어떻게	어떻/VA + 게/EC
+정립해	정립/NNG + 하/XSV + 아/EC
+나가는가	나가/VX + 는가/EC
+하는	하/VX + 는/ETM
+것이	것/NNB + 이/JKS
+개혁의	개혁/NNG + 의/JKG
+핵심	핵심/NNG
+과제라	과제/NNG + 이/VCP + 라/EC
+할	하/VV + ㄹ/ETM
+수	수/NNB
+있다.	있/VV + 다/EF + ./SF
+
+그것의	그것/NP + 의/JKG
+핵심은	핵심/NNG + 은/JX
+또	또/MAG
+금융실명제가	금융/NNG + 실명/NNG + 제/XSN + 가/JKC
+아닌가	아니/VCN + ㄴ가/EC
+한다.	하/VV + ㄴ다/EF + ./SF
+
+그걸	그것/NP + ㄹ/JKO
+위해서는	위하/VV + 아서/EC + 는/JX
+정치권의	정치/NNG + 권/XSN + 의/JKG
+민주화가	민주/NNG + 화/XSN + 가/JKS
+선행돼야	선행/NNG + 되/XSV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+김	김/NNP
+차기	차기/NNG
+대통령에	대통령/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+기대가	기대/NNG + 가/JKS
+크지만,	크/VA + 지만/EC + ,/SP
+개혁은	개혁/NNG + 은/JX
+김	김/NNP
+차기	차기/NNG
+대통령	대통령/NNG
+혼자	혼자/NNG
+한다고	하/VV + ㄴ다고/EC
+되는	되/VV + 는/ETM
+게	것/NNB + 이/JKC
+아니다.	아니/VCN + 다/EF + ./SF
+
+하다가	하/VV + 다가/EC
+보면	보/VX + 면/EC
+이래저래	이래저래/MAG
+손발이	손발/NNG + 이/JKS
+묶일	묶이/VV + ㄹ/ETM
+가능성이	가능/NNG + 성/XSN + 이/JKS
+높다.	높/VA + 다/EF + ./SF
+
+따라서	따라서/MAJ
+민에	민/NNG + 에/JKB
+의한	의하/VV + ㄴ/ETM
+압력이	압력/NNG + 이/JKS
+중요하다.	중요/NNG + 하/XSA + 다/EF + ./SF
+
+시민,	시민/NNG + ,/SP
+이익	이익/NNG
+단체,	단체/NNG + ,/SP
+학계	학계/NNG
+등이	등/NNB + 이/JKS
+개혁에	개혁/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+압력을	압력/NNG + 을/JKO
+강도	강도/NNG
+높게	높/VA + 게/EC
+가해야	가하/VV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+한국전	한국전/NNG
+참전의	참전/NNG + 의/JKG
+경험을	경험/NNG + 을/JKO
+가진	가지/VV + ㄴ/ETM
+나에게	나/NP + 에게/JKB
+한국은	한국/NNP + 은/JX
+고향에	고향/NNG + 에/JKB
+온	오/VV + ㄴ/ETM
+느낌을	느낌/NNG + 을/JKO
+주는	주/VV + 는/ETM
+곳이다.	곳/NNG + 이/VCP + 다/EF + ./SF
+
+한국은	한국/NNP + 은/JX
+그동안	그동안/NNG
+자유경제를	자유/NNG + 경제/NNG + 를/JKO
+바탕으로	바탕/NNG + 으로/JKB
+눈부신	눈부시/VA + ㄴ/ETM
+성장을	성장/NNG + 을/JKO
+계속,	계속/MAG + ,/SP
+세계적인	세계/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+성과를	성과/NNG + 를/JKO
+거두었다.	거두/VV + 었/EP + 다/EF + ./SF
+
+근대화를	근대/NNG + 화/XSN + 를/JKO
+추진하던	추진/NNG + 하/XSV + 던/ETM
+당시	당시/NNG
+포항제철의	포항제철/NNP + 의/JKG
+건립을	건립/NNG + 을/JKO
+두고	두/VV + 고/EC
+세계은행에서는	세계은행/NNP + 에서/JKB + 는/JX
+회의적인	회의/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+반응을	반응/NNG + 을/JKO
+보였지만	보이/VV + 었/EP + 지만/EC
+결국	결국/NNG
+포철은	포철/NNP + 은/JX
+세계에서	세계/NNG + 에서/JKB
+가장	가장/MAG
+효율적인	효율/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+철강회사의	철강/NNG + 회사/NNG + 의/JKG
+하나로	하나/NR + 로/JKB
+성장했다.	성장/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+이	이/NP
+같은	같/VA + 은/ETM
+한국의	한국/NNP + 의/JKG
+성장은	성장/NNG + 은/JX
+자유로운	자유/NNG + 롭/XSA + ㄴ/ETM
+경제가	경제/NNG + 가/JKS
+얼마나	얼마나/MAG
+큰	크/VA + ㄴ/ETM
+힘을	힘/NNG + 을/JKO
+발휘할	발휘/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있느냐를	있/VV + 느냐/EC + 를/JKO
+보여	보이/VV + 어/EC
+주는	주/VX + 는/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+한국은	한국/NNP + 은/JX
+또	또/MAG
+경제	경제/NNG
+성장에	성장/NNG + 에/JKB
+이어	이어/MAG
+민주화를	민주/NNG + 화/XSN + 를/JKO
+이룩하는	이룩/XR + 하/XSV + 는/ETM
+모범적인	모범/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+모습도	모습/NNG + 도/JX
+보이고	보이/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+필리핀은	필리핀/NNP + 은/JX
+지난	지나/VV + ㄴ/ETM
+89년	89/SN + 년/NNB
+평화적으로	평화/NNG + 적/XSN + 으로/JKB
+민주화를	민주/NNG + 화/XSN + 를/JKO
+이룩하고	이룩/XR + 하/XSV + 고/EC
+앞으로	앞/NNG + 으로/JKB
+6년	6/SN + 년/NNB
+동안	동안/NNG
+경제를	경제/NNG + 를/JKO
+발전시키자는	발전/NNG + 시키/XSV + 자는/ETM
+'필리핀	'/SS + 필리핀/NNP
+2000'계획을	2000/SN + '/SS + 계획/NNG + 을/JKO
+추진	추진/NNG
+중이다.	중/NNB + 이/VCP + 다/EF + ./SF
+
+외국인들의	외국인/NNG + 들/XSN + 의/JKG
+투자를	투자/NNG + 를/JKO
+자유화하고	자유/NNG + 화/XSN + 하/XSV + 고/EC
+관세도	관세/NNG + 도/JX
+인하했다.	인하/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+이	이/MM
+모든	모든/MM
+것이	것/NNB + 이/JKS
+독립적인	독립/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+각	각/MM
+지역	지역/NNG
+경제가	경제/NNG + 가/JKS
+협력	협력/NNG
+체제를	체제/NNG + 를/JKO
+갖출	갖추/VV + ㄹ/ETM
+때만이	때/NNG + 만/JX + 이/JKS
+가능하다.	가능/NNG + 하/XSA + 다/EF + ./SF
+
+냉전	냉전/NNG
+시대에는	시대/NNG + 에/JKB + 는/JX
+경제적으로	경제/NNG + 적/XSN + 으로/JKB
+발전한	발전/NNG + 하/XSV + ㄴ/ETM
+나라들이	나라/NNG + 들/XSN + 이/JKS
+군사적으로	군사/NNG + 적/XSN + 으로/JKB
+성장,	성장/NNG + ,/SP
+끝내는	끝내/VV + 는/ETM
+제국주의화하는	제국주의/NNG + 화/XSN + 하/XSV + 는/ETM
+경향을	경향/NNG + 을/JKO
+나타냈었다.	나타내/VV + 었었/EP + 다/EF + ./SF
+
+그러나	그러나/MAJ
+이제	이제/MAG
+국제	국제/NNG
+사회에서는	사회/NNG + 에서/JKB + 는/JX
+상호	상호/NNG
+혜택	혜택/NNG
+없는	없/VA + 는/ETM
+일반적인	일반/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+거래는	거래/NNG + 는/JX
+허용되지	허용/NNG + 되/XSV + 지/EC
+않는다.	않/VX + 는다/EF + ./SF
+
+이념도	이념/NNG + 도/JX
+민족주의도	민족주의/NNG + 도/JX
+경제	경제/NNG
+협력에	협력/NNG + 에/JKB
+우선할	우선/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+없는	없/VA + 는/ETM
+상황이	상황/NNG + 이/JKS
+전개되고	전개/NNG + 되/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+경제에	경제/NNG + 에/JKB
+있어	있/VV + 어/EC
+경쟁은	경쟁/NNG + 은/JX
+제로섬	제로섬/NNG
+게임이	게임/NNG + 이/JKC
+아니다.	아니/VCN + 다/EF + ./SF
+
+모두가	모두/NNG + 가/JKS
+이길	이기/VV + ㄹ/ETM
+수도	수/NNB + 도/JX
+있는	있/VV + 는/ETM
+것이며	것/NNB + 이/VCP + 며/EC
+상대적으로	상대/NNG + 적/XSN + 으로/JKB
+다소	다소/MAG
+손실을	손실/NNG + 을/JKO
+입은	입/VV + 은/ETM
+경우라	경우/NNG + 이/VCP + 라/EC
+하더라도	하/VV + 더라도/EC
+다시	다시/MAG
+시작할	시작/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+아시아	아시아/NNP
+6	6/SN
+개국은	개국/NNB + 은/JX
+현재	현재/MAG
+경제	경제/NNG
+협력	협력/NNG
+관계를	관계/NNG + 를/JKO
+강화하기	강화/NNG + 하/XSV + 기/ETN
+위한	위하/VV + ㄴ/ETM
+작업을	작업/NNG + 을/JKO
+진행	진행/NNG
+중이지만,	중/NNB + 이/VCP + 지만/EC + ,/SP
+이	이/MM
+작업이	작업/NNG + 이/JKS
+세계를	세계/NNG + 를/JKO
+'적'과	'/SS + 적/NNG + '/SS + 과/JC
+'친구'로	'/SS + 친구/NNG + '/SS + 로/JKB
+양분하는	양분/NNG + 하/XSV + 는/ETM
+잘못을	잘못/NNG + 을/JKO
+피해야	피하/VV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+경제	경제/NNG
+협력을	협력/NNG + 을/JKO
+이유로	이유/NNG + 로/JKB
+아시아를	아시아/NNP + 를/JKO
+세계에서	세계/NNG + 에서/JKB
+고립시켜서는	고립/NNG + 시키/XSV + 어서/EC + 는/JX
+안	안/MAG
+되며,	되/VV + 며/EC + ,/SP
+스스로를	스스로/NNG + 를/JKO
+무역	무역/NNG
+장벽으로	장벽/NNG + 으로/JKB
+보호해서는	보호/NNG + 하/XSV + 아서/EC + 는/JX
+안된다.	안/MAG + 되/XSV + ㄴ다/EF + ./SF
+
+폐쇄적인	폐쇄/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+독립	독립/NNG
+경제	경제/NNG
+체제가	체제/NNG + 가/JKS
+위험하다는	위험/NNG + 하/XSA + 다는/ETM
+것은	것/NNB + 은/JX
+자명해졌다.	자명/XR + 하/XSA + 아/EC + 지/VX + 었/EP + 다/EF + ./SF
+
+우리는	우리/NP + 는/JX
+이제	이제/MAG
+생각의	생각/NNG + 의/JKG
+틀을	틀/NNG + 을/JKO
+바꿔	바꾸/VV + 어/EC
+나가야	나가/VX + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+아시아를	아시아/NNP + 를/JKO
+하나의	하나/NR + 의/JKG
+무대로	무대/NNG + 로/JKB
+생각하고,	생각/NNG + 하/XSV + 고/EC + ,/SP
+여기에서	여기/NP + 에서/JKB
+세계로	세계/NNG + 로/JKB
+시야를	시야/NNG + 를/JKO
+넓혀	넓히/VV + 어/EC
+나가는	나가/VX + 는/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+협력을	협력/NNG + 을/JKO
+통해	통하/VV + 아/EC
+얻어	얻/VV + 어/EC
+낼	내/VX + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+잠재력을	잠재력/NNG + 을/JKO
+개발하는	개발/NNG + 하/XSV + 는/ETM
+데	데/NNB
+힘을	힘/NNG + 을/JKO
+모아야	모으/VV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+아시아	아시아/NNP
+지역의	지역/NNG + 의/JKG
+경제	경제/NNG
+성장은	성장/NNG + 은/JX
+결국	결국/NNG
+이	이/MM
+지역	지역/NNG
+주민들의	주민/NNG + 들/XSN + 의/JKG
+복지를	복지/NNG + 를/JKO
+확대하고,	확대/NNG + 하/XSV + 고/EC + ,/SP
+궁극적으로는	궁극/NNG + 적/XSN + 으로/JKB + 는/JX
+인간의	인간/NNG + 의/JKG
+자유를	자유/NNG + 를/JKO
+확대한다는	확대/NNG + 하/XSV + ㄴ다는/ETM
+차원에서도	차원/NNG + 에서/JKB + 도/JX
+경제	경제/NNG
+협력은	협력/NNG + 은/JX
+모두를	모두/NNG + 를/JKO
+위해	위하/VV + 아/EC
+필요한	필요/NNG + 하/XSA + ㄴ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+정치가들은	정치가/NNG + 들/XSN + 은/JX
+가끔	가끔/MAG
+그들의	그/NP + 들/XSN + 의/JKG
+치적과	치적/NNG + 과/JC
+견해를	견해/NNG + 를/JKO
+과장하는	과장/NNG + 하/XSV + 는/ETM
+일이	일/NNG + 이/JKS
+있지만	있/VV + 지만/EC
+경제인들은	경제인/NNG + 들/XSN + 은/JX
+그렇지	그렇/VA + 지/EC
+않다.	않/VX + 다/EF + ./SF
+
+오늘	오늘/NNG
+이	이/MM
+자리에	자리/NNG + 에/JKB
+모인	모이/VV + ㄴ/ETM
+경제인들이야말로	경제인/NNG + 들/XSN + 이야말로/JX
+아시아-태평양지역의	아시아/NNP + -/SS + 태평양/NNP + 지역/NNG + 의/JKG
+번영을	번영/NNG + 을/JKO
+만들어	만들/VV + 어/EC
+낸	내/VX + ㄴ/ETM
+사람들이다.	사람/NNG + 들/XSN + 이/VCP + 다/EF + ./SF
+
+미래의	미래/NNG + 의/JKG
+번영을	번영/NNG + 을/JKO
+이끌어	이끌/VV + 어/EC
+낼	내/VX + ㄹ/ETM
+사람들	사람/NNG + 들/XSN
+역시	역시/MAG
+이	이/MM
+자리에	자리/NNG + 에/JKB
+모인	모이/VV + ㄴ/ETM
+경제인들이다.	경제인/NNG + 들/XSN + 이/VCP + 다/EF + ./SF
+
+서기	서기/NNG
+2020년이	2020/SN + 년/NNB + 이/JKC
+되면	되/VV + 면/EC
+태평양	태평양/NNP
+지역의	지역/NNG + 의/JKG
+경제는	경제/NNG + 는/JX
+서유럽	서유럽/NNP
+경제의	경제/NNG + 의/JKG
+2.5배에	2/SN + ./SP + 5/SN + 배/NNG + 에/JKB
+이르는	이르/VV + 는/ETM
+규모로	규모/NNG + 로/JKB
+성장할	성장/NNG + 하/XSV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+그러나	그러나/MAJ
+태평양	태평양/NNP
+지역의	지역/NNG + 의/JKG
+경제	경제/NNG
+번영이	번영/NNG + 이/JKS
+보장되려면	보장/NNG + 되/XSV + 려면/EC
+이	이/MM
+지역이	지역/NNG + 이/JKS
+항상	항상/MAG
+개방적인	개방/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+자세를	자세/NNG + 를/JKO
+취해야	취하/VV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+개방	개방/NNG
+체제는	체제/NNG + 는/JX
+아시아	아시아/NNP
+경제는	경제/NNG + 는/JX
+물론	물론/MAG
+세계	세계/NNG
+경제를	경제/NNG + 를/JKO
+위해서도	위하/VV + 아서/EC + 도/JX
+중요한	중요/NNG + 하/XSA + ㄴ/ETM
+일이다.	일/NNG + 이/VCP + 다/EF + ./SF
+
+우리의	우리/NP + 의/JKG
+최종	최종/NNG
+목표는	목표/NNG + 는/JX
+세계를	세계/NNG + 를/JKO
+하나의	하나/NR + 의/JKG
+자유로운	자유/NNG + 롭/XSA + ㄴ/ETM
+시장으로	시장/NNG + 으로/JKB
+만드는	만들/VV + 는/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+자유무역은	자유/NNG + 무역/NNG + 은/JX
+민주주의와	민주주의/NNG + 와/JKB
+마찬가지로	마찬가지/NNG + 로/JKB
+불완전하지만	불/XPN + 완전/NNG + 하/XSA + 지만/EC
+가장	가장/MAG
+중요한	중요/NNG + 하/XSA + ㄴ/ETM
+이념이다.	이념/NNG + 이/VCP + 다/EF + ./SF
+
+시장경제	시장/NNG + 경제/NNG
+체제는	체제/NNG + 는/JX
+세계	세계/NNG
+경제	경제/NNG
+체제에	체제/NNG + 에/JKB
+있어	있/VV + 어/EC
+가장	가장/MAG
+합리적인	합리/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+제도이며	제도/NNG + 이/VCP + 며/EC
+최선의	최선/NNG + 의/JKG
+효과를	효과/NNG + 를/JKO
+보장하는	보장/NNG + 하/XSV + 는/ETM
+제도이다.	제도/NNG + 이/VCP + 다/EF + ./SF
+
+통제경제의	통제/NNG + 경제/NNG + 의/JKG
+모순점은	모순/NNG + 점/NNG + 은/JX
+이미	이미/MAG
+드러났다.	드러나/VV + 았/EP + 다/EF + ./SF
+
+세계는	세계/NNG + 는/JX
+이미	이미/MAG
+하나의	하나/NR + 의/JKG
+블록화하고	블록/NNG + 화/XSN + 하/XSV + 고/EC
+있으며	있/VX + 으며/EC
+역외국이라고	역외국/NNG + 이/VCP + 라고/EC
+해서	하/VV + 아서/EC
+어떤	어떤/MM
+불이익을	불/XPN + 이익/NNG + 을/JKO
+주어서는	주/VV + 어서/EC + 는/JX
+안되는	안/MAG + 되/XSV + 는/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+개방	개방/NNG
+경제는	경제/NNG + 는/JX
+우리의	우리/NP + 의/JKG
+모든	모든/MM
+것이	것/NNB + 이/JKS
+걸려	걸리/VV + 어/EC
+있는	있/VX + 는/ETM
+가장	가장/MAG
+중요한	중요/NNG + 하/XSA + ㄴ/ETM
+명제다.	명제/NNG + 이/VCP + 다/EF + ./SF
+
+그러나	그러나/MAJ
+정치인들은	정치인/NNG + 들/XSN + 은/JX
+입으로는	입/NNG + 으로/JKB + 는/JX
+개방	개방/NNG
+경제	경제/NNG
+체제의	체제/NNG + 의/JKG
+미덕을	미덕/NNG + 을/JKO
+역설하면서도	역설/NNG + 하/XSV + 면서/EC + 도/JX
+실제	실제/NNG
+행동은	행동/NNG + 은/JX
+다른	다르/VA + ㄴ/ETM
+경우가	경우/NNG + 가/JKS
+있다.	있/VV + 다/EF + ./SF
+
+아-태	아/NNP + -/SS + 태/NNP
+경제	경제/NNG
+협력	협력/NNG
+기구(APEC)	기구/NNG + (/SS + APEC/SL + )/SS
+회원국	회원국/NNG
+중	중/NNB
+지역	지역/NNG
+경제	경제/NNG
+협약을	협약/NNG + 을/JKO
+체결하지	체결/NNG + 하/XSV + 지/EC
+않는	않/VX + 는/ETM
+나라는	나라/NNG + 는/JX
+동아시아	동아시아/NNP
+국가들	국가/NNG + 들/XSN
+뿐이다.	뿐/JX + 이/VCP + 다/EF + ./SF
+
+호주와	호주/NNP + 와/JC
+뉴질랜드가	뉴질랜드/NNP + 가/JKS
+경제	경제/NNG
+협약을	협약/NNG + 을/JKO
+체결한	체결/NNG + 하/XSV + ㄴ/ETM
+것을	것/NNB + 을/JKO
+비롯한	비롯/XR + 하/XSV + ㄴ/ETM
+나머지	나머지/NNG
+회원국들은	회원국/NNG + 들/XSN + 은/JX
+모두	모두/MAG
+1,	1/SN + ,/SP
+2	2/SN
+개씩의	개/NNB + 씩/XSN + 의/JKG
+지역	지역/NNG
+경제	경제/NNG
+협약을	협약/NNG + 을/JKO
+체결하고	체결/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+지역별	지역/NNG + 별/XSN
+무역	무역/NNG
+블록은	블록/NNG + 은/JX
+차선책이기는	차선책/NNG + 이/VCP + 기/ETN + 는/JX
+하지만	하/VV + 지만/EC
+좋든	좋/VA + 든/EC
+싫든	싫/VA + 든/EC
+사라지지	사라지/VV + 지/EC
+않는다는	않/VX + 는다는/ETM
+현실을	현실/NNG + 을/JKO
+잊어서는	잊/VV + 어서/EC + 는/JX
+안된다.	안/MAG + 되/XSV + ㄴ다/EF + ./SF
+
+다만	다만/MAG
+이	이/NP
+같은	같/VA + 은/ETM
+지역주의를	지역주의/NNG + 를/JKO
+계속	계속/MAG
+진전시켜	진전/NNG + 시키/XSV + 어/EC
+세계주의로	세계주의/NNG + 로/JKB
+접근해	접근/NNG + 하/XSV + 아/EC
+나가는	나가/VX + 는/ETM
+것이	것/NNB + 이/JKS
+중요하다.	중요/NNG + 하/XSA + 다/EF + ./SF
+
+이	이/NP
+같은	같/VA + 은/ETM
+상황	상황/NNG
+속에서	속/NNG + 에서/JKB
+동아시아	동아시아/NNP
+경제	경제/NNG
+협력체(APEC)의	협력체/NNG + (/SS + APEC/SL + )/SS + 의/JKG
+중요성이	중요/NNG + 성/XSN + 이/JKS
+점점	점점/MAG
+높아지고	높/VA + 아/EC + 지/VX + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+EAEC는	EAEC/SL + 는/JX
+우리	우리/NP
+스스로	스스로/MAG
+지역	지역/NNG
+경제의	경제/NNG + 의/JKG
+이익을	이익/NNG + 을/JKO
+강화하기	강화/NNG + 하/XSV + 기/ETN
+위해	위하/VV + 아/EC
+만든	만들/VV + ㄴ/ETM
+생산적	생산/NNG + 적/XSN
+협의체이다.	협의체/NNG + 이/VCP + 다/EF + ./SF
+
+EAEC는	EAEC/SL + 는/JX
+배타적인	배타/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+무역	무역/NNG
+장벽을	장벽/NNG + 을/JKO
+만들자는	만들/VV + 자는/ETM
+것이	것/NNB + 이/JKC
+아니라	아니/VCN + 라/EC
+실질적인	실질/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+자유무역지대를	자유/NNG + 무역/NNG + 지대/NNG + 를/JKO
+만들자는	만들/VV + 자는/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+우리는	우리/NP + 는/JX
+이	이/MM
+협의체에	협의체/NNG + 에/JKB
+모두	모두/MAG
+적극적으로	적극/NNG + 적/XSN + 으로/JKB
+참여,	참여/NNG + ,/SP
+세계	세계/NNG
+경제의	경제/NNG + 의/JKG
+개방화를	개방/NNG + 화/XSN + 를/JKO
+더욱	더욱/MAG
+강력히	강력히/MAG
+추진해야	추진/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+오늘날	오늘날/NNG
+세계는	세계/NNG + 는/JX
+냉전의	냉전/NNG + 의/JKG
+종식과	종식/NNG + 과/JKB
+함께	함께/MAG
+지리,	지리/NNG + ,/SP
+정치-경제적	정치/NNG + -/SS + 경제/NNG + 적/XSN
+질서의	질서/NNG + 의/JKG
+근본적	근본/NNG + 적/XSN
+재편이	재편/NNG + 이/JKS
+이루어지고	이루어지/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+세계주의와	세계주의/NNG + 와/JC
+지역주의로	지역주의/NNG + 로/JKB
+나타나는	나타나/VV + 는/ETM
+이	이/MM
+변화는	변화/NNG + 는/JX
+적대적	적대/NNG + 적/XSN
+개념이	개념/NNG + 이/JKC
+아니며	아니/VCN + 며/EC
+양자가	양자/NNG + 가/JKS
+동반자로서	동반자/NNG + 로서/JKB
+국제	국제/NNG
+교역	교역/NNG
+환경에	환경/NNG + 에/JKB
+긍정적인	긍정/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+역할을	역할/NNG + 을/JKO
+해야	하/VV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+자국	자국/NNG
+이익	이익/NNG
+추구	추구/NNG
+등의	등/NNB + 의/JKG
+무역정책과	무역/NNG + 정책/NNG + 과/JC
+경제적	경제/NNG + 적/XSN
+블록의	블록/NNG + 의/JKG
+성립에	성립/NNG + 에/JKB
+따른	따르/VV + ㄴ/ETM
+이해	이해/NNG
+관계의	관계/NNG + 의/JKG
+충돌을	충돌/NNG + 을/JKO
+해소하기	해소/NNG + 하/XSV + 기/ETN
+위해	위하/VV + 아/EC
+GATT(관세	GATT/SL + (/SS + 관세/NNG
+무역	무역/NNG
+일반	일반/NNG
+협정)가	협정/NNG + )/SS + 가/JKS
+창설됐듯이	창설/NNG + 되/XSV + 었/EP + 듯이/EC
+지역화의	지역/NNG + 화/XSN + 의/JKG
+진전은	진전/NNG + 은/JX
+과거	과거/NNG
+1930년대의	1930/SN + 년대/NNB + 의/JKG
+블록화와는	블록/NNG + 화/XSN + 와/JKB + 는/JX
+달리	달리/MAG
+세계주의의	세계주의/NNG + 의/JKG
+근본적	근본/NNG + 적/XSN
+흐름	흐름/NNG
+속에서	속/NNG + 에서/JKB
+이루어지고	이루어지/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+지역주의는	지역주의/NNG + 는/JX
+자유	자유/NNG
+무역의	무역/NNG + 의/JKG
+증가를	증가/NNG + 를/JKO
+도모할	도모/NNG + 하/XSV + ㄹ/ETM
+수도	수/NNB + 도/JX
+있지만	있/VV + 지만/EC
+지역권별로	지역/NNG + 권/XSN + 별/XSN + 로/JKB
+고립주의를	고립주의/NNG + 를/JKO
+표방할	표방/NNG + 하/XSV + ㄹ/ETM
+수도	수/NNB + 도/JX
+있다.	있/VV + 다/EF + ./SF
+
+따라서	따라서/MAJ
+지역주의는	지역주의/NNG + 는/JX
+지역권	지역/NNG + 권/XSN
+내의	내/NNB + 의/JKG
+경제	경제/NNG
+이익	이익/NNG
+도모는	도모/NNG + 는/JX
+물론	물론/MAG
+범세계적인	범/XPN + 세계/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+협력으로	협력/NNG + 으로/JKB
+얻을	얻/VV + 을/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+이익을	이익/NNG + 을/JKO
+간과해서는	간과/NNG + 하/XSV + 아서/EC + 는/JX
+안된다.	안/MAG + 되/XSV + ㄴ다/EF + ./SF
+
+GATT의	GATT/SL + 의/JKG
+성립도	성립/NNG + 도/JX
+지역주의로	지역주의/NNG + 로/JKB
+인한	인하/VV + ㄴ/ETM
+폐해를	폐해/NNG + 를/JKO
+방지하기	방지/NNG + 하/XSV + 기/ETN
+위한	위하/VV + ㄴ/ETM
+것이라고	것/NNB + 이/VCP + 라고/EC
+할	하/VV + ㄹ/ETM
+수	수/NNB
+있으며	있/VV + 으며/EC
+세계	세계/NNG
+경제의	경제/NNG + 의/JKG
+발전을	발전/NNG + 을/JKO
+위해서는	위하/VV + 아서/EC + 는/JX
+'개방'이	'/SS + 개방/NNG + '/SS + 이/JKS
+전제되어야	전제/NNG + 되/XSV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+지역주의에	지역주의/NNG + 에/JKB
+기초한	기초/NNG + 하/XSV + ㄴ/ETM
+무역협정	무역/NNG + 협정/NNG
+등도	등/NNB + 도/JX
+지역권	지역/NNG + 권/XSN
+내의	내/NNB + 의/JKG
+국가들에게만	국가/NNG + 들/XSN + 에게/JKB + 만/JX
+이익이	이익/NNG + 이/JKC
+되는	되/VV + 는/ETM
+방향으로	방향/NNG + 으로/JKB
+추진돼서는	추진/NNG + 되/XSV + 어서/EC + 는/JX
+안	안/MAG
+되며	되/VV + 며/EC
+국가간	국가/NNG + 간/NNB
+무역	무역/NNG
+시스템의	시스템/NNG + 의/JKG
+개방에	개방/NNG + 에/JKB
+도움이	도움/NNG + 이/JKC
+되도록	되/VV + 도록/EC
+시행돼야	시행/NNG + 되/XSV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+지역권내	지역/NNG + 권/XSN + 내/NNB
+국가들도	국가/NNG + 들/XSN + 도/JX
+세계적인	세계/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+경제	경제/NNG
+발전을	발전/NNG + 을/JKO
+위한	위하/VV + ㄴ/ETM
+정책의	정책/NNG + 의/JKG
+수행에	수행/NNG + 에/JKB
+노력해야	노력/NNG + 하/XSV + 아야/EC
+하며	하/VX + 며/EC
+이러한	이러/XR + 하/XSA + ㄴ/ETM
+정책의	정책/NNG + 의/JKG
+결정은	결정/NNG + 은/JX
+강대국의	강대국/NNG + 의/JKG
+논리가	논리/NNG + 가/JKC
+아닌	아니/VCN + ㄴ/ETM
+규칙과	규칙/NNG + 과/JC
+원리에	원리/NNG + 에/JKB
+의해	의하/VV + 아/EC
+이루어져야	이루어지/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+개방된	개방/NNG + 되/XSV + ㄴ/ETM
+무역	무역/NNG
+시스템이란	시스템/NNG + 이란/JX
+상품,	상품/NNG + ,/SP
+서비스	서비스/NNG
+및	및/MAG
+자원의	자원/NNG + 의/JKG
+무제한적인	무/XPN + 제한/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+거래가	거래/NNG + 가/JKC
+아니라	아니/VCN + 라/EC
+비차별적인	비/XPN + 차별/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+원리와	원리/NNG + 와/JC
+관세에	관세/NNG + 에/JKB
+의한	의하/VV + ㄴ/ETM
+보호,	보호/NNG + ,/SP
+국가간	국가/NNG + 간/NNB
+무역	무역/NNG
+협약	협약/NNG
+등으로	등/NNB + 으로/JKB
+행해지는	행하/VV + 아/EC + 지/VX + 는/ETM
+무역	무역/NNG
+시스템을	시스템/NNG + 을/JKO
+의미한다.	의미/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+결국에	결국/NNG + 에/JKB
+이는	이/NP + 는/JX
+우루과이라운드(UR)의	우루과이라운드/NNP + (/SS + UR/SL + )/SS + 의/JKG
+종결을	종결/NNG + 을/JKO
+필요로	필요/NNG + 로/JKB
+한다.	하/VV + ㄴ다/EF + ./SF
+
+세계	세계/NNG
+지도자들간의	지도자/NNG + 들/XSN + 간/NNB + 의/JKG
+UR에	UR/SL + 에/JKB
+관한	관하/VV + ㄴ/ETM
+합의가	합의/NNG + 가/JKS
+이루어져	이루어지/VV + 어/EC
+가고	가/VX + 고/EC
+있기	있/VX + 기/ETN
+하지만	하/VX + 지만/EC
+몇몇	몇몇/MM
+국가에서는	국가/NNG + 에서/JKB + 는/JX
+이로	이/NP + 로/JKB
+인해	인하/VV + 아/EC
+야기되는	야기/NNG + 되/XSV + 는/ETM
+문제점들을	문제점/NNG + 들/XSN + 을/JKO
+지적하기도	지적/NNG + 하/XSV + 기/ETN + 도/JX
+한다.	하/VX + ㄴ다/EF + ./SF
+
+그러나	그러나/MAJ
+이러한	이러/XR + 하/XSA + ㄴ/ETM
+협상이	협상/NNG + 이/JKS
+원만히	원만히/MAG
+이루어지지	이루어지/VV + 지/EC
+못한	못하/VX + ㄴ/ETM
+것은	것/NNB + 은/JX
+정치적인	정치/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+이유에서	이유/NNG + 에서/JKB
+기인한다.	기인/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+현재	현재/MAG
+개도국들은	개도국/NNG + 들/XSN + 은/JX
+외채	외채/NNG
+문제로,	문제/NNG + 로/JKB + ,/SP
+선진국들은	선진국/NNG + 들/XSN + 은/JX
+낮은	낮/VA + 은/ETM
+성장률과	성장/NNG + 률/XSN + 과/JC
+높은	높/VA + 은/ETM
+실업률	실업/NNG + 률/XSN
+등으로	등/NNB + 으로/JKB
+어려움을	어려움/NNG + 을/JKO
+겪고	겪/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+이러한	이러/XR + 하/XSA + ㄴ/ETM
+문제의	문제/NNG + 의/JKG
+해결을	해결/NNG + 을/JKO
+위해	위하/VV + 아/EC
+많은	많/VA + 은/ETM
+국가들이	국가/NNG + 들/XSN + 이/JKS
+무역자유화	무역/NNG + 자유/NNG + 화/XSN
+등	등/NNB
+경제	경제/NNG
+회생을	회생/NNG + 을/JKO
+위한	위하/VV + ㄴ/ETM
+프로그램을	프로그램/NNG + 을/JKO
+모색하고	모색/NNG + 하/XSV + 고/EC
+있고	있/VX + 고/EC
+성공적인	성공/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+UR타결은	UR/SL + 타결/NNG + 은/JX
+여기에	여기/NP + 에/JKB
+도움을	도움/NNG + 을/JKO
+줄	주/VV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+기대하고	기대/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+김영삼	김영삼/NNP
+대통령은	대통령/NNG + 은/JX
+취임	취임/NNG
+후	후/NNG
+6	6/SN
+개월을	개월/NNB + 을/JKO
+보내는	보내/VV + 는/ETM
+24일	24/SN + 일/NNB
+저녁	저녁/NNG
+청와대	청와대/NNP
+출입	출입/NNG
+기자들을	기자/NNG + 들/XSN + 을/JKO
+본관으로	본관/NNG + 으로/JKB
+초청,	초청/NNG + ,/SP
+막걸리를	막걸리/NNG + 를/JKO
+곁들인	곁들이/VV + ㄴ/ETM
+설렁탕	설렁탕/NNG
+식사를	식사/NNG + 를/JKO
+함께	함께/MAG
+하며	하/VV + 며/EC
+1시간	1/SN + 시간/NNG
+35분간	35/SN + 분/NNB + 간/NNB
+이야기를	이야기/NNG + 를/JKO
+나눴다.	나누/VV + 었/EP + 다/EF + ./SF
+
+다음은	다음/NNG + 은/JX
+대화	대화/NNG
+요지이다.	요지/NNG + 이/VCP + 다/EF + ./SF
+
+김	김/NNP
+대통령	대통령/NNG
+=	=/SW
+지난	지나/VV + ㄴ/ETM
+6	6/SN
+개월간	개월/NNB + 간/NNG
+변화와	변화/NNG + 와/JC
+개혁이	개혁/NNG + 이/JKS
+무서운	무섭/VA + ㄴ/ETM
+속도로	속도/NNG + 로/JKB
+진행됐다.	진행/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+
+나부터	나/NP + 부터/JX
+한	한/MM
+푼의	푼/NNB + 의/JKG
+돈을	돈/NNG + 을/JKO
+안	안/MAG
+받는	받/VV + 는/ETM
+등	등/NNB
+'윗물	'/SS + 윗물/NNG
+맑기'를	맑/VA + 기/ETN + '/SS + 를/JKO
+실천하고	실천/NNG + 하/XSV + 고/EC
+있고	있/VX + 고/EC
+이것이	이것/NP + 이/JKS
+큰	크/VA + ㄴ/ETM
+성과를	성과/NNG + 를/JKO
+거두고	거두/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+부정	부정/NNG
+부패	부패/NNG
+척결	척결/NNG
+없이는	없이/MAG + 는/JX
+민주주의도	민주주의/NNG + 도/JX
+안되고	안/MAG + 되/XSV + 고/EC
+경제	경제/NNG
+회생도	회생/NNG + 도/JX
+안된다.	안되/VA + ㄴ다/EF + ./SF
+
+또	또/MAG
+기강	기강/NNG
+확립	확립/NNG
+없이는	없이/MAG + 는/JX
+나라를	나라/NNG + 를/JKO
+바로잡을	바로잡/VV + 을/ETM
+수	수/NNB
+없다.	없/VA + 다/EF + ./SF
+
+이제	이제/MAG
+공무원과	공무원/NNG + 과/JC
+국민들의	국민/NNG + 들/XSN + 의/JKG
+의식이	의식/NNG + 이/JKS
+변하고	변하/VV + 고/EC
+있음을	있/VX + 음/ETN + 을/JKO
+피부로	피부/NNG + 로/JKB
+느낀다.	느끼/VV + ㄴ다/EF + ./SF
+
+금융실명제는	금융/NNG + 실명/NNG + 제/XSN + 는/JX
+정치적으로도	정치/NNG + 적/XSN + 으로/JKB + 도/JX
+큰	크/VA + ㄴ/ETM
+변화를	변화/NNG + 를/JKO
+가져	가지/VV + 어/EC
+올	오/VX + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+민주주의의	민주주의/NNG + 의/JKG
+완결에	완결/NNG + 에/JKB
+가까운	가깝/VA + ㄴ/ETM
+큰	크/VA + ㄴ/ETM
+결의이며,	결의/NNG + 이/VCP + 며/EC + ,/SP
+정-경유착의	정/NNG + -/SS + 경/NNG + 유착/NNG + 의/JKG
+고리를	고리/NNG + 를/JKO
+완전히	완전히/MAG
+끊게	끊/VV + 게/EC
+될	되/VV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+검은	검/VA + 은/ETM
+돈,	돈/NNG + ,/SP
+지하경제를	지하/NNG + 경제/NNG + 를/JKO
+완전히	완전히/MAG
+노출시켜	노출/NNG + 시키/XSV + 어/EC
+시장경제,	시장/NNG + 경제/NNG + ,/SP
+자본주의	자본주의/NNG
+경제를	경제/NNG + 를/JKO
+꽃피우게	꽃피우/VV + 게/EC
+될	되/VV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+땀	땀/NNG
+흘려	흘리/VV + 어/EC
+일하는	일/NNG + 하/XSV + 는/ETM
+사람이	사람/NNG + 이/JKS
+대가를	대가/NNG + 를/JKO
+받고,	받/VV + 고/EC + ,/SP
+정당하고	정당/XR + 하/XSA + 고/EC
+정의롭게	정의/NNG + 롭/XSA + 게/EC
+일해	일/NNG + 하/XSV + 아/EC
+모은	모으/VV + ㄴ/ETM
+부의	부/NNG + 의/JKG
+가치가	가치/NNG + 가/JKS
+존경받을	존경/NNG + 받/VV + 을/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+큰	크/VA + ㄴ/ETM
+계기가	계기/NNG + 가/JKC
+될	되/VV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+전에는	전/NNG + 에/JKB + 는/JX
+모든	모든/MM
+언론들이	언론/NNG + 들/XSN + 이/JKS
+실명제를	실명/NNG + 제/XSN + 를/JKO
+하라고	하/VV + 라고/EC
+쓰더니,	쓰/VV + 더니/EC + ,/SP
+막상	막상/MAG
+하고	하/VV + 고/EC
+나니까	나/VV + 니까/EC
+찬양보다는	찬양/NNG + 보다/JKB + 는/JX
+부작용을	부작용/NNG + 을/JKO
+많이	많이/MAG
+쓰고,	쓰/VV + 고/EC + ,/SP
+또	또/MAG
+'깜짝	'/SS + 깜짝/MAG
+쇼'를	쇼/NNG + '/SS + 를/JKO
+했다고	하/VV + 았/EP + 다고/EC
+하는	하/VV + 는/ETM
+데	데/NNB
+놀랍다.	놀랍/VA + 다/EF + ./SF
+
+대통령	대통령/NNG
+중심제에서	중심/NNG + 제/XSN + 에서/JKB
+대통령은	대통령/NNG + 은/JX
+누구와	누구/NP + 와/JKB
+합의하는	합의/NNG + 하/XSV + 는/ETM
+것이	것/NNB + 이/JKC
+아니라	아니/VCN + 라/EC
+스스로	스스로/MAG
+결단을	결단/NNG + 을/JKO
+내린다.	내리/VV + ㄴ다/EF + ./SF
+
+대통령	대통령/NNG
+자리는	자리/NNG + 는/JX
+참으로	참으로/MAG
+무겁고	무겁/VA + 고/EC
+고뇌스럽고	고뇌/NNG + 스럽/XSA + 고/EC
+외롭고	외롭/VA + 고/EC
+고통스런	고통/NNG + 스럽/XSA + ㄴ/ETM
+자리란	자리/NNG + 이/VCP + 란/ETM
+것을,	것/NNB + 을/JKO + ,/SP
+취임	취임/NNG
+전에는	전/NNG + 에/JKB + 는/JX
+지금의	지금/NNG + 의/JKG
+5분의	5/SN + 분/XSN + 의/JKG
+1도	1/SN + 도/JX
+몰랐다.	모르/VV + 았/EP + 다/EF + ./SF
+
+그간	그간/NNG
+나의	나/NP + 의/JKG
+여러	여러/MM
+결정에	결정/NNG + 에/JKB
+다수	다수/NNG
+국민들이	국민/NNG + 들/XSN + 이/JKS
+박수를	박수/NNG + 를/JKO
+보내	보내/VV + 어/EC
+주었지만	주/VX + 었/EP + 지만/EC
+나도	나/NP + 도/JX
+마음에	마음/NNG + 에/JKB
+아픈	아프/VA + ㄴ/ETM
+점도	점/NNG + 도/JX
+있다.	있/VV + 다/EF + ./SF
+
+그러나	그러나/MAJ
+대통령은	대통령/NNG + 은/JX
+사심에	사심/NNG + 에/JKB
+입각해	입각/NNG + 하/XSV + 아/EC
+일하는	일/NNG + 하/XSV + 는/ETM
+것이	것/NNB + 이/JKC
+아니다.	아니/VCN + 다/EF + ./SF
+
+공인	공인/NNG
+중의	중/NNB + 의/JKG
+공인으로,	공인/NNG + 으로/JKB + ,/SP
+책임이	책임/NNG + 이/JKS
+막중하다.	막중/XR + 하/XSA + 다/EF + ./SF
+
+외롭고	외롭/VA + 고/EC
+고뇌에	고뇌/NNG + 에/JKB
+찬	차/VV + ㄴ/ETM
+결단의	결단/NNG + 의/JKG
+순간이	순간/NNG + 이/JKS
+수	수/NNG
+없이	없이/MAG
+있었다.	있/VV + 었/EP + 다/EF + ./SF
+
+나는	나/NP + 는/JX
+5년간	5/SN + 년/NNB + 간/NNG
+최선을	최선/NNG + 을/JKO
+다할	다/MAG + 하/XSV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+대개	대개/MAG
+오전	오전/NNG
+7시	7/SN + 시/NNB
+30분이면	30/SN + 분/NNB + 이/VCP + 면/EC
+본관에	본관/NNG + 에/JKB
+나온다.	나오/VV + ㄴ다/EF + ./SF
+
+자는	자/VV + 는/ETM
+시간	시간/NNG
+빼고는	빼/VV + 고/EC + 는/JX
+일한다.	일/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+혼신의	혼신/NNG + 의/JKG
+힘을	힘/NNG + 을/JKO
+다해,	다/MAG + 하/XSV + 아/EC + ,/SP
+최선을	최선/NNG + 을/JKO
+다해	다/MAG + 하/XSV + 아/EC
+일하고	일/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+어떻게	어떻/VA + 게/EC
+하면	하/VV + 면/EC
+조국을	조국/NNG + 을/JKO
+살리고	살리/VV + 고/EC
+제2의	제/XPN + 2/SN + 의/JKG
+건국을	건국/NNG + 을/JKO
+해	하/VV + 아/EC
+선진국에	선진국/NNG + 에/JKB
+들어가겠는가에	들어가/VV + 겠/EP + 는가/EC + 에/JKB
+매달리고	매달리/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+―6	―/SS + 6/SN
+개월간	개월/NNB + 간/NNG
+아쉬웠거나	아쉽/VA + 었/EP + 거나/EC
+어려웠던	어렵/VA + 었/EP + 던/ETM
+일은.	일/NNG + 은/JX + ./SF
+
+꼭	꼭/MAG
+꼬집어	꼬집/VV + 어/EC
+말하기는….	말/NNG + 하/XSV + 기/ETN + 는/JX + …/SE + ./SF
+
+금융실명제	금융/NNG + 실명/NNG + 제/XSN
+실시	실시/NNG
+이후	이후/NNG
+영세	영세/NNG
+중소기업에	중소기업/NNG + 에/JKB
+대담한	대담/NNG + 하/XSA + ㄴ/ETM
+지원을	지원/NNG + 을/JKO
+하도록	하/VV + 도록/EC
+지시해	지시/NNG + 하/XSV + 아/EC
+두었다.	두/VX + 었/EP + 다/EF + ./SF
+
+단기적으로	단기/NNG + 적/XSN + 으로/JKB
+조금	조금/MAG
+부작용이	부작용/NNG + 이/JKS
+있으나	있/VV + 으나/EC
+장기적으로는	장기/NNG + 적/XSN + 으로/JKB + 는/JX
+경제에	경제/NNG + 에/JKB
+큰	크/VA + ㄴ/ETM
+도움이	도움/NNG + 이/JKC
+될	되/VV + ㄹ/ETM
+것이고,	것/NNB + 이/VCP + 고/EC + ,/SP
+나라의	나라/NNG + 의/JKG
+큰	크/VA + ㄴ/ETM
+발전	발전/NNG
+기반을	기반/NNG + 을/JKO
+닦았다고	닦/VV + 았/EP + 다고/EC
+생각한다.	생각/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+―경제에	―/SS + 경제/NNG + 에/JKB
+관해	관하/VV + 아/EC
+굉장히	굉장히/MAG
+해박해졌다는	해박/XR + 하/XSA + 아/EC + 지/VX + 었/EP + 다는/ETM
+이야기가	이야기/NNG + 가/JKS
+있는데.	있/VV + 는데/EF + ./SF
+
+경제가	경제/NNG + 가/JKS
+공부한다고	공부/NNG + 하/XSV + ㄴ다고/EC
+되는	되/VV + 는/ETM
+거요?(웃음)	것/NNB + 이/VCP + 요/EF + ?/SF + (/SS + 웃음/NNG + )/SS
+
+나는	나/NP + 는/JX
+경부	경부/NNP
+고속	고속/NNG
+전철	전철/NNG
+건설을	건설/NNG + 을/JKO
+반대한	반대/NNG + 하/XSV + ㄴ/ETM
+일이	일/NNG + 이/JKS
+없다.	없/VA + 다/EF + ./SF
+
+다만,	다만/MAG + ,/SP
+조금	조금/MAG
+더	더/MAG
+버티면	버티/VV + 면/EC
+우리에게	우리/NP + 에게/JKB
+유리한	유리/NNG + 하/XSA + ㄴ/ETM
+조건을	조건/NNG + 을/JKO
+얻을	얻/VV + 을/ETM
+수	수/NNB
+있다는	있/VV + 다는/ETM
+입장이었는데,	입장/NNG + 이/VCP + 었/EP + 는데/EC + ,/SP
+아니나	아니/VCN + 나/EC
+다를까,	다르/VA + ㄹ까/EC + ,/SP
+몇	몇/MM
+달	달/NNG
+버텨서	버티/VV + 어서/EC
+2천억	2/SN + 천억/NR
+원을	원/NNB + 을/JKO
+깎는	깎/VV + 는/ETM
+이익을	이익/NNG + 을/JKO
+얻었고,	얻/VV + 었/EP + 고/EC + ,/SP
+기술도	기술/NNG + 도/JX
+1백%	1/SN + 백/NR + %/SW
+이전	이전/NNG
+받기로	받/VV + 기/ETN + 로/JKB
+했고,	하/VV + 았/EP + 고/EC + ,/SP
+차관도	차관/NNG + 도/JX
+8년간	8/SN + 년/NNB + 간/NNG
+이자를	이자/NNG + 를/JKO
+유예하도록	유예/NNG + 하/XSV + 도록/EC
+하지	하/VX + 지/EC
+않았는가.	않/VX + 았/EP + 는가/EF + ./SF
+
+고속	고속/NNG
+전철	전철/NNG
+건설은	건설/NNG + 은/JX
+1백만	1/SN + 백만/NR
+명	명/NNB
+이상의	이상/NNG + 의/JKG
+고용	고용/NNG
+효과를	효과/NNG + 를/JKO
+가져오고	가져오/VV + 고/EC
+경기도	경기/NNG + 도/JX
+크게	크/VA + 게/EC
+활성화시킬	활성/NNG + 화/XSN + 시키/XSV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+호남	호남/NNP
+고속	고속/NNG
+전철도	전철/NNG + 도/JX
+순차적으로	순차/NNG + 적/XSN + 으로/JKB
+추진할	추진/NNG + 하/XSV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+―선거제도,	―/SS + 선거/NNG + 제도/NNG + ,/SP
+정당	정당/NNG
+제도의	제도/NNG + 의/JKG
+개혁에	개혁/NNG + 에/JKB
+관한	관하/VV + ㄴ/ETM
+생각은.	생각/NNG + 은/JX + ./SF
+
+민주주의의	민주주의/NNG + 의/JKG
+본산인	본산/NNG + 이/VCP + ㄴ/ETM
+선진	선진/NNG
+영국과	영국/NNP + 과/JC
+미국의	미국/NNP + 의/JKG
+제도를	제도/NNG + 를/JKO
+본받는	본받/VV + 는/ETM
+것이	것/NNB + 이/JKS
+좋겠다고	좋/VA + 겠/EP + 다고/EC
+생각한다.	생각/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+영국은	영국/NNP + 은/JX
+선거	선거/NNG
+비용이	비용/NNG + 이/JKS
+제일	제/XPN + 일/NR
+적게	적/VA + 게/EC
+든다.	들/VV + ㄴ다/EF + ./SF
+
+19세기말	19/SN + 세기말/NNG
+제정한	제정/NNG + 하/XSV + ㄴ/ETM
+부정선거	부정/NNG + 선거/NNG
+방지법으로,	방지/NNG + 법/NNG + 으로/JKB + ,/SP
+2만	2/SN + 만/NR
+4천	4/SN + 천/NR
+원	원/NNB
+정도의	정도/NNG + 의/JKG
+벌금을	벌금/NNG + 을/JKO
+물면	물/VV + 면/EC
+당선	당선/NNG
+무효가	무효/NNG + 가/JKC
+되고,	되/VV + 고/EC + ,/SP
+돈은	돈/NNG + 은/JX
+주는	주/VV + 는/ETM
+쪽과	쪽/NNB + 과/JC
+받는	받/VV + 는/ETM
+쪽을	쪽/NNB + 을/JKO
+쌍벌하며,	쌍/NNG + 벌/NNG + 하/XSV + 며/EC + ,/SP
+선거	선거/NNG
+때는	때/NNG + 는/JX
+현수막도	현수막/NNG + 도/JX
+벽보도	벽보/NNG + 도/JX
+합동	합동/NNG
+연설회도	연설회/NNG + 도/JX
+없다.	없/VA + 다/EF + ./SF
+
+실명제	실명/NNG + 제/XSN
+실시에	실시/NNG + 에/JKB
+따라	따르/VV + 아/EC
+우리	우리/NP
+정치도	정치/NNG + 도/JX
+돈	돈/NNG
+안	안/MAG
+쓰는	쓰/VV + 는/ETM
+법을	법/NNG + 을/JKO
+검토해야	검토/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+―북한	―/SS + 북한/NNP
+핵	핵/NNG
+문제	문제/NNG
+해결	해결/NNG
+방안	방안/NNG
+등	등/NNB
+대북	대북/NNG
+정책은	정책/NNG + 은/JX
+새로운	새롭/VA + ㄴ/ETM
+구상이	구상/NNG + 이/JKS
+있는지.	있/VV + 는지/EF + ./SF
+
+북한이	북한/NNP + 이/JKS
+핵무기를	핵무기/NNG + 를/JKO
+개발하는	개발/NNG + 하/XSV + 는/ETM
+마당에	마당/NNB + 에/JKB
+감상적	감상/NNG + 적/XSN
+통일	통일/NNG
+논의는	논의/NNG + 는/JX
+경계해야	경계/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+로동	로동/NNG
+1호	1/SN + 호/NNB
+미사일이	미사일/NNG + 이/JKS
+누구를	누구/NP + 를/JKO
+겨냥한	겨냥/NNG + 하/XSV + ㄴ/ETM
+것이겠는가.	것/NNB + 이/VCP + 겠/EP + 는가/EF + ./SF
+
+어떻게든	어떻/VA + 게든/EC
+북한	북한/NNP
+핵은	핵/NNG + 은/JX
+저지해야	저지/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+대화를	대화/NNG + 를/JKO
+통해	통하/VV + 아/EC
+이	이/MM
+문제를	문제/NNG + 를/JKO
+해결해야	해결/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+이것만	이것/NP + 만/JX
+되면	되/VV + 면/EC
+경제	경제/NNG
+협력	협력/NNG
+등	등/NNB
+다른	다른/MM
+문제가	문제/NNG + 가/JKS
+해결될	해결/NNG + 되/XSV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+―실명제	―/SS + 실명/NNG + 제/XSN
+실시	실시/NNG
+시기는	시기/NNG + 는/JX
+최초	최초/NNG
+구상과	구상/NNG + 과/JC
+실제	실제/NNG
+시행에	시행/NNG + 에/JKB
+차이가	차이/NNG + 가/JKS
+있었는가.	있/VV + 었/EP + 는가/EF + ./SF
+
+처음	처음/NNG
+생각했던	생각/NNG + 하/XSV + 았/EP + 던/ETM
+거의	거의/MAG
+그	그/MM
+시기에	시기/NNG + 에/JKB
+단행했다.	단행/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+경제인들도	경제인/NNG + 들/XSN + 도/JX
+차차	차차/MAG
+경제	경제/NNG
+활성화를	활성/NNG + 화/XSN + 를/JKO
+위해	위하/VV + 아/EC
+노력할	노력/NNG + 하/XSV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+기대하고,	기대/NNG + 하/XSV + 고/EC + ,/SP
+나	나/NP
+자신도	자신/NNG + 도/JX
+개별적으로	개별/NNG + 적/XSN + 으로/JKB
+기업인들을	기업인/NNG + 들/XSN + 을/JKO
+만나	만나/VV + 아/EC
+투자를	투자/NNG + 를/JKO
+촉구할	촉구/NNG + 하/XSV + ㄹ/ETM
+계획이다.	계획/NNG + 이/VCP + 다/EF + ./SF
+
+―대통령	―/SS + 대통령/NNG
+가까이에	가까이/NNG + 에/JKB
+쓸	쓰/VV + ㄹ/ETM
+만한	만/NNB + 하/XSA + ㄴ/ETM
+인재가	인재/NNG + 가/JKS
+많지	많/VA + 지/EC
+않다는	않/VX + 다는/ETM
+지적이	지적/NNG + 이/JKS
+있는	있/VV + 는/ETM
+데,	데/NNB + ,/SP
+그	그/MM
+때문에	때문/NNB + 에/JKB
+외로움을	외로움/NNG + 을/JKO
+느낀	느끼/VV + ㄴ/ETM
+적이	적/NNB + 이/JKS
+있는지.	있/VV + 는지/EF + ./SF
+
+오래	오래/MAG
+정치를	정치/NNG + 를/JKO
+하면서	하/VV + 면서/EC
+여러	여러/MM
+계층	계층/NNG
+사람들을	사람/NNG + 들/XSN + 을/JKO
+알게	알/VV + 게/EC
+되고	되/VV + 고/EC
+많은	많/VA + 은/ETM
+이야기를	이야기/NNG + 를/JKO
+들을	듣/VV + 을/ETM
+기회가	기회/NNG + 가/JKS
+있었다.	있/VV + 었/EP + 다/EF + ./SF
+
+비교적	비교/NNG + 적/XSN
+많은	많/VA + 은/ETM
+사람들과	사람/NNG + 들/XSN + 과/JKB
+대화하고	대화/NNG + 하/XSV + 고/EC
+있으며,	있/VX + 으며/EC + ,/SP
+그	그/MM
+폭은	폭/NNG + 은/JX
+상당히	상당히/MAG
+넓다.	넓/VA + 다/EF + ./SF
+
+―아직	―/SS + 아직/MAG
+호남선	호남선/NNP
+복선화와	복선/NNG + 화/XSN + 와/JC
+서해안	서해안/NNP
+고속도로도	고속도로/NNG + 도/JX
+완공되지	완공/NNG + 되/XSV + 지/EC
+않은	않/VX + 은/ETM
+상황에서	상황/NNG + 에서/JKB
+호남	호남/NNP
+고속	고속/NNG
+전철을	전철/NNG + 을/JKO
+건설할	건설/NNG + 하/XSV + ㄹ/ETM
+재원이	재원/NNG + 이/JKS
+있겠는가.	있/VV + 겠/EP + 는가/EF + ./SF
+
+재원이	재원/NNG + 이/JKS
+확보될	확보/NNG + 되/XSV + ㄹ/ETM
+때까지	때/NNG + 까지/JX
+기다리면	기다리/VV + 면/EC
+아무	아무/MM
+일도	일/NNG + 도/JX
+못한다.	못/MAG + 하/XSV + ㄴ다/EF + ./SF
+
+그	그/MM
+사업들을	사업/NNG + 들/XSN + 을/JKO
+동시에	동시/NNG + 에/JKB
+할	하/VV + ㄹ/ETM
+것인지,	것/NNB + 이/VCP + ㄴ지/EC + ,/SP
+순차적으로	순차/NNG + 적/XSN + 으로/JKB
+할	하/VV + ㄹ/ETM
+것인지는	것/NNB + 이/VCP + ㄴ지/EC + 는/JX
+필요에	필요/NNG + 에/JKB
+따라	따르/VV + 아/EC
+검토할	검토/NNG + 하/XSV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+―정치	―/SS + 정치/NNG
+개혁을	개혁/NNG + 을/JKO
+위한	위하/VV + ㄴ/ETM
+복안이	복안/NNG + 이/JKS
+있는가.	있/VV + 는가/EF + ./SF
+
+▴	▴/SW
+대통령으로서	대통령/NNG + 으로서/JKB
+이러저러한	이러저러/XR + 하/XSA + ㄴ/ETM
+이야기는	이야기/NNG + 는/JX
+않는	않/VV + 는/ETM
+게	것/NNB + 이/JKS
+좋겠다.	좋/VA + 겠/EP + 다/EF + ./SF
+
+어디까지나	어디/NP + 까지/JX + 나/JX
+여-야가	여/NNG + -/SS + 야/NNG + 가/JKS
+협의해	협의/NNG + 하/XSV + 아/EC
+원만히	원만히/MAG
+해결하기를	해결/NNG + 하/XSV + 기/ETN + 를/JKO
+바란다.	바라/VV + ㄴ다/EF + ./SF
+
+무엇보다	무엇/NP + 보다/JKB
+정치권이	정치/NNG + 권/XSN + 이/JKS
+국민	국민/NNG
+신뢰를	신뢰/NNG + 를/JKO
+받아야	받/VV + 아야/EC
+하는	하/VX + 는/ETM
+데,	데/NNB + ,/SP
+세상이	세상/NNG + 이/JKS
+다	다/MAG
+변했어도	변하/VV + 았/EP + 어도/EC
+국회는	국회/NNG + 는/JX
+옛날과	옛날/NNG + 과/JKB
+똑같다는	똑같/VA + 다는/ETM
+이야기가	이야기/NNG + 가/JKS
+많다.	많/VA + 다/EF + ./SF
+
+―정계	―/SS + 정계/NNG
+개편을	개편/NNG + 을/JKO
+생각하고	생각/NNG + 하/XSV + 고/EC
+있는가.	있/VX + 는가/EF + ./SF
+
+▴	▴/SW
+그런	그런/MM
+것	것/NNB
+없다.	없/VA + 다/EF + ./SF
+
+언론이	언론/NNG + 이/JKS
+괜히	괜히/MAG
+이야기하고	이야기/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+―냉해	―/SS + 냉해/NNG
+대책은.	대책/NNG + 은/JX + ./SF
+
+▴	▴/SW
+현재	현재/MAG
+쌀	쌀/NNG
+재고가	재고/NNG + 가/JKS
+1천	1/SN + 천/NR
+3백만	3/SN + 백만/NR
+섬이다.	섬/NNB + 이/VCP + 다/EF + ./SF
+
+별	별/MM
+문제가	문제/NNG + 가/JKS
+없으나	없/VA + 으나/EC
+북한의	북한/NNP + 의/JKG
+냉해가	냉해/NNG + 가/JKS
+심각할	심각/XR + 하/XSA + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+미	미/NNP
+월	월/NNG
+스트리트	스트리트/NNG
+저널은	저널/NNG + 은/JX
+최근	최근/NNG
+남북한간의	남북한/NNP + 간/NNB + 의/JKG
+군사	군사/NNG
+대치의	대치/NNG + 의/JKG
+실상과	실상/NNG + 과/JC
+북한	북한/NNP
+핵	핵/NNG
+문제로	문제/NNG + 로/JKB
+인한	인하/VV + ㄴ/ETM
+동북아	동북아/NNP
+지역에서의	지역/NNG + 에서/JKB + 의/JKG
+군비	군비/NNG
+경쟁	경쟁/NNG
+조짐	조짐/NNG
+등에	등/NNB + 에/JKB
+대한	대하/VV + ㄴ/ETM
+보도를	보도/NNG + 를/JKO
+1면	1/SN + 면/NNG
+머리	머리/NNG
+기사로	기사/NNG + 로/JKB
+게재했다.	게재/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+저널지의	저널지/NNG + 의/JKG
+3일자	3/SN + 일자/NNG
+한국발	한국발/NNG
+기사를	기사/NNG + 를/JKO
+요약	요약/NNG
+소개한다.	소개/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+지난주	지난주/NNG
+레스	레스/NNP
+애스핀	애스핀/NNP
+미국방장관이	미/NNP + 국방/NNG + 장관/NNG + 이/JKS
+냉전	냉전/NNG
+이후	이후/NNG
+미군	미군/NNG
+감축	감축/NNG
+계획을	계획/NNG + 을/JKO
+발표하면서도	발표/NNG + 하/XSV + 면서/EC + 도/JX
+"주한	"/SS + 주한/NNG
+미군은	미군/NNG + 은/JX
+조금도	조금/NNG + 도/JX
+손대지	손대/VV + 지/EC
+않겠다"고	않/VX + 겠/EP + 다/EC + "/SS + 고/JKQ
+강조했다.	강조/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+콜린	콜린/NNP
+파월	파월/NNP
+전	전/MM
+합참	합참/NNG
+의장도	의장/NNG + 도/JX
+냉전	냉전/NNG
+이후	이후/NNG
+시대의	시대/NNG + 의/JKG
+도발	도발/NNG
+가능	가능/NNG
+국가로	국가/NNG + 로/JKB
+이라크와	이라크/NNP + 와/JKB
+함께	함께/MAG
+북한을	북한/NNP + 을/JKO
+지적하면서	지적/NNG + 하/XSV + 면서/EC
+"미국	"/SS + 미국/NNP
+군대가	군대/NNG + 가/JKS
+개입해서	개입/NNG + 하/XSV + 아서/EC
+싸워	싸우/VV + 어/EC
+이겨야	이기/VV + 어야/EC
+할	하/VX + ㄹ/ETM
+지역"이라고	지역/NNG + "/SS + 이라고/JKQ
+강조했었다.	강조/NNG + 하/XSV + 았었/EP + 다/EF + ./SF
+
+요즘	요즘/NNG
+한반도	한반도/NNP
+문제에	문제/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+전문가들의	전문가/NNG + 들/XSN + 의/JKG
+우려가	우려/NNG + 가/JKS
+높아지는	높/VA + 아/EC + 지/VX + 는/ETM
+데는	데/NNB + 는/JX
+북한의	북한/NNP + 의/JKG
+정치	정치/NNG
+불안정과	불/XPN + 안정/NNG + 과/JC
+경제난	경제난/NNG
+심화라는	심화/NNG + 이/VCP + 라는/ETM
+두가지	두/MM + 가지/NNB
+이유가	이유/NNG + 가/JKS
+함께	함께/MAG
+작용하고	작용/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+이미	이미/MAG
+김정일은	김정일/NNP + 은/JX
+핵확산금지조약(NPT)탈퇴나	핵/NNG + 확산/NNG + 금지/NNG + 조약/NNG + (/SS + NPT/SL + )/SS + 탈퇴/NNG + 나/JC
+일본까지	일본/NNP + 까지/JX
+이르는	이르/VV + 는/ETM
+중거리	중거리/NNG
+미사일	미사일/NNG
+개발	개발/NNG
+등의	등/NNB + 의/JKG
+정책을	정책/NNG + 을/JKO
+추진해	추진/NNG + 하/XSV + 아/EC
+서방	서방/NNG
+국가들을	국가/NNG + 들/XSN + 을/JKO
+놀라게	놀라/VV + 게/EC
+한	하/VX + ㄴ/ETM
+바	바/NNB
+있다.	있/VV + 다/EF + ./SF
+
+전문가들은	전문가/NNG + 들/XSN + 은/JX
+"북한은	"/SS + 북한/NNP + 은/JX
+중소양국에	중/NNP + 소/NNP + 양국/NNG + 에/JKB
+무역을	무역/NNG + 을/JKO
+의존하던	의존/NNG + 하/XSV + 던/ETM
+과거에는	과거/NNG + 에/JKB + 는/JX
+어느	어느/MM
+정도	정도/NNG
+통제	통제/NNG
+가능한	가능/NNG + 하/XSA + ㄴ/ETM
+국가였으나,	국가/NNG + 이/VCP + 었/EP + 으나/EC + ,/SP
+요즘의	요즘/NNG + 의/JKG
+김정일	김정일/NNP
+체제는	체제/NNG + 는/JX
+국제적인	국제/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+위기	위기/NNG
+조성을	조성/NNG + 을/JKO
+오히려	오히려/MAG
+정치적으로	정치/NNG + 적/XSN + 으로/JKB
+살아	살/VV + 아/EC
+남기	남/VV + 기/ETN
+위한	위하/VV + ㄴ/ETM
+수단으로	수단/NNG + 으로/JKB
+사용하고	사용/NNG + 하/XSV + 고/EC
+있다"고	있/VX + 다/EC + "/SS + 고/JKQ
+지적하고	지적/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+국내	국내/NNG
+문제로	문제/NNG + 로/JKB
+오는	오/VV + 는/ETM
+국민들의	국민/NNG + 들/XSN + 의/JKG
+불만을	불만/NNG + 을/JKO
+대외	대외/NNG
+문제에	문제/NNG + 에/JKB
+돌리려는	돌리/VV + 려는/ETM
+시도가	시도/NNG + 가/JKS
+계속되고	계속/NNG + 되/XSV + 고/EC
+있다는	있/VX + 다는/ETM
+지적이다.	지적/NNG + 이/VCP + 다/EF + ./SF
+
+김정일	김정일/NNP
+개인의	개인/NNG + 의/JKG
+예측	예측/NNG
+불가능한	불/XPN + 가능/NNG + 하/XSA + ㄴ/ETM
+성격도	성격/NNG + 도/JX
+우려의	우려/NNG + 의/JKG
+큰	크/VA + ㄴ/ETM
+요인이다.	요인/NNG + 이/VCP + 다/EF + ./SF
+
+그는	그/NP + 는/JX
+젊은	젊/VA + 은/ETM
+시절을	시절/NNG + 을/JKO
+여자와	여자/NNG + 와/JC
+자동차	자동차/NNG
+취미,	취미/NNG + ,/SP
+영화	영화/NNG
+만들기로	만들/VV + 기/ETN + 로/JKB
+보낸	보내/VV + ㄴ/ETM
+사람으로	사람/NNG + 으로/JKB
+알려져	알리/VV + 어/EC + 지/VX + 어/EC
+있다.	있/VX + 다/EF + ./SF
+
+그러나	그러나/MAJ
+최근	최근/NNG
+군	군/NNG
+요직들을	요직/NNG + 들/XSN + 을/JKO
+장악하면서는	장악/NNG + 하/XSV + 면서/EC + 는/JX
+군부	군부/NNG
+내	내/NNB
+인기	인기/NNG
+확보에	확보/NNG + 에/JKB
+관심을	관심/NNG + 을/JKO
+집중하고	집중/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+한국의	한국/NNP + 의/JKG
+국방	국방/NNG
+정책	정책/NNG
+입안자인	입안자/NNG + 이/VCP + ㄴ/ETM
+김구섭	김구섭/NNP
+박사에	박사/NNG + 에/JKB
+따르면,	따르/VV + 면/EC + ,/SP
+김정일은	김정일/NNP + 은/JX
+작년	작년/NNG
+한해	한/MM + 해/NNG
+동안	동안/NNG
+5백	5/SN + 백/NR
+24	24/SN
+명의	명/NNB + 의/JKG
+장교들을	장교/NNG + 들/XSN + 을/JKO
+새로	새로/MAG
+장군으로	장군/NNG + 으로/JKB
+승진시켰다.	승진/NNG + 시키/XSV + 었/EP + 다/EF + ./SF
+
+지난	지나/VV + ㄴ/ETM
+4월	4/SN + 월/NNB
+김정일은	김정일/NNP + 은/JX
+평양	평양/NNP
+외곽에	외곽/NNG + 에/JKB
+1만여명의	1/SN + 만/NR + 여/XSN + 명/NNB + 의/JKG
+무장	무장/NNG
+병력을	병력/NNG + 을/JKO
+갑자기	갑자기/MAG
+동원해	동원/NNG + 하/XSV + 아/EC
+미	미/NNP
+정보	정보/NNG
+당국을	당국/NNG + 을/JKO
+긴장시키기도	긴장/NNG + 시키/XSV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+결국	결국/NNG
+창군	창군/NNG
+기념일	기념일/NNG
+축하	축하/NNG
+행사를	행사/NNG + 를/JKO
+위해	위하/VV + 아/EC
+대규모	대/XPN + 규모/NNG
+퍼레이드를	퍼레이드/NNG + 를/JKO
+벌이려	벌이/VV + 려/EC
+한	하/VX + ㄴ/ETM
+것으로	것/NNB + 으로/JKB
+분석됐지만,	분석/NNG + 되/XSV + 었/EP + 지만/EC + ,/SP
+기아	기아/NNG
+사태가	사태/NNG + 가/JKS
+발생할	발생/NNG + 하/XSV + ㄹ/ETM
+정도로	정도/NNG + 로/JKB
+경제난이	경제난/NNG + 이/JKS
+심각한	심각/XR + 하/XSA + ㄴ/ETM
+상태에서	상태/NNG + 에서/JKB
+어울리지	어울리/VV + 지/EC
+않는	않/VX + 는/ETM
+군사력	군사력/NNG
+과시가	과시/NNG + 가/JKC
+아니냐는	아니/VCN + 냐는/ETM
+관측을	관측/NNG + 을/JKO
+낳았었다.	낳/VV + 았었/EP + 다/EF + ./SF
+
+경제난도	경제난/NNG + 도/JX
+심각한	심각/XR + 하/XSA + ㄴ/ETM
+불안	불안/NNG
+요인이다.	요인/NNG + 이/VCP + 다/EF + ./SF
+
+수년째	수/MM + 년/NNB + 째/XSN
+계속된	계속/NNG + 되/XSV + ㄴ/ETM
+흉작으로	흉작/NNG + 으로/JKB
+비축	비축/NNG
+식량이	식량/NNG + 이/JKS
+바닥나	바닥나/VV + 아/EC
+군	군/NNG
+부대	부대/NNG
+식량마저	식량/NNG + 마저/JX
+고갈돼	고갈/NNG + 되/XSV + 어/EC
+가고	가/VX + 고/EC
+있는	있/VX + 는/ETM
+상황이다.	상황/NNG + 이/VCP + 다/EF + ./SF
+
+구소련으로부터	구/XPN + 소련/NNP + 으로부터/JKB
+들여오던	들여오/VV + 던/ETM
+유류	유류/NNG
+수입	수입/NNG
+중단으로	중단/NNG + 으로/JKB
+당장	당장/NNG
+내년에	내년/NNG + 에/JKB
+사용할	사용/NNG + 하/XSV + ㄹ/ETM
+비료	비료/NNG
+생산도	생산/NNG + 도/JX
+심각하게	심각/XR + 하/XSA + 게/EC
+줄어든	줄어들/VV + ㄴ/ETM
+상태다.	상태/NNG + 이/VCP + 다/EF + ./SF
+
+연료	연료/NNG
+부족으로	부족/NNG + 으로/JKB
+비행기도	비행기/NNG + 도/JX
+거의	거의/MAG
+뜨지	뜨/VV + 지/EC
+않고	않/VX + 고/EC
+있고,	있/VX + 고/EC + ,/SP
+정부	정부/NNG
+관리들이	관리/NNG + 들/XSN + 이/JKS
+걸어서	걷/VV + 어서/EC
+출근하고,	출근/NNG + 하/XSV + 고/EC + ,/SP
+산업	산업/NNG
+시설의	시설/NNG + 의/JKG
+50%	50/SN + %/SW
+가까이나	가까이/NNG + 나/JX
+문을	문/NNG + 을/JKO
+닫은	닫/VV + 은/ETM
+상태라고	상태/NNG + 이/VCP + 라고/EC
+미정보분석가들은	미/NNP + 정보/NNG + 분석가/NNG + 들/XSN + 은/JX
+보고	보/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+보통	보통/MAG
+북한	북한/NNP
+주민들은	주민/NNG + 들/XSN + 은/JX
+하루	하루/NNG
+두끼	두/MM + 끼/NNG
+간소한	간소/XR + 하/XSA + ㄴ/ETM
+식사밖에	식사/NNG + 밖에/JX
+하지	하/VV + 지/EC
+못하고	못하/VX + 고/EC
+있으며,	있/VX + 으며/EC + ,/SP
+TV에서는	TV/SL + 에서/JKB + 는/JX
+'과식'의	'/SS + 과식/NNG + '/SS + 의/JKG
+부작용들을	부작용/NNG + 들/XSN + 을/JKO
+홍보하는	홍보/NNG + 하/XSV + 는/ETM
+프로들이	프로/NNG + 들/XSN + 이/JKS
+방송되고	방송/NNG + 되/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+북한	북한/NNP
+주민들의	주민/NNG + 들/XSN + 의/JKG
+수입은	수입/NNG + 은/JX
+한해	한/MM + 해/NNG
+9백	9/SN + 백/NR
+47	47/SN
+달러	달러/NNB
+규모로	규모/NNG + 로/JKB
+남한	남한/NNP
+주민들의	주민/NNG + 들/XSN + 의/JKG
+수입의	수입/NNG + 의/JKG
+7분의	7/SN + 분/XSN + 의/JKG
+1밖에	1/SN + 밖에/JX
+미치지	미치/VV + 지/EC
+못하고	못하/VX + 고/EC
+있고,	있/VX + 고/EC + ,/SP
+남북한간의	남북한/NNP + 간/NNB + 의/JKG
+소득	소득/NNG
+격차는	격차/NNG + 는/JX
+점점	점점/MAG
+더	더/MAG
+벌어지고	벌어지/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+최근	최근/NNG
+전역한	전역/NNG + 하/XSV + ㄴ/ETM
+로버트	로버트/NNP
+리스카시	리스카시/NNP
+전	전/MM
+주한	주한/NNG
+미군	미군/NNG
+사령관은	사령관/NNG + 은/JX
+바로	바로/MAG
+이런	이런/MM
+문제들을	문제/NNG + 들/XSN + 을/JKO
+지적,	지적/NNG + ,/SP
+"북한	"/SS + 북한/NNP
+지도부가	지도부/NNG + 가/JKS
+국내	국내/NNG
+경제	경제/NNG
+문제	문제/NNG
+등으로	등/NNB + 으로/JKB
+인한	인하/VV + ㄴ/ETM
+좌절감이나	좌절감/NNG + 이나/JC
+정치사회	정치/NNG + 사회/NNG
+불안으로	불안/NNG + 으로/JKB
+인해	인하/VV + 아/EC
+어쩔	어쩌/VV + ㄹ/ETM
+수	수/NNB
+없이	없이/MAG
+남침하게	남침/NNG + 하/XSV + 게/EC
+되는	되/VV + 는/ETM
+사태가	사태/NNG + 가/JKS
+발생할	발생/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있다"고	있/VV + 다/EC + "/SS + 고/JKQ
+우려했다.	우려/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+현재	현재/MAG
+북한에서	북한/NNP + 에서/JKB
+일고	일/VV + 고/EC
+있는	있/VX + 는/ETM
+이	이/NP
+같은	같/VA + 은/ETM
+사태는	사태/NNG + 는/JX
+이미	이미/MAG
+남북한	남북한/NNP
+관계	관계/NNG
+차원	차원/NNG
+이상의	이상/NNG + 의/JKG
+파장을	파장/NNG + 을/JKO
+부르고	부르/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+북한이	북한/NNP + 이/JKS
+NPT탈퇴에	NPT/SL + 탈퇴/NNG + 에/JKB
+이어	잇/VV + 어/EC
+지난	지나/VV + ㄴ/ETM
+5월	5/SN + 월/NNB
+동해상에서	동해/NNG + 상/XSN + 에서/JKB
+중거리	중거리/NNG
+미사일	미사일/NNG
+'로동	'/SS + 로동/NNP
+1호'발사에	1/SN + 호/NNB + '/SS + 발사/NNG + 에/JKB
+성공하자	성공/NNG + 하/XSV + 자/EC
+일본은	일본/NNP + 은/JX
+대단히	대단히/MAG
+민감한	민감/XR + 하/XSA + ㄴ/ETM
+반응과	반응/NNG + 과/JKB
+함께	함께/MAG
+오는	오/VV + 는/ETM
+95년에	95/SN + 년/NNB + 에/JKB
+있을	있/VV + 을/ETM
+핵확산금지조약의	핵/NNG + 확산/NNG + 금지/NNG + 조약/NNG + 의/JKG
+무기한	무/XPN + 기한/NNG
+연장에	연장/NNG + 에/JKB
+동의할	동의/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+없을지도	없/VA + 을지/EC + 도/JX
+모른다는	모르/VV + ㄴ다는/ETM
+입장을	입장/NNG + 을/JKO
+밝혔다.	밝히/VV + 었/EP + 다/EF + ./SF
+
+한국도	한국/NNP + 도/JX
+얼마	얼마/NNG
+뒤인	뒤/NNG + 이/VCP + ㄴ/ETM
+6월	6/SN + 월/NNB
+4일	4/SN + 일/NNB
+새로운	새롭/VA + ㄴ/ETM
+우주	우주/NNG
+로켓인	로켓/NNG + 이/VCP + ㄴ/ETM
+'과학	'/SS + 과학/NNG
+1호'를	1/SN + 호/NNB + '/SS + 를/JKO
+발사했다.	발사/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+한국	한국/NNP
+정부는	정부/NNG + 는/JX
+당시	당시/NNG
+발사를	발사/NNG + 를/JKO
+"한반도	"/SS + 한반도/NNP
+상공의	상공/NNG + 의/JKG
+오존	오존/NNG
+수치를	수치/NNG + 를/JKO
+측정하기	측정/NNG + 하/XSV + 기/ETN
+위한	위하/VV + ㄴ/ETM
+것"이라고만	것/NNB + "/SS + 이라고/JKQ + 만/JX
+밝히고	밝히/VV + 고/EC
+있으나,	있/VX + 으나/EC + ,/SP
+로켓	로켓/NNG
+발사와	발사/NNG + 와/JC
+유도	유도/NNG
+미사일	미사일/NNG
+발사는	발사/NNG + 는/JX
+기술적으로	기술/NNG + 적/XSN + 으로/JKB
+거의	거의/MAG
+같은	같/VA + 은/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+미국의	미국/NNP + 의/JKG
+분석가들은	분석가/NNG + 들/XSN + 은/JX
+이	이/NP
+같은	같/VA + 은/ETM
+사태가	사태/NNG + 가/JKS
+새로운	새롭/VA + ㄴ/ETM
+군비경쟁의	군비/NNG + 경쟁/NNG + 의/JKG
+시작일지도	시작/NNG + 이/VCP + ㄹ지/EC + 도/JX
+모른다고	모르/VV + ㄴ다고/EC
+우려하고	우려/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+북한에	북한/NNP + 에/JKB
+의해	의하/VV + 아/EC
+위협을	위협/NNG + 을/JKO
+느낀	느끼/VV + ㄴ/ETM
+일본이	일본/NNP + 이/JKS
+이미	이미/MAG
+축적된	축적/NNG + 되/XSV + ㄴ/ETM
+민간	민간/NNG
+원자력	원자력/NNG
+기술과	기술/NNG + 과/JC
+우주	우주/NNG
+로켓	로켓/NNG
+기술을	기술/NNG + 을/JKO
+이용,	이용/NNG + ,/SP
+비교적	비교/NNG + 적/XSN
+빨리	빨리/MAG
+자체	자체/NNG
+핵무장을	핵/NNG + 무장/NNG + 을/JKO
+추진하고,	추진/NNG + 하/XSV + 고/EC + ,/SP
+한국도	한국/NNP + 도/JX
+꼭	꼭/MAG
+같은	같/VA + 은/ETM
+방향으로	방향/NNG + 으로/JKB
+대응책을	대응책/NNG + 을/JKO
+마련하게	마련/NNG + 하/XSV + 게/EC
+되는	되/VV + 는/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+한일	한/NNP + 일/NNP
+양국이	양국/NNG + 이/JKS
+취하는	취하/VV + 는/ETM
+이	이/NP
+같은	같/VA + 은/ETM
+조치들은	조치/NNG + 들/XSN + 은/JX
+중국	중국/NNP
+측의	측/NNB + 의/JKG
+심각한	심각/XR + 하/XSA + ㄴ/ETM
+우려를	우려/NNG + 를/JKO
+사게	사/VV + 게/EC
+될	되/VV + ㄹ/ETM
+것이	것/NNB + 이/JKS
+틀림없다.	틀림없/VA + 다/EF + ./SF
+
+미	미/NNP
+랜드	랜드/NNG
+연구소의	연구소/NNG + 의/JKG
+로저	로저/NNP
+몰랜더	몰랜더/NNP
+연구원은	연구원/NNG + 은/JX
+"현재의	"/SS + 현재/NNG + 의/JKG
+상황은	상황/NNG + 은/JX
+복잡한	복잡/XR + 하/XSA + ㄴ/ETM
+도미노	도미노/NNG
+게임	게임/NNG
+같은	같/VA + 은/ETM
+논리"라며	논리/NNG + "/SS + 이/VCP + 라며/EC
+"관계국들이	"/SS + 관계국/NNG + 들/XSN + 이/JKS
+어디까지	어디/NP + 까지/JX
+사태를	사태/NNG + 를/JKO
+몰고	몰/VV + 고/EC
+가게	가/VV + 게/EC
+될지가	되/VV + ㄹ지/EC + 가/JKS
+관심"이라고	관심/NNG + "/SS + 이라고/JKQ
+말했다.	말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+북한은	북한/NNP + 은/JX
+항상	항상/MAG
+전방	전방/NNG
+배치	배치/NNG
+상태로	상태/NNG + 로/JKB
+남침	남침/NNG
+태세를	태세/NNG + 를/JKO
+갖추고	갖추/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+개리	개리/NNP
+럭	럭/NNP
+신임	신임/NNG
+주한	주한/NNG
+미군	미군/NNG
+사령관은	사령관/NNG + 은/JX
+"현재	"/SS + 현재/MAG
+북한	북한/NNP
+군사력의	군사력/NNG + 의/JKG
+65%가	65/SN + %/SW + 가/JKS
+휴전선	휴전선/NNG
+부근으로	부근/NNG + 으로/JKB
+최전방	최/XPN + 전방/NNG
+배치	배치/NNG
+상태를	상태/NNG + 를/JKO
+유지하고	유지/NNG + 하/XSV + 고/EC
+있어	있/VX + 어/EC
+남침	남침/NNG
+예고	예고/NNG
+시간은	시간/NNG + 은/JX
+짧을	짧/VA + 을/ETM
+수밖에	수/NNB + 밖에/JX
+없다"고	없/VA + 다/EC + "/SS + 고/JKQ
+지적하면서,	지적/NNG + 하/XSV + 면서/EC + ,/SP
+"소규모	"/SS + 소/XPN + 규모/NNG
+충돌이	충돌/NNG + 이/JKS
+전면전으로	전면전/NNG + 으로/JKB
+확산될	확산/NNG + 되/XSV + ㄹ/ETM
+위험이	위험/NNG + 이/JKS
+있다"고	있/VV + 다/EC + "/SS + 고/JKQ
+우려했다.	우려/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+지난	지나/VV + ㄴ/ETM
+10년	10/SN + 년/NNB
+동안	동안/NNG
+북한은	북한/NNP + 은/JX
+육군을	육군/NNG + 을/JKO
+2배	2/SN + 배/NNG
+가까이	가까이/MAG
+증강시키면서,	증강/NNG + 시키/XSV + 면서/EC + ,/SP
+전차	전차/NNG
+및	및/MAG
+포대	포대/NNG
+보강	보강/NNG
+등을	등/NNB + 을/JKO
+통해	통하/VV + 아/EC
+기동성을	기동/NNG + 성/XSN + 을/JKO
+대폭	대폭/MAG
+강화해	강화/NNG + 하/XSV + 아/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+이	이/MM
+시기에	시기/NNG + 에/JKB
+보강된	보강/NNG + 되/XSV + ㄴ/ETM
+장비들	장비/NNG + 들/XSN
+가운데는	가운데/NNG + 는/JX
+이동식	이동식/NNG
+교량	교량/NNG
+등	등/NNB
+남침용	남침/NNG + 용/XSN
+장비들이	장비/NNG + 들/XSN + 이/JKS
+포함돼	포함/NNG + 되/XSV + 어/EC
+있으며	있/VX + 으며/EC
+이들은	이/NP + 들/XSN + 은/JX
+대부분	대부분/NNG
+휴전선	휴전선/NNG
+부근으로	부근/NNG + 으로/JKB
+배치돼	배치/NNG + 되/XSV + 어/EC
+있는	있/VX + 는/ETM
+상태다.	상태/NNG + 이/VCP + 다/EF + ./SF
+
+북한의	북한/NNP + 의/JKG
+잠재적인	잠재/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+기습	기습/NNG
+남침	남침/NNG
+가능성은	가능/NNG + 성/XSN + 은/JX
+미국방부	미/NNP + 국방부/NNG
+정책	정책/NNG
+입안가들에게	입안가/NNG + 들/XSN + 에게/JKB
+병참	병참/NNG
+및	및/MAG
+재정상의	재정/NNG + 상/XSN + 의/JKG
+고민	고민/NNG
+거리들을	거리/NNB + 들/XSN + 을/JKO
+안겨	안기/VV + 어/EC
+주고	주/VX + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+리스카시	리스카시/NNP
+전	전/MM
+주한	주한/NNG
+미군	미군/NNG
+사령관은	사령관/NNG + 은/JX
+"만일	"/SS + 만일/NNG
+미국의	미국/NNP + 의/JKG
+군사력이	군사력/NNG + 이/JKS
+세계	세계/NNG
+다른	다른/MM
+지역,	지역/NNG + ,/SP
+예를	예/NNG + 를/JKO
+들어	들/VV + 어/EC
+보스니아	보스니아/NNP
+같은	같/VA + 은/ETM
+지역에	지역/NNG + 에/JKB
+묶여	묶이/VV + 어/EC
+버리게	버리/VX + 게/EC
+되면,	되/VV + 면/EC + ,/SP
+북한이	북한/NNP + 이/JKS
+이를	이/NP + 를/JKO
+기회로	기회/NNG + 로/JKB
+포착하게	포착/NNG + 하/XSV + 게/EC
+될	되/VV + ㄹ/ETM
+가능성이	가능/NNG + 성/XSN + 이/JKS
+있다"고	있/VV + 다/EC + "/SS + 고/JKQ
+지적했다.	지적/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+휴전선의	휴전선/NNP + 의/JKG
+미군	미군/NNG
+지휘관들은	지휘관/NNG + 들/XSN + 은/JX
+최악의	최악/NNG + 의/JKG
+상황에도	상황/NNG + 에/JKB + 도/JX
+대비를	대비/NNG + 를/JKO
+갖춘	갖추/VV + ㄴ/ETM
+상태다.	상태/NNG + 이/VCP + 다/EF + ./SF
+
+포병대대	포병/NNG + 대대/NNG
+지휘관인	지휘관/NNG + 이/VCP + ㄴ/ETM
+잭	잭/NNP
+맥도널드	맥도널드/NNP
+중령은	중령/NNG + 은/JX
+"북한의	"/SS + 북한/NNP + 의/JKG
+화력이	화력/NNG + 이/JKS
+숫적으로는	숫적/NNG + 으로/JKB + 는/JX
+우리의	우리/NP + 의/JKG
+다섯배이지만,	다섯/NR + 배/NNG + 이/VCP + 지만/EC + ,/SP
+미군은	미군/NNG + 은/JX
+컴퓨터	컴퓨터/NNG
+유도	유도/NNG
+레이더	레이더/NNG
+장치	장치/NNG
+등을	등/NNB + 을/JKO
+이용해	이용/NNG + 하/XSV + 아/EC
+적군의	적군/NNG + 의/JKG
+포대를	포대/NNG + 를/JKO
+정확히	정확히/MAG
+추적해	추적/NNG + 하/XSV + 아/EC
+파괴해	파괴/NNG + 하/XSV + 아/EC
+버릴	버리/VX + ㄹ/ETM
+것"이라고	것/NNB + "/SS + 이라고/JKQ
+자신했다.	자신/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+4일	4/SN + 일/NNB
+일제히	일제히/MAG
+시작된	시작/NNG + 되/XSV + ㄴ/ETM
+국정감사에서	국정/NNG + 감사/NNG + 에서/JKB
+율곡사업	율곡/NNP + 사업/NNG
+등이	등/NNB + 이/JKS
+재론됐으나	재/XPN + 론/NNG + 되/XSV + 었/EP + 으나/EC
+과거와	과거/NNG + 와/JKB
+같은	같/VA + 은/ETM
+대형	대형/NNG
+정치	정치/NNG
+쟁점들은	쟁점/NNG + 들/XSN + 은/JX
+부상하지	부상/NNG + 하/XSV + 지/EC
+않았다.	않/VX + 았/EP + 다/EF + ./SF
+
+대신	대신/NNG
+경기	경기/NNG
+침체	침체/NNG
+물가	물가/NNG
+앙등	앙등/NNG
+냉해	냉해/NNG
+주택	주택/NNG
+환경	환경/NNG
+등	등/NNB
+민생	민생/NNG
+문제에	문제/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+추궁이	추궁/NNG + 이/JKS
+날카로웠다.	날카롭/VA + 었/EP + 다/EF + ./SF
+
+경과위의	경과위/NNG + 의/JKG
+기획원에	기획원/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+감사에서	감사/NNG + 에서/JKB
+의원들은	의원/NNG + 들/XSN + 은/JX
+여야	여야/NNG
+가릴	가리/VV + ㄹ/ETM
+것	것/NNB
+없이	없이/MAG
+"내년	"/SS + 내년/NNG
+물가가	물가/NNG + 가/JKS
+걱정"이라고	걱정/NNG + "/SS + 이라고/JKQ
+입을	입/NNG + 을/JKO
+모으고	모으/VV + 고/EC
+경제	경제/NNG
+활성화	활성/NNG + 화/XSN
+대책을	대책/NNG + 을/JKO
+추궁.	추궁/NNG + ./SF
+
+민주당의	민주당/NNP + 의/JKG
+조세형	조세형/NNP
+의원은	의원/NNG + 은/JX
+상반기	상반기/NNG
+경제	경제/NNG
+성장률이	성장/NNG + 률/XSN + 이/JKS
+3.8%에	3/SN + ./SP + 8/SN + %/SW + 에/JKB
+불과하고,	불과/MAG + 하/XSA + 고/EC + ,/SP
+제조업	제조업/NNG
+성장률은	성장/NNG + 률/XSN + 은/JX
+1.8%로	1/SN + ./SP + 8/SN + %/SW + 로/JKB
+극히	극히/MAG
+저조한	저조/NNG + 하/XSA + ㄴ/ETM
+것을	것/NNB + 을/JKO
+지적하며	지적/NNG + 하/XSV + 며/EC
+"연간	"/SS + 연간/NNG
+5.7%	5/SN + ./SP + 7/SN + %/SW
+성장	성장/NNG
+목표	목표/NNG
+달성	달성/NNG
+계획을	계획/NNG + 을/JKO
+비롯해	비롯/XR + 하/XSV + 아/EC
+전체	전체/NNG
+계획을	계획/NNG + 을/JKO
+다시	다시/MAG
+짤	짜/VV + ㄹ/ETM
+용의는	용의/NNG + 는/JX
+없느냐"고	없/VA + 느냐/EC + "/SS + 고/JKQ
+물었다.	묻/VV + 었/EP + 다/EF + ./SF
+
+민자당	민자당/NNP
+이명박	이명박/NNP
+의원은	의원/NNG + 은/JX
+"올	"/SS + 올/MM
+성장률은	성장/NNG + 률/XSN + 은/JX
+4~4.5%에	4/SN + ~/SO + 4/SN + ./SP + 5/SN + %/SW + 에/JKB
+그칠	그치/VV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+예견된다"며	예견/NNG + 되/XSV + ㄴ다/EC + "/SS + 며/EC
+"엔고	"/SS + 엔고/NNG
+저유가	저/XPN + 유가/NNG
+국제금리	국제/NNG + 금리/NNG
+하락	하락/NNG
+중국	중국/NNP
+특수	특수/NNG
+등에도	등/NNB + 에/JKB + 도/JX
+회복되지	회복/NNG + 되/XSV + 지/EC
+못하는	못하/VX + 는/ETM
+국제	국제/NNG
+경쟁력이나	경쟁력/NNG + 이나/JC
+국제	국제/NNG
+경쟁력이나	경쟁력/NNG + 이나/JC
+경기	경기/NNG
+불황을	불황/NNG + 을/JKO
+감안,	감안/NNG + ,/SP
+정부가	정부/NNG + 가/JKS
+경제	경제/NNG
+위기를	위기/NNG + 를/JKO
+선언하고	선언/NNG + 하/XSV + 고/EC
+경제	경제/NNG
+활성화를	활성/NNG + 화/XSN + 를/JKO
+위한	위하/VV + ㄴ/ETM
+비상	비상/NNG
+대책을	대책/NNG + 을/JKO
+세워야	세우/VV + 어야/EC
+하는	하/VX + 는/ETM
+것	것/NNB
+아니냐"고	아니/VCN + 냐/EC + "/SS + 고/JKQ
+했다.	하/VV + 았/EP + 다/EF + ./SF
+
+상공자원위의	상공/NNG + 자원위/NNG + 의/JKG
+상공부	상공/NNG + 부/NNG
+감사에서	감사/NNG + 에서/JKB
+박정훈	박정훈/NNP
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+"청와대에서	"/SS + 청와대/NNP + 에서/JKB
+삼성의	삼성/NNP + 의/JKG
+승용차	승용차/NNG
+공장	공장/NNG
+부지로	부지/NNG + 로/JKB
+부산을	부산/NNP + 을/JKO
+내락했다는	내락/NNG + 하/XSV + 았/EP + 다는/ETM
+설이	설/NNG + 이/JKS
+있는	있/VV + 는/ETM
+데	데/NNB
+사실인가"라고	사실/NNG + 이/VCP + ㄴ가/EC + "/SS + 라고/JKQ
+질문.	질문/NNG + ./SF
+
+유인학	유인학/NNP
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+"새정부	"/SS + 새/MM + 정부/NNG
+출범	출범/NNG
+후	후/NNG
+상공부	상공/NNG + 부/NNG
+산하	산하/NNG
+21	21/SN
+개	개/NNB
+정부투자-출연	정부/NNG + 투자/NNG + -/SS + 출연/NNG
+기관	기관/NNG
+임원	임원/NNG
+인사에서	인사/NNG + 에서/JKB
+16	16/SN
+명중	명/NNB + 중/NNB
+5	5/SN
+명이	명/NNB + 이/JKS
+과거	과거/NNG
+대통령이	대통령/NNG + 이/JKS
+속했던	속하/VV + 았/EP + 던/ETM
+특정	특정/NNG
+정당	정당/NNG
+출신으로	출신/NNG + 으로/JKB
+채워졌는데	채우/VV + 어/EC + 지/VX + 었/EP + 는데/EC
+이것도	이것/NP + 도/JX
+개혁	개혁/NNG
+정책인가"라고	정책/NNG + 이/VCP + ㄴ가/EC + "/SS + 라고/JKQ
+힐난했고	힐난/NNG + 하/XSV + 았/EP + 고/EC
+이경재	이경재/NNP
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+"새정부가	"/SS + 새/MM + 정부/NNG + 가/JKS
+말로만	말/NNG + 로/JKB + 만/JX
+재벌	재벌/NNG
+그룹	그룹/NNG
+업종	업종/NNG
+전문화	전문/NNG + 화/XSN
+정책을	정책/NNG + 을/JKO
+내세웠을	내세우/VV + 었/EP + 을/ETM
+뿐	뿐/NNB
+성과는	성과/NNG + 는/JX
+거의	거의/MAG
+없다"고	없/VA + 다/EC + "/SS + 고/JKQ
+주장.	주장/NNG + ./SF
+
+문체위의	문체위/NNG + 의/JKG
+문화체육부에	문화/NNG + 체육부/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+감사에서	감사/NNG + 에서/JKB
+민주당의	민주당/NNP + 의/JKG
+림채정	림채정/NNP
+의원은	의원/NNG + 은/JX
+"91년의	"/SS + 91/SN + 년/NNB + 의/JKG
+영화	영화/NNG
+음반	음반/NNG
+비디오	비디오/NNG
+시장	시장/NNG
+개방	개방/NNG
+이후	이후/NNG
+미국	미국/NNP
+직배사들의	직배사/NNG + 들/XSN + 의/JKG
+로열티	로열티/NNG
+송금액이	송금액/NNG + 이/JKS
+1천억	1/SN + 천억/NR
+원에	원/NNB + 에/JKB
+이른다"고	이르/VV + ㄴ다/EC + "/SS + 고/JKQ
+주장하고	주장/NNG + 하/XSV + 고/EC
+국내	국내/NNG
+산업	산업/NNG
+보호	보호/NNG
+대책을	대책/NNG + 을/JKO
+질문.	질문/NNG + ./SF
+
+민자당의	민자당/NNP + 의/JKG
+김기도	김기도/NNP
+의원은	의원/NNG + 은/JX
+"현재	"/SS + 현재/MAG
+방영되고	방영/NNG + 되/XSV + 고/EC
+있는	있/VX + 는/ETM
+만화영화	만화/NNG + 영화/NNG
+비디오용	비디오/NNG + 용/XSN
+만화	만화/NNG
+아동용	아동/NNG + 용/XSN
+만화책	만화책/NNG
+등이	등/NNB + 이/JKS
+대부분	대부분/NNG
+일본에서	일본/NNP + 에서/JKB
+들여온	들여오/VV + ㄴ/ETM
+것"이라고	것/NNB + "/SS + 이라고/JKQ
+지적하며	지적/NNG + 하/XSV + 며/EC
+일본	일본/NNP
+만화	만화/NNG
+유통의	유통/NNG + 의/JKG
+법적	법/NNG + 적/XSN
+근거를	근거/NNG + 를/JKO
+물었다.	묻/VV + 었/EP + 다/EF + ./SF
+
+민자당	민자당/NNP
+박종웅	박종웅/NNP
+의원은	의원/NNG + 은/JX
+"성직자라	"/SS + 성직자/NNG + 이/VCP + 라/EC
+하더라도	하/VV + 더라도/EC
+종교	종교/NNG
+활동비	활동비/NNG
+외의	외/NNB + 의/JKG
+사실상의	사실/NNG + 상/XSN + 의/JKG
+고정	고정/NNG
+급여에	급여/NNG + 에/JKB
+대해서는	대하/VV + 아서/EC + 는/JX
+과세하는	과세/NNG + 하/XSV + 는/ETM
+것이	것/NNB + 이/JKS
+바람직하다"고	바람직/XR + 하/XSA + 다/EC + "/SS + 고/JKQ
+주장.	주장/NNG + ./SF
+
+그는	그/NP + 는/JX
+"종교계의	"/SS + 종교/NNG + 계/XSN + 의/JKG
+헌금	헌금/NNG
+규모는	규모/NNG + 는/JX
+정부가	정부/NNG + 가/JKS
+작성한	작성/NNG + 하/XSV + ㄴ/ETM
+자료에서도	자료/NNG + 에서/JKB + 도/JX
+지하경제	지하/NNG + 경제/NNG
+자금의	자금/NNG + 의/JKG
+주요	주요/NNG
+공급원으로	공급원/NNG + 으로/JKB
+꼽힌	꼽히/VV + ㄴ/ETM
+적이	적/NNB + 이/JKS
+있다"면서	있/VV + 다/EC + "/SS + 면서/EC
+"금융실명제의	"/SS + 금융/NNG + 실명/NNG + 제/XSN + 의/JKG
+성공을	성공/NNG + 을/JKO
+위해서도	위하/VV + 아서/EC + 도/JX
+막대한	막대/XR + 하/XSA + ㄴ/ETM
+규모의	규모/NNG + 의/JKG
+종교	종교/NNG
+자금에	자금/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+감독	감독/NNG
+강화가	강화/NNG + 가/JKS
+절실하다"고	절실/XR + 하/XSA + 다/EC + "/SS + 고/JKQ
+강조.	강조/NNG + ./SF
+
+농림수산부를	농림수산부/NNG + 를/JKO
+감사한	감사/NNG + 하/XSV + ㄴ/ETM
+농림수산위는	농림/NNG + 수산위/NNG + 는/JX
+10여	10/SN + 여/XSN
+년만의	년/NNB + 만/JX + 의/JKG
+냉해와	냉해/NNG + 와/JC
+병충해에	병충해/NNG + 에/JKB
+따른	따르/VV + ㄴ/ETM
+보상	보상/NNG
+대책을	대책/NNG + 을/JKO
+정부측에	정부/NNG + 측/NNB + 에/JKB
+강력히	강력히/MAG
+촉구.	촉구/NNG + ./SF
+
+민주당	민주당/NNP
+김영진	김영진/NNP
+김인곤	김인곤/NNP
+이길재	이길재/NNP
+의원	의원/NNG
+등은	등/NNB + 은/JX
+"정부의	"/SS + 정부/NNG + 의/JKG
+냉해	냉해/NNG
+피해	피해/NNG
+추산이	추산/NNG + 이/JKS
+주먹구구식으로	주먹구구식/NNG + 으로/JKB
+이뤄졌을	이루어지/VV + 었/EP + 을/ETM
+뿐	뿐/NNB
+아니라	아니/VCN + 라/EC
+피해	피해/NNG
+정도를	정도/NNG + 를/JKO
+지나치게	지나치/VA + 게/EC
+낙관,	낙관/NNG + ,/SP
+축소한	축소/NNG + 하/XSV + ㄴ/ETM
+의혹이	의혹/NNG + 이/JKS
+있다"고	있/VV + 다/EC + "/SS + 고/JKQ
+질책.	질책/NNG + ./SF
+
+이들은	이/NP + 들/XSN + 은/JX
+이어	이어/MAG
+"현행	"/SS + 현행/NNG
+농어업	농어업/NNG
+재해	재해/NNG
+대책법과	대책/NNG + 반/NNG + 과/JC
+피해	피해/NNG
+농가	농가/NNG
+복구	복구/NNG
+지원	지원/NNG
+기준을	기준/NNG + 을/JKO
+전면	전면/NNG
+개정,	개정/NNG + ,/SP
+농가에	농가/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+보상	보상/NNG
+수준을	수준/NNG + 을/JKO
+단순한	단순/NNG + 하/XSA + ㄴ/ETM
+구호	구호/NNG
+차원에서	차원/NNG + 에서/JKB
+실질적인	실질/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+보상이	보상/NNG + 이/JKC
+되도록	되/VV + 도록/EC
+하라"고	하/VX + 라/EC + "/SS + 고/JKQ
+촉구.	촉구/NNG + ./SF
+
+민자당	민자당/NNP
+박경수	박경수/NNP
+의원도	의원/NNG + 도/JX
+냉해와	냉해/NNG + 와/JC
+병충해	병충해/NNG
+피해를	피해/NNG + 를/JKO
+집중	집중/NNG
+거론하면서	거론/NNG + 하/XSV + 면서/EC
+농가	농가/NNG
+희망	희망/NNG
+전량	전량/NNG
+매입	매입/NNG
+및	및/MAG
+매입가	매입/NNG + 가/XSN
+8%이상	8/SN + %/SW + 이상/NNG
+인상을	인상/NNG + 을/JKO
+촉구.	촉구/NNG + ./SF
+
+국방위의	국방위/NNG + 의/JKG
+국방부	국방부/NNG
+및	및/MAG
+합참에	합참/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+국정감사에서	국정/NNG + 감사/NNG + 에서/JKB
+민주당	민주당/NNP
+의원들은	의원/NNG + 들/XSN + 은/JX
+지난번	지난번/NNG
+국정조사	국정/NNG + 조사/NNG
+때	때/NNG
+초점이	초점/NNG + 이/JKS
+집중됐던	집중/NNG + 되/XSV + 었/EP + 던/ETM
+차세대	차세대/NNG
+전투기뿐	전투기/NNG + 뿐/JX
+아니라	아니/VCN + 라/EC
+잠수함	잠수함/NNG
+헬기	헬기/NNG
+K	K/SL
+1전차	1/SN + 전차/NNG
+중형	중형/NNG
+수송기	수송기/NNG
+등에	등/NNB + 에/JKB
+대해	대하/VV + 아/EC
+백화점식	백화점/NNG + 식/NNB
+질의	질의/NNG
+공세를	공세/NNG + 를/JKO
+전개.	전개/NNG + ./SF
+
+나병선	나병선/NNP
+의원은	의원/NNG + 은/JX
+"핵심	"/SS + 핵심/NNG
+기술	기술/NNG
+이전	이전/NNG
+없는	없/VA + 는/ETM
+율곡	율곡/NNP
+사업	사업/NNG
+추진으로	추진/NNG + 으로/JKB
+전투기	전투기/NNG
+잠수함	잠수함/NNG
+헬기	헬기/NNG
+사업에만	사업/NNG + 에/JKB + 만/JX
+모두	모두/MAG
+1조	1/SN + 조/NR
+49	49/SN
+억원의	억/NR + 원/NNB + 의/JKG
+예산이	예산/NNG + 이/JKS
+낭비됐다"고	낭비/NNG + 되/XSV + 었/EP + 다/EC + "/SS + 고/JKQ
+주장했고	주장/NNG + 하/XSV + 았/EP + 고/EC
+임복진	임복진/NNP
+의원은	의원/NNG + 은/JX
+"차세대	"/SS + 차세대/NNG
+전투기	전투기/NNG
+사업은	사업/NNG + 은/JX
+특정	특정/NNG
+정권과	정권/NNG + 과/JC
+특정	특정/NNG
+재벌이	재벌/NNG + 이/JKS
+고도의	고도/NNG + 의/JKG
+커넥션을	커넥션/NNG + 을/JKO
+형성해	형성/NNG + 하/XSV + 아/EC
+추진해	추진/NNG + 하/XSV + 아/EC
+온	오/VX + ㄴ/ETM
+한국판	한국판/NNG
+군산	군산/NNP
+복합체"라고	복합체/NNG + "/SS + 라고/JKQ
+주장.	주장/NNG + ./SF
+
+정대철	정대철/NNP
+의원은	의원/NNG + 은/JX
+"국방부는	"/SS + 국방부/NNG + 는/JX
+87년도에	87/SN + 년도/NNB + 에/JKB
+2백	2/SN + 백/NR
+78	78/SN
+억원의	억/NR + 원/NNB + 의/JKG
+율곡	율곡/NNP
+사업비를	사업비/NNG + 를/JKO
+평화의	평화/NNG + 의/JKG
+댐	댐/NNG
+건설비로	건설비/NNG + 로/JKB
+전용했다"고	전용/NNG + 하/XSV + 았/EP + 다/EC + "/SS + 고/JKQ
+주장했고	주장/NNG + 하/XSV + 았/EP + 고/EC
+민자당	민자당/NNP
+서수종	서수종/NNP
+의원은	의원/NNG + 은/JX
+"북한의	"/SS + 북한/NNP + 의/JKG
+로동1-2호	로동/NNP + 1/SN + -/SS + 2/SN + 호/NNB
+미사일	미사일/NNG
+생산	생산/NNG
+및	및/MAG
+개발에	개발/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+우리	우리/NP
+정부의	정부/NNG + 의/JKG
+대응	대응/NNG
+체제는	체제/NNG + 는/JX
+무엇이냐"고	무엇/NP + 이/VCP + 냐/EC + "/SS + 고/JKQ
+질의.	질의/NNG + ./SF
+
+주택	주택/NNG
+공사에	공사/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+건설위	건설위/NNG
+감사에서	감사/NNG + 에서/JKB
+이석현	이석현/NNP
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+주공이	주공/NNP + 이/JKS
+88년	88/SN + 년/NNB
+이후	이후/NNG
+건설한	건설/NNG + 하/XSV + ㄴ/ETM
+수원	수원/NNP
+권선	권선/NNG
+등	등/NNB
+16	16/SN
+개	개/NNB
+아파트	아파트/NNG
+단지에서	단지/NNG + 에서/JKB
+분양	분양/NNG
+면적을	면적/NNG + 을/JKO
+실제	실제/NNG
+등기	등기/NNG
+면적보다	면적/NNG + 보다/JKB
+3만	3/SN + 만/NR
+6천	6/SN + 천/NR
+평이나	평/NNB + 이나/JX
+부풀려	부풀리/VV + 어/EC
+공고한	공고/NNG + 하/XSV + ㄴ/ETM
+사실을	사실/NNG + 을/JKO
+들어	들/VV + 어/EC
+"이는	"/SS + 이/NP + 는/JX
+무주택	무/XPN + 주택/NNG
+서민을	서민/NNG + 을/JKO
+속여	속이/VV + 어/EC
+최소	최소/NNG
+1천	1/SN + 천/NR
+2백억	2/SN + 백억/NR
+원대의	원/NNB + 대/XSN + 의/JKG
+부당	부당/NNG
+이익을	이익/NNG + 을/JKO
+챙긴	챙기/VV + ㄴ/ETM
+것	것/NNB
+아니냐"고	아니/VCN + 냐/EC + "/SS + 고/JKQ
+따졌다.	따지/VV + 었/EP + 다/EF + ./SF
+
+최재승	최재승/NNP
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+공공	공공/NNG
+임대	임대/NNG
+주택	주택/NNG
+확대를	확대/NNG + 를/JKO
+촉구.	촉구/NNG + ./SF
+
+신경식(민자)	신경식/NNP + (/SS + 민자/NNP + )/SS
+오탄	오탄/NNP
+김옥천(이상	김옥천/NNP + (/SS + 이상/NNG
+민주)	민주/NNP + )/SS
+장경우	장경우/NNP
+의원(무소속)	의원/NNG + (/SS + 무/XPN + 소속/NNG + )/SS
+등은	등/NNB + 은/JX
+한양	한양/NNP
+인수에	인수/NNG + 에/JKB
+대해	대하/VV + 아/EC
+"부실기업	"/SS + 부실기업/NNG
+인수로	인수/NNG + 로/JKB
+재정	재정/NNG
+악화와	악화/NNG + 와/JC
+평당	평/NNB + 당/XSN
+아파트	아파트/NNG
+공급가격의	공급/NNG + 가격/NNG + 의/JKG
+상승이	상승/NNG + 이/JKS
+초래될	초래/NNG + 되/XSV + ㄹ/ETM
+뿐	뿐/NNB
+아니라	아니/VCN + 라/EC
+한양이	한양/NNP + 이/JKS
+시공하던	시공/NNG + 하/XSV + 던/ETM
+13	13/SN
+개	개/NNB
+지구	지구/NNG
+1만	1/SN + 만/NR
+1백	1/SN + 백/NR
+41가구에	41/SN + 가구/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+입주	입주/NNG
+지연	지연/NNG
+등으로	등/NNB + 으로/JKB
+모두	모두/MAG
+3백	3/SN + 백/NR
+51억	51/SN + 억/NR
+원의	원/NNB + 의/JKG
+지체	지체/NNG
+보상금을	보상금/NNG + 을/JKO
+지불해야	지불/NNG + 하/XSV + 아야/EC
+한다"며	하/VX + ㄴ다/EC + "/SS + 며/EC
+대책을	대책/NNG + 을/JKO
+추궁.	추궁/NNG + ./SF
+
+보사위의	보사위/NNG + 의/JKG
+광주	광주/NNP
+지방	지방/NNG
+환경청	환경청/NNG
+감사에서	감사/NNG + 에서/JKB
+의원들은	의원/NNG + 들/XSN + 은/JX
+광양만	광양만/NNP
+기름	기름/NNG
+유출	유출/NNG
+사고에	사고/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+대책을	대책/NNG + 을/JKO
+중점	중점/NNG
+질의.	질의/NNG + ./SF
+
+주수영	주수영/NNP
+청장은	청장/NNG + 은/JX
+이날	이날/NNG
+"29일	"/SS + 29/SN + 일/NNB
+현재	현재/MAG
+바다에	바다/NNG + 에/JKB
+유출된	유출/NNG + 되/XSV + ㄴ/ETM
+기름	기름/NNG
+중	중/NNB
+40%가량이	40/SN + %/SW + 가량/NNG + 이/JKS
+제거됐다"고	제거/NNG + 되/XSV + 었/EP + 다/EC + "/SS + 고/JKQ
+보고했는데	보고/NNG + 하/XSV + 았/EP + 는데/EC
+강삼재	강삼재/NNP
+의원이	의원/NNG + 이/JKS
+"지금이	"/SS + 지금/NNG + 이/JKS
+며칠인데	며칠/NNG + 이/VCP + ㄴ데/EC
+언제적	언제/NP + 적/NNB
+보고를	보고/NNG + 를/JKO
+하고	하/VV + 고/EC
+있느냐"고	있/VX + 느냐/EC + "/SS + 고/JKQ
+질책하자,	질책/NNG + 하/XSV + 자/EC + ,/SP
+"3일	"/SS + 3/SN + 일/NNB
+현재	현재/MAG
+95%가	95/SN + %/SW + 가/JKS
+제거됐다"고	제거/NNG + 되/XSV + 었/EP + 다/EC + "/SS + 고/JKQ
+정정.	정정/NNG + ./SF
+
+그러나	그러나/MAJ
+"현지에	"/SS + 현지/NNG + 에/JKB
+파견된	파견/NNG + 되/XSV + ㄴ/ETM
+환경처	환경처/NNG
+직원이	직원/NNG + 이/JKS
+있느냐"는	있/VV + 느냐/EC + "/SS + 는/ETM
+장기욱	장기욱/NNP
+위원장의	위원장/NNG + 의/JKG
+질문에	질문/NNG + 에/JKB
+"없다"고	"/SS + 없/VA + 다/EC + "/SS + 고/JKQ
+답변.	답변/NNG + ./SF
+
+이에	이/NP + 에/JKB
+의원들은	의원/NNG + 들/XSN + 은/JX
+일제히	일제히/MAG
+"환경처가	"/SS + 환경/NNG + 처/NNG + 가/JKS
+이	이/NP
+같은	같/VA + 은/ETM
+대형	대형/NNG
+재해에	재해/NNG + 에/JKB
+대해	대하/VV + 아/EC
+남의	남/NNG + 의/JKG
+일인	일/NNG + 이/VCP + ㄴ/ETM
+양	양/NNB
+뒷짐을	뒷짐/NNG + 을/JKO
+지고	지/VV + 고/EC
+있어서야	있/VX + 어서/EC + 야/JX
+되겠느냐"고	되/VV + 겠/EP + 느냐/EC + "/SS + 고/JKQ
+일침.	일침/NNG + ./SF
+
+부산시와	부산시/NNP + 와/JC
+부산	부산/NNP
+경찰청을	경찰청/NNG + 을/JKO
+감사한	감사/NNG + 하/XSV + ㄴ/ETM
+내무위에서	내무위/NNG + 에서/JKB
+남평우	남평우/NNP
+의원(민자)은	의원/NNG + (/SS + 민자/NNP + )/SS + 은/JX
+을숙도를	을숙도/NNP + 를/JKO
+쓰레기	쓰레기/NNG
+매립장으로	매립장/NNG + 으로/JKB
+선정한	선정/NNG + 하/XSV + ㄴ/ETM
+경위	경위/NNG
+등	등/NNB
+쓰레기	쓰레기/NNG
+매립장	매립장/NNG
+문제를	문제/NNG + 를/JKO
+집중	집중/NNG
+추궁했고	추궁/NNG + 하/XSV + 았/EP + 고/EC
+이협	이협/NNP
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+관변	관변/NNG
+단체	단체/NNG
+예산	예산/NNG
+지원	지원/NNG
+중단을	중단/NNG + 을/JKO
+촉구.	촉구/NNG + ./SF
+
+국회는14일	국회/NNG + 는/JX + 14/SN + 일/NNB
+14개	14/SN + 개/NNB
+상임위	상임위/NNG
+별로	별로/MAG
+국정감사를	국정/NNG + 감사/NNG + 를/JKO
+계속했다.	계속/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+보사위의	보사위/NNG + 의/JKG
+환경처	환경처/NNG
+감사에서	감사/NNG + 에서/JKB
+여야	여야/NNG
+의원들은	의원/NNG + 들/XSN + 은/JX
+환경처를	환경/NNG + 처/NNG + 를/JKO
+비롯한	비롯/XR + 하/XSV + ㄴ/ETM
+산하	산하/NNG
+기관이	기관/NNG + 이/JKS
+법에	법/NNG + 에/JKB
+규정된	규정/NNG + 되/XSV + ㄴ/ETM
+대로	대로/NNB
+감시-감독을	감시/NNG + -/SS + 감독/NNG + 을/JKO
+제대로	제대로/MAG
+하지	하/VV + 지/EC
+않고	않/VX + 고/EC
+적당주의로	적당주의/NNG + 로/JKB
+일관,	일관/NNG + ,/SP
+환경	환경/NNG
+오염을	오염/NNG + 을/JKO
+방관하는	방관/NNG + 하/XSV + 는/ETM
+실태를	실태/NNG + 를/JKO
+신랄하게	신랄/XR + 하/XSA + 게/EC
+지적.	지적/NNG + ./SF
+
+환경처의	환경/NNG + 처/NNG + 의/JKG
+'핑크빛'	'/SS + 핑크/NNG + 빛/NNG + '/SS
+업무	업무/NNG
+보고에	보고/NNG + 에/JKB
+강우혁	강우혁/NNP
+의원(민자)은	의원/NNG + (/SS + 민자/NNP + )/SS + 은/JX
+"수질	"/SS + 수질/NNG
+현황	현황/NNG
+보고가	보고/NNG + 가/JKS
+현실과	현실/NNG + 과/JKB
+너무	너무/MAG
+동떨어져	동떨어지/VV + 어/EC
+있다"고	있/VX + 다/EC + "/SS + 고/JKQ
+제동을	제동/NNG + 을/JKO
+걸었고	걸/VV + 었/EP + 고/EC
+이해찬	이해찬/NNP
+의원(민주)도	의원/NNG + (/SS + 민주/NNP + )/SS + 도/JX
+"이미	"/SS + 이미/MAG
+지난4월	지나/VV + ㄴ/ETM + 4/SN + 월/NNB
+인천	인천/NNP
+경서동	경서동/NNP
+김포매립지	김포/NNP + 매립지/NNG
+제2공구를	제/XPN + 2/SN + 공구/NNG + 를/JKO
+수도권	수도/NNG + 권/XSN
+특정	특정/NNG
+폐기물	폐기물/NNG
+매립지로	매립지/NNG + 로/JKB
+확정하고도	확정/NNG + 하/XSV + 고/EC + 도/JX
+주민과	주민/NNG + 과/JC
+국회에	국회/NNG + 에/JKB
+결정된	결정/NNG + 되/XSV + ㄴ/ETM
+바	바/NNB
+없다고	없/VA + 다고/EC
+기만하고	기만/NNG + 하/XSV + 고/EC
+있다"고	있/VX + 다/EC + "/SS + 고/JKQ
+질책.김한규	질책/NNG + ./SF + 김한규/NNP
+
+김찬우	김찬우/NNP
+의원(민자)은	의원/NNG + (/SS + 민자/NNP + )/SS + 은/JX
+"사업자가	"/SS + 사업자/NNG + 가/JKS
+농림수산부인	농림수산부/NNG + 이/VCP + ㄴ/ETM
+금당-칠량-안좌	금당/NNG + -/SS + 칠량/NNG + -/SS + 안좌/NNG
+등	등/NNB
+11	11/SN
+개	개/NNB
+간척지의	간척지/NNG + 의/JKG
+환경	환경/NNG
+영향	영향/NNG
+평가를	평가/NNG + 를/JKO
+산하	산하/NNG
+기관인	기관/NNG + 이/VCP + ㄴ/ETM
+농어촌	농어촌/NNG
+진흥	진흥/NNG
+공사에	공사/NNG + 에/JKB
+맡기고,	맡기/VV + 고/EC + ,/SP
+영흥	영흥/NNP
+도화력	도화력/NNG
+건설	건설/NNG
+사업	사업/NNG
+등	등/NNB
+한전이	한전/NNP + 이/JKS
+시행하는	시행/NNG + 하/XSV + 는/ETM
+사업을	사업/NNG + 을/JKO
+영향	영향/NNG
+평가는	평가/NNG + 는/JX
+한전	한전/NNP
+전력	전력/NNG
+기술(주)에,	기술/NNG + (/SS + 주/NNG + )/SS + 에/JKB + ,/SP
+민간	민간/NNG
+기업	기업/NNG
+시행	시행/NNG
+사업도	사업/NNG + 도/JX
+계열	계열/NNG
+업체에	업체/NNG + 에/JKB
+맡기는	맡기/VV + 는/ETM
+이런	이런/MM
+양태에	양태/NNG + 에/JKB
+대해	대하/VV + 아/EC
+환경처가	환경/NNG + 처/NNG + 가/JKS
+오불관언하는	오불관언/NNG + 하/XSV + 는/ETM
+이유가	이유/NNG + 가/JKS
+뭐냐"고	뭐/NP + 이/VCP + 냐/EC + "/SS + 고/JKQ
+따졌다.	따지/VV + 었/EP + 다/EF + ./SF
+
+김상현	김상현/NNP
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+"산청	"/SS + 산청/NNP
+양수	양수/NNG
+발전소	발전소/NNG
+건설과	건설/NNG + 과/JKB
+관련,	관련/NNG + ,/SP
+92년	92/SN + 년/NNB
+12월	12/SN + 월/NNB
+93년	93/SN + 년/NNB
+2월	2/SN + 월/NNB
+환경처는	환경처/NNG + 는/JX
+두	두/MM
+차례	차례/NNG
+'환경파괴	'/SS + 환경/NNG + 파괴/NNG
+영향파괴	영향/NNG + 파괴/NNG
+우려가	우려/NNG + 가/JKS
+커	크/VA + 어/EC
+타지역	타/MM + 지역/NNG
+선정	선정/NNG
+요망'	요망/NNG + '/SS
+판정을	판정/NNG + 을/JKO
+내렸는데	내리/VV + 었/EP + 는데/EC
+건설	건설/NNG
+계획이	계획/NNG + 이/JKS
+시행	시행/NNG
+중인	중/NNB + 이/VCP + ㄴ/ETM
+이유가	이유/NNG + 가/JKS
+뭐냐"고	뭐/NP + 이/VCP + 냐/EC + "/SS + 고/JKQ
+질문.김병오	질문/NNG + ./SF + 김병오/NNP
+
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+"환경기술개발원은	"/SS + 환경/NNG + 기술/NNG + 개발원/NNG + 은/JX
+이사진이	이사진/NNG + 이/JKS
+60만원을	60/SN + 만/NR + 원/NNB + 을/JKO
+내고,	내/VV + 고/EC + ,/SP
+30대기업에서	30/SN + 대/NNG + 기업/NNG + 에서/JKB
+8억	8/SN + 억/NR
+7천만	7/SN + 천만/NR
+원을	원/NNB + 을/JKO
+기탁받아	기탁/NNG + 받/VV + 아/EC
+설립했는데	설립/NNG + 하/XSV + 았/EP + 는데/EC
+환경처부터	환경/NNG + 처/NNG + 부터/JX
+편법으로	편법/NNG + 으로/JKB
+일관하고	일관/NNG + 하/XSV + 고/EC
+있다"고	있/VX + 다/EC + "/SS + 고/JKQ
+맹공격.	맹공격/NNG + ./SF
+
+이에	이/NP + 에/JKB
+조병환	조병환/NNP
+조정평가실장이	조정/NNG + 평가실장/NNG + 이/JKS
+"청와대와	"/SS + 청와대/NNP + 와/JKB
+협의해서…"라고	협의/NNG + 하/XSV + 아서/EC + …/SE + "/SS + 라고/JKQ
+대답하자,	대답/NNG + 하/XSV + 자/EC + ,/SP
+강삼재	강삼재/NNP
+의원(민자)은	의원/NNG + (/SS + 민자/NNP + )/SS + 은/JX
+"도대체	"/SS + 도대체/MAG
+감사	감사/NNG
+답변하면서	답변/NNG + 하/XSV + 면서/EC
+청와대를	청와대/NNP + 를/JKO
+파는	팔/VV + 는/ETM
+것은	것/NNB + 은/JX
+무슨	무슨/MM
+경우냐"고	경우/NNG + 이/VCP + 냐/EC + "/SS + 고/JKQ
+흥분.	흥분/NNG + ./SF
+
+그는	그/NP + 는/JX
+또	또/MAG
+"광양만	"/SS + 광양만/NNP
+기름	기름/NNG
+유출	유출/NNG
+사고가	사고/NNG + 가/JKS
+난지	나/VV + ㄴ/ETM + 지/NNB
+1주일이	1/SN + 주일/NNB + 이/JKS
+지나도록	지나/VV + 도록/EC
+지방환경청은	지방/NNG + 환경청/NNG + 은/JX
+바다	바다/NNG
+오염	오염/NNG
+실태조차	실태/NNG + 조차/JX
+파악하지	파악/NNG + 하/XSV + 지/EC
+못하고	못하/VX + 고/EC
+있고	있/VX + 고/EC
+수질	수질/NNG
+보전	보전/NNG
+특별	특별/NNG
+대책	대책/NNG
+이후	이후/NNG
+팔당호	팔당호/NNP
+수질이	수질/NNG + 이/JKS
+더	더/MAG
+악화되고	악화/NNG + 되/XSV + 고/EC
+있다"며	있/VX + 다/EC + "/SS + 며/EC
+환경	환경/NNG
+공무원들의	공무원/NNG + 들/XSN + 의/JKG
+자세	자세/NNG
+전환을	전환/NNG + 을/JKO
+촉구.	촉구/NNG + ./SF
+
+박주천	박주천/NNP
+의원(민자)은	의원/NNG + (/SS + 민자/NNP + )/SS + 은/JX
+자신이	자신/NNG + 이/JKS
+10	10/SN
+명의	명/NNB + 의/JKG
+팀을	팀/NNG + 을/JKO
+동원,	동원/NNG + ,/SP
+3	3/SN
+개월	개월/NNB
+동안	동안/NNG
+추적한	추적/NNG + 하/XSV + ㄴ/ETM
+불법	불법/NNG
+폐건자재의	폐/XPN + 건자재/NNG + 의/JKG
+불법	불법/NNG
+방류	방류/NNG
+실태	실태/NNG
+자료를	자료/NNG + 를/JKO
+제시하며	제시/NNG + 하/XSV + 며/EC
+대책	대책/NNG
+마련을	마련/NNG + 을/JKO
+촉구.	촉구/NNG + ./SF
+
+상공자원위	상공/NNG + 자원위/NNG
+포철감사에서는	포철/NNP + 감사/NNG + 에서/JKB + 는/JX
+계열사	계열사/NNG
+정리	정리/NNG
+방안,	방안/NNG + ,/SP
+제품	제품/NNG
+판매	판매/NNG
+방식의	방식/NNG + 의/JKG
+문제점,	문제점/NNG + ,/SP
+정명식	정명식/NNP
+회장	회장/NNG
+취임	취임/NNG
+이후	이후/NNG
+인사의	인사/NNG + 의/JKG
+공정성	공정/NNG + 성/XSN
+등을	등/NNB + 을/JKO
+집중	집중/NNG
+추궁.	추궁/NNG + ./SF
+
+허삼수	허삼수/NNP
+의원(민자)은	의원/NNG + (/SS + 민자/NNP + )/SS + 은/JX
+"포철은	"/SS + 포철/NNP + 은/JX
+세계	세계/NNG
+속의	속/NNG + 의/JKG
+한국	한국/NNP
+기업을	기업/NNG + 을/JKO
+대표하는	대표/NNG + 하/XSV + 는/ETM
+공기업일	공기업/NNG + 이/VCP + ㄹ/ETM
+뿐	뿐/NNB
+아니라	아니/VCN + 라/EC
+포항이라는	포항/NNP + 이/VCP + 라는/ETM
+지역을	지역/NNG + 을/JKO
+대표하는	대표/NNG + 하/XSV + 는/ETM
+기업"이라며	기업/NNG + "/SS + 이/VCP + 라며/EC
+"회사명을	"/SS + 회사/NNG + 명/NNG + 을/JKO
+바꾸는	바꾸/VV + 는/ETM
+것은	것/NNB + 은/JX
+포항	포항/NNP
+주민의	주민/NNG + 의/JKG
+의사와	의사/NNG + 와/JKB
+무관할	무관/XR + 하/XSA + ㄹ/ETM
+수	수/NNB
+없는	없/VA + 는/ETM
+문제"라고	문제/NNG + "/SS + 라고/JKQ
+지적.	지적/NNG + ./SF
+
+반면	반면/NNG
+호남지역	호남/NNP + 지역/NNG
+출신	출신/NNG
+의원들은	의원/NNG + 들/XSN + 은/JX
+광양제철을	광양제철/NNP + 을/JKO
+의식한	의식/NNG + 하/XSV + ㄴ/ETM
+탓인지	탓/NNG + 이/VCP + ㄴ지/EC
+사명	사명/NNG
+변경에	변경/NNG + 에/JKB
+대해서는	대하/VV + 아서/EC + 는/JX
+비교적	비교/NNG + 적/XSN
+너그러운	너그럽/VA + ㄴ/ETM
+자세.	자세/NNG + ./SF
+
+사명	사명/NNG
+변경	변경/NNG
+문제에	문제/NNG + 에/JKB
+대해	대하/VV + 아/EC
+조말수	조말수/NNP
+사장은	사장/NNG + 은/JX
+"회사명에	"/SS + 회사/NNG + 명/NNG + 에/JKB
+대해서는	대하/VV + 아서/EC + 는/JX
+포철의	포철/NNP + 의/JKG
+이름으로	이름/NNG + 으로/JKB
+세계적으로	세계/NNG + 적/XSN + 으로/JKB
+통용되고	통용/NNG + 되/XSV + 고/EC
+있는	있/VX + 는/ETM
+포스코(POSCO)를	포스코/NNP + (/SS + POSCO/SL + )/SS + 를/JKO
+중심으로	중심/NNG + 으로/JKB
+검토하고	검토/NNG + 하/XSV + 고/EC
+있다"고	있/VX + 다/EC + "/SS + 고/JKQ
+답변.	답변/NNG + ./SF
+
+이경재	이경재/NNP
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+"포철이	"/SS + 포철/NNP + 이/JKS
+'이론	'/SS + 이론/NNG
+중량'으로	중량/NNG + '/SS + 으로/JKB
+무게를	무게/NNG + 를/JKO
+따져	따지/VV + 어/EC
+제품을	제품/NNG + 을/JKO
+출고하면서	출고/NNG + 하/XSV + 면서/EC
+허용	허용/NNG
+오차를	오차/NNG + 를/JKO
+악용,	악용/NNG + ,/SP
+수요자에게는	수요자/NNG + 에게/JKB + 는/JX
+실중량이	실/NNG + 중량/NNG + 이/JKS
+10%	10/SN + %/SW
+가까이	가까이/MAG
+부족하게	부족/NNG + 하/XSA + 게/EC
+판매하고	판매/NNG + 하/XSV + 고/EC
+있다"며	있/VX + 다/EC + "/SS + 며/EC
+"이에	"/SS + 이/NP + 에/JKB
+따른	따르/VV + ㄴ/ETM
+부당	부당/NNG
+이익이	이익/NNG + 이/JKS
+1조원에	1/SN + 조/NR + 원/NNB + 에/JKB
+이를	이/NP + 를/JKO
+것"이라는	것/NNB + "/SS + 이/VCP + 라는/ETM
+추정자료를	추정/NNG + 자료/NNG + 를/JKO
+제시했으나	제시/NNG + 하/XSV + 았/EP + 으나/EC
+포철	포철/NNP
+측은	측/NNB + 은/JX
+"생산	"/SS + 생산/NNG
+과출하시	과/XPN + 출하/NNG + 시/XSN
+동일하게	동일/NNG + 하/XSA + 게/EC
+이론	이론/NNG
+중량을	중량/NNG + 을/JKO
+적용하고	적용/NNG + 하/XSV + 고/EC
+있어	있/VX + 어/EC
+부당	부당/NNG
+이익이	이익/NNG + 이/JKS
+발생할	발생/NNG + 하/XSV + ㄹ/ETM
+여지가	여지/NNG + 가/JKS
+없다"고	없/VA + 다/EC + "/SS + 고/JKQ
+해명.	해명/NNG + ./SF
+
+내무위의	내무위/NNG + 의/JKG
+경찰청에	경찰청/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+감사에서	감사/NNG + 에서/JKB
+박상천	박상천/NNP
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+"90년	"/SS + 90/SN + 년/NNB
+이후	이후/NNG
+해난	해난/NNG
+사고로	사고/NNG + 로/JKB
+매년	매년/MAG
+2백여	2/SN + 백/NR + 여/XSN
+명이	명/NNB + 이/JKS
+사망	사망/NNG
+실종되고	실종/NNG + 되/XSV + 고/EC
+있고	있/VX + 고/EC
+3백억	3/SN + 백억/NR
+원의	원/NNB + 의/JKG
+재산	재산/NNG
+손실을	손실/NNG + 을/JKO
+입고	입/VV + 고/EC
+있는	있/VX + 는/ETM
+데도	데/NNB + 도/JX
+해경은	해경/NNG + 은/JX
+오직	오직/MAG
+안보	안보/NNG
+위주의	위주/NNG + 의/JKG
+소형	소형/NNG
+경비함	경비함/NNG
+체제로	체제/NNG + 로/JKB
+운영되고	운영/NNG + 되/XSV + 고/EC
+있다"고	있/VX + 다/EC + "/SS + 고/JKQ
+지적.	지적/NNG + ./SF
+
+김옥두	김옥두/NNP
+의원(민주)도	의원/NNG + (/SS + 민주/NNP + )/SS + 도/JX
+"단	"/SS + 단/MM
+두	두/MM
+척의	척/NNB + 의/JKG
+구난	구난/NNG
+함정으로	함정/NNG + 으로/JKB
+삼면	삼면/NNG
+바다에서의	바다/NNG + 에서/JKB + 의/JKG
+해난을	해난/NNG + 을/JKO
+어떻게	어떻/VA + 게/EC
+구조하겠느냐"고	구조/NNG + 하/XSV + 겠/EP + 느냐/EC + "/SS + 고/JKQ
+개탄.	개탄/NNG + ./SF
+
+양창식	양창식/NNP
+의원(민자)은	의원/NNG + (/SS + 민자/NNP + )/SS + 은/JX
+"해경은	"/SS + 해경/NNG + 은/JX
+현재	현재/MAG
+규정	규정/NNG
+인원보다	인원/NNG + 보다/JKB
+경찰관	경찰관/NNG
+1백	1/SN + 백/NR
+40명이	40/SN + 명/NNB + 이/JKS
+모자라는	모자라/VV + 는/ETM
+실정"이라고	실정/NNG + "/SS + 이라고/JKQ
+충원	충원/NNG
+대책	대책/NNG
+수립을	수립/NNG + 을/JKO
+촉구.	촉구/NNG + ./SF
+
+이협(민주)	이협/NNP + (/SS + 민주/NNG + )/SS
+하순봉	하순봉/NNP
+의원(민자)등은	의원/NNG + (/SS + 민자/NNP + )/SS + 등/NNB + 은/JX
+"경찰공제회가	"/SS + 경찰/NNG + 공제회/NNG + 가/JKS
+1백	1/SN + 백/NR
+3억	3/SN + 억/NR
+원을	원/NNB + 을/JKO
+예치한	예치/NNG + 하/XSV + ㄴ/ETM
+경기	경기/NNP
+상호	상호/NNG
+신용금고가	신용/NNG + 금고/NNG + 가/JKS
+부도나고	부도나/VV + 고/EC
+경찰청이	경찰청/NNG + 이/JKS
+감사를	감사/NNG + 를/JKO
+하고서도	하/VV + 고서/EC + 도/JX
+수사를	수사/NNG + 를/JKO
+하지	하/VV + 지/EC
+않는	않/VX + 는/ETM
+이유가	이유/NNG + 가/JKS
+뭐냐"고	뭐/NP + 이/VCP + 냐/EC + "/SS + 고/JKQ
+따졌다.	따지/VV + 었/EP + 다/EF + ./SF
+
+문희상	문희상/NNP
+의원(민주)은	의원/NNG + (/SS + 민주/NNP + )/SS + 은/JX
+"경찰이	"/SS + 경찰/NNG + 이/JKS
+임의	임의/NNG
+동행한	동행/NNG + 하/XSV + ㄴ/ETM
+사람의	사람/NNG + 의/JKG
+79%가	79/SN + %/SW + 가/JKS
+불구속되고	불/XPN + 구속/NNG + 되/XSV + 고/EC
+있다"고	있/VX + 다/EC + "/SS + 고/JKQ
+마구잡이	마구잡이/NNG
+인신구속의	인신/NNG + 구속/NNG + 의/JKG
+문제점을	문제점/NNG + 을/JKO
+추궁했고,	추궁/NNG + 하/XSV + 았/EP + 고/EC + ,/SP
+박희부	박희부/NNP
+의원(민자)은	의원/NNG + (/SS + 민자/NNP + )/SS + 은/JX
+"금융실명제	"/SS + 금융/NNG + 실명/NNG + 제/XSN
+실시로	실시/NNG + 로/JKB
+고문	고문/NNG
+경관	경관/NNG
+이근안의	이근안/NNP + 의/JKG
+검거가	검거/NNG + 가/JKS
+쉬워	쉽/VA + 어/EC
+졌다"고	지/VX + 었/EP + 다/EC + "/SS + 고/JKQ
+이씨	이/NNP + 씨/NNB
+검거를	검거/NNG + 를/JKO
+촉구.	촉구/NNG + ./SF
+
+미국의	미국/NNP + 의/JKG
+대표적	대표/NNG + 적/XSN
+민간	민간/NNG
+연구	연구/NNG
+단체인	단체/NNG + 이/VCP + ㄴ/ETM
+헤리티지	헤리티지/NNP
+재단(The	재단/NNG + (/SS + The/SL
+Heritage	Heritage/SL
+Foundation)은	Foundation/SL + )/SS + 은/JX
+13일	13/SN + 일/NNB
+'한국의	'/SS + 한국/NNP + 의/JKG
+민주화	민주/NNG + 화/XSN
+과정과	과정/NNG + 과/JC
+미국의	미국/NNP + 의/JKG
+이해관계'란	이해관계/NNG + '/SS + 이/VCP + 란/ETM
+제목의	제목/NNG + 의/JKG
+정책	정책/NNG
+보고서를	보고서/NNG + 를/JKO
+통해	통하/VV + 아/EC
+미국은	미국/NNP + 은/JX
+한국	한국/NNP
+및	및/MAG
+일본과	일본/NNP + 과/JKB
+협력해	협력/NNG + 하/XSV + 아/EC
+북한의	북한/NNP + 의/JKG
+핵무기	핵무기/NNG
+개발	개발/NNG
+계획을	계획/NNG + 을/JKO
+내년까지	내년/NNG + 까지/JX
+종식시키라고	종식/NNG + 시키/XSV + 라고/EC
+촉구했다.	촉구/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+보고서는	보고서/NNG + 는/JX
+또	또/MAG
+클린턴	클린턴/NNP
+대통령에게	대통령/NNG + 에게/JKB
+김영삼	김영삼/NNP
+대통령을	대통령/NNG + 을/JKO
+금년	금년/NNG
+가을에	가을/NNG + 에/JKB
+워싱턴으로	워싱턴/NNP + 으로/JKB
+초청,	초청/NNG + ,/SP
+한미	한/NNP + 미/NNP
+관계를	관계/NNG + 를/JKO
+더욱	더욱/MAG
+공고히	공고히/MAG
+하겠다는	하/VV + 겠/EP + 다는/ETM
+미국의	미국/NNP + 의/JKG
+단호한	단호/XR + 하/XSA + ㄴ/ETM
+결의를	결의/NNG + 를/JKO
+보여	보이/VV + 어/EC
+줘야	주/VX + 어야/EC
+한다고	하/VX + ㄴ다고/EC
+건의했다.	건의/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+이	이/MM
+재단	재단/NNG
+아시아	아시아/NNP
+문제	문제/NNG
+연구소가	연구소/NNG + 가/JKS
+펴낸	펴내/VV + ㄴ/ETM
+한국	한국/NNP
+관련	관련/NNG
+정책	정책/NNG
+보고서는	보고서/NNG + 는/JX
+이날	이날/NNG
+에드윈	에드윈/NNP
+퓔러	퓔러/NNP
+회장의	회장/NNG + 의/JKG
+이름으로	이름/NNG + 으로/JKB
+클린턴	클린턴/NNP
+행정부에	행정부/NNG + 에/JKB
+전달됐다.	전달/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+
+보고서	보고서/NNG
+내용을	내용/NNG + 을/JKO
+소개한다.	소개/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+관료	관료/NNG
+집단의	집단/NNG + 의/JKG
+저항(내부	저항/NNG + (/SS + 내부/NNG
+도전)	도전/NNG + )/SS
+=	=/SW
+김	김/NNP
+대통령의	대통령/NNG + 의/JKG
+야심적인	야심/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+경제	경제/NNG
+개혁	개혁/NNG
+계획은	계획/NNG + 은/JX
+수세에	수세/NNG + 에/JKB
+몰린	몰리/VV + ㄴ/ETM
+일부	일부/NNG
+정부	정부/NNG
+관료들에	관료/NNG + 들/XSN + 에/JKB
+의해	의하/VV + 아/EC
+위협을	위협/NNG + 을/JKO
+받고	받/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+김	김/NNP
+대통령은	대통령/NNG + 은/JX
+국민적인	국민/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+인기와	인기/NNG + 와/JC
+정통성을	정통/NNG + 성/XSN + 을/JKO
+이용,	이용/NNG + ,/SP
+이	이/NP
+같은	같/VA + 은/ETM
+장애물들을	장애물/NNG + 들/XSN + 을/JKO
+극복하고	극복/NNG + 하/XSV + 고/EC
+역사적인	역사/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+개혁	개혁/NNG
+운동을	운동/NNG + 을/JKO
+성공시킬	성공/NNG + 시키/XSV + ㄹ/ETM
+수	수/NNB
+있다.	있/VV + 다/EF + ./SF
+
+무역	무역/NNG
+장벽의	장벽/NNG + 의/JKG
+제거와	제거/NNG + 와/JC
+정부	정부/NNG
+규제의	규제/NNG + 의/JKG
+해제	해제/NNG
+조치로	조치/NNG + 로/JKB
+경제	경제/NNG
+성장을	성장/NNG + 을/JKO
+가속화할	가속/NNG + 화/XSN + 하/XSV + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+발판을	발판/NNG + 을/JKO
+마련할	마련/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있을	있/VV + 을/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+또한	또한/MAG
+최근	최근/NNG
+몇	몇/MM
+년간	년/NNB + 간/NNG
+부진했던	부진/NNG + 하/XSA + 았/EP + 던/ETM
+외국의	외국/NNG + 의/JKG
+대한	대/NNG + 한/NNP
+투자도	투자/NNG + 도/JX
+이러한	이러/XR + 하/XSA + ㄴ/ETM
+제반	제반/NNG
+조치들로	조치/NNG + 들/XSN + 로/JKB
+인해	인하/VV + 아/EC
+다시	다시/MAG
+활기를	활기/NNG + 를/JKO
+띨	띠/VV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+그러나	그러나/MAJ
+김	김/NNP
+대통령의	대통령/NNG + 의/JKG
+정치-경제적	정치/NNG + -/SS + 경제/NNG + 적/XSN
+개혁을	개혁/NNG + 을/JKO
+가로막는	가로막/VV + 는/ETM
+장애물들은	장애물/NNG + 들/XSN + 은/JX
+여전히	여전히/MAG
+남아	남/VV + 아/EC
+있다.	있/VX + 다/EF + ./SF
+
+북한(외부	북한/NNP + (/SS + 외부/NNG
+도전)	도전/NNG + )/SS
+=	=/SW
+올	올/NNG
+들어	들/VV + 어/EC
+북한의	북한/NNP + 의/JKG
+핵무기	핵무기/NNG
+개발	개발/NNG
+계획을	계획/NNG + 을/JKO
+중단시키기	중단/NNG + 시키/XSV + 기/ETN
+위한	위하/VV + ㄴ/ETM
+한국	한국/NNP
+미국	미국/NNP
+IAEA의	IAEA/SL + 의/JKG
+수차에	수차/NNG + 에/JKB
+걸친	걸치/VV + ㄴ/ETM
+노력은	노력/NNG + 은/JX
+아무런	아무런/MM
+효과가	효과/NNG + 가/JKS
+없었음이	없/VA + 었/EP + 음/ETN + 이/JKS
+입증됐다.	입증/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+
+북한이	북한/NNP + 이/JKS
+두	두/MM
+번째	번/NNB + 째/XSN
+핵원자로를	핵/NNG + 원자로/NNG + 를/JKO
+완성할	완성/NNG + 하/XSV + ㄹ/ETM
+경우	경우/NNG
+연간	연간/NNG
+7	7/SN
+개의	개/NNB + 의/JKG
+핵무기를	핵무기/NNG + 를/JKO
+생산할	생산/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있을지도	있/VV + 을지/EC + 도/JX
+모른다.	모르/VV + ㄴ다/EF + ./SF
+
+북한의	북한/NNP + 의/JKG
+핵무장은	핵/NNG + 무장/NNG + 은/JX
+아시아의	아시아/NNP + 의/JKG
+불안을	불안/NNG + 을/JKO
+초래할	초래/NNG + 하/XSV + ㄹ/ETM
+뿐	뿐/NNB
+아니라	아니/VCN + 라/EC
+일본	일본/NNP
+등의	등/NNB + 의/JKG
+핵무기	핵무기/NNG
+개발을	개발/NNG + 을/JKO
+부추길	부추기/VV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+북한은	북한/NNP + 은/JX
+또	또/MAG
+이란과	이란/NNP + 과/JC
+같은	같/VA + 은/ETM
+과격한	과격/XR + 하/XSA + ㄴ/ETM
+테러	테러/NNG
+국가들에	국가/NNG + 들/XSN + 에/JKB
+핵무기를	핵무기/NNG + 를/JKO
+팔	팔/VV + ㄹ/ETM
+가능성도	가능/NNG + 성/XSN + 도/JX
+있다.	있/VV + 다/EF + ./SF
+
+그럴	그렇/VA + ㄹ/ETM
+경우	경우/NNG
+중동의	중동/NNP + 의/JKG
+잠정적인	잠정/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+평화	평화/NNG
+조치들이	조치/NNG + 들/XSN + 이/JKS
+파괴되고	파괴/NNG + 되/XSV + 고/EC
+유럽과	유럽/NNP + 과/JC
+미국은	미국/NNP + 은/JX
+엄청난	엄청나/VA + ㄴ/ETM
+테러	테러/NNG
+폭력의	폭력/NNG + 의/JKG
+위협에	위협/NNG + 에/JKB
+직면할	직면/NNG + 하/XSV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+또한	또한/MAG
+폭력에	폭력/NNG + 에/JKB
+의한	의하/VV + ㄴ/ETM
+김일성	김일성/NNP
+체제의	체제/NNG + 의/JKG
+내부	내부/NNG
+붕괴	붕괴/NNG
+가능성은	가능/NNG + 성/XSN + 은/JX
+한국의	한국/NNP + 의/JKG
+개혁	개혁/NNG
+작업에	작업/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+위협으로	위협/NNG + 으로/JKB
+다가오고	다가오/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+북한이	북한/NNP + 이/JKS
+극도의	극도/NNG + 의/JKG
+식량난으로	식량난/NNG + 으로/JKB
+소요가	소요/NNG + 가/JKS
+일어났다는	일어나/VV + 았/EP + 다는/ETM
+보도들이	보도/NNG + 들/XSN + 이/JKS
+증가하고	증가/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+한국은	한국/NNP + 은/JX
+통일	통일/NNG
+비용으로	비용/NNG + 으로/JKB
+3천억	3/SN + 천억/NR
+달러	달러/NNB
+정도를	정도/NNG + 를/JKO
+예상하고	예상/NNG + 하/XSV + 고/EC
+있는	있/VX + 는/ETM
+것	것/NNB
+같다.	같/VA + 다/EF + ./SF
+
+미국의	미국/NNP + 의/JKG
+역할	역할/NNG
+미국이	미국/NNP + 이/JKS
+지금까지	지금/NNG + 까지/JX
+한국을	한국/NNP + 을/JKO
+확고하게	확고/XR + 하/XSA + 게/EC
+지지함으로써	지지/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+김일성은	김일성/NNP + 은/JX
+재임	재임/NNG
+중에	중/NNB + 에/JKB
+통일하겠다는	통일/NNG + 하/XSV + 겠/EP + 다는/ETM
+약속을	약속/NNG + 을/JKO
+지키지	지키/VV + 지/EC
+못하고	못하/VX + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+미국은	미국/NNP + 은/JX
+앞으로도	앞/NNG + 으로/JKB + 도/JX
+한국을	한국/NNP + 을/JKO
+계속	계속/MAG
+지지해	지지/NNG + 하/XSV + 아/EC
+21세기에는	21/SN + 세기/NNG + 에/JKB + 는/JX
+통일된	통일/NNG + 되/XSV + ㄴ/ETM
+한국이	한국/NNP + 이/JKS
+동북	동북/NNG
+아시아의	아시아/NNP + 의/JKG
+평화에	평화/NNG + 에/JKB
+초석이	초석/NNG + 이/JKC
+될	되/VV + ㄹ/ETM
+수	수/NNB
+있게	있/VV + 게/EC
+해야	하/VX + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+클린턴	클린턴/NNP
+대통령이	대통령/NNG + 이/JKS
+지난	지나/VV + ㄴ/ETM
+7월	7/SN + 월/NNB
+서울	서울/NNP
+방문	방문/NNG
+때	때/NNG
+확고한	확고/XR + 하/XSA + ㄴ/ETM
+대한	대/NNG + 한/NNP
+방위	방위/NNG
+공약을	공약/NNG + 을/JKO
+천명했지만	천명/NNG + 하/XSV + 았/EP + 지만/EC
+미국의	미국/NNP + 의/JKG
+새	새/MM
+방위	방위/NNG
+정책은	정책/NNG + 은/JX
+그의	그/NP + 의/JKG
+서울	서울/NNP
+발언을	발언/NNG + 을/JKO
+뒷받침해	뒷받침/NNG + 하/XSV + 아/EC
+주지	주/VX + 지/EC
+못하고	못하/VX + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+가령	가령/MAG
+클린턴은	클린턴/NNP + 은/JX
+미	미/NNP
+육군의	육군/NNG + 의/JKG
+14	14/SN
+개	개/NNB
+사단을	사단/NNG + 을/JKO
+10	10/SN
+개로	개/NNB + 로/JKB
+줄일	줄이/VV + ㄹ/ETM
+계획이다.	계획/NNG + 이/VCP + 다/EF + ./SF
+
+한국민들은	한국민/NNG + 들/XSN + 은/JX
+북한의	북한/NNP + 의/JKG
+남침이	남침/NNG + 이/JKS
+있을	있/VV + 을/ETM
+경우	경우/NNG
+미군의	미군/NNG + 의/JKG
+증파를	증파/NNG + 를/JKO
+요청해도	요청/NNG + 하/XSV + 아도/EC
+다른	다른/MM
+지역에	지역/NNG + 에/JKB
+있는	있/VV + 는/ETM
+미	미/NNP
+병력이	병력/NNG + 이/JKS
+오지	오/VV + 지/EC
+못할지도	못하/VX + ㄹ지/EC + 도/JX
+모른다는	모르/VV + ㄴ다는/ETM
+우려를	우려/NNG + 를/JKO
+갖고	갖/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+북한	북한/NNP
+핵	핵/NNG
+문제	문제/NNG
+해결은	해결/NNG + 은/JX
+클린턴의	클린턴/NNP + 의/JKG
+대아시아	대/XPN + 아시아/NNP
+정책에서	정책/NNG + 에서/JKB
+최우선	최/XPN + 우선/NNG
+순위에	순위/NNG + 에/JKB
+있어야	있/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+미국은	미국/NNP + 은/JX
+아시아에서	아시아/NNP + 에서/JKB
+자유	자유/NNG
+무역을	무역/NNG + 을/JKO
+추구하겠다는	추구/NNG + 하/XSV + 겠/EP + 다는/ETM
+선언을	선언/NNG + 을/JKO
+해야	하/VV + 아야/EC
+하며	하/VX + 며/EC
+김	김/NNP
+대통령과	대통령/NNG + 과/JKB
+같은	같/VA + 은/ETM
+민주적	민주/NNG + 적/XSN
+개혁주의자들을	개혁/NNG + 주의자/NNG + 들/XSN + 을/JKO
+계속	계속/MAG
+지원해야	지원/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+한반도의	한반도/NNP + 의/JKG
+지속적인	지속/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+평화와	평화/NNG + 와/JC
+번영을	번영/NNG + 을/JKO
+위해서	위하/VV + 아서/EC
+미국은	미국/NNP + 은/JX
+➀대한	➀/SW + 대한/NNP
+방위	방위/NNG
+공약을	공약/NNG + 을/JKO
+이행하고	이행/NNG + 하/XSV + 고/EC
+❷북한에	❷/SW + 북한/NNP + 에/JKB
+압력을	압력/NNG + 을/JKO
+넣어	넣/VV + 어/EC
+핵무기	핵무기/NNG
+개발을	개발/NNG + 을/JKO
+중단시키고	중단/NNG + 시키/XSV + 고/EC
+➌김영삼	➌/SW + 김영삼/NNP
+정부의	정부/NNG + 의/JKG
+자유	자유/NNG
+시장	시장/NNG
+경제	경제/NNG
+개혁을	개혁/NNG + 을/JKO
+지원하고	지원/NNG + 하/XSV + 고/EC
+➍11월에	➍/SW + 11/SN + 월/NNB + 에/JKB
+워싱턴에서	워싱턴/NNP + 에서/JKB
+한	한/NNP
+미	미/NNP
+정상회담을	정상/NNG + 회담/NNG + 을/JKO
+가질	가지/VV + ㄹ/ETM
+것	것/NNB
+등	등/NNB
+4가지	4/SN + 가지/NNB
+사항을	사항/NNG + 을/JKO
+실천에	실천/NNG + 에/JKB
+옮겨야	옮기/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+북한의	북한/NNP + 의/JKG
+핵개발을	핵/NNG + 개발/NNG + 을/JKO
+막지	막/VV + 지/EC
+못할	못하/VX + ㄹ/ETM
+경우	경우/NNG
+95년에는	95/SN + 년/NNB + 에/JKB + 는/JX
+아시아,	아시아/NNP + ,/SP
+미국	미국/NNP
+또는	또는/MAG
+이스라엘	이스라엘/NNP
+도시들도	도시/NNG + 들/XSN + 도/JX
+핵테러리즘에	핵/NNG + 테러리즘/NNG + 에/JKB
+직면할지도	직면/NNG + 하/XSV + ㄹ지/EC + 도/JX
+모른다.	모르/VV + ㄴ다/EF + ./SF
+
+한	한/NNP
+미	미/NNP
+양국은	양국/NNG + 은/JX
+긴밀한	긴밀/XR + 하/XSA + ㄴ/ETM
+협의를	협의/NNG + 를/JKO
+통해	통하/VV + 아/EC
+북한이	북한/NNP + 이/JKS
+핵개발을	핵/NNG + 개발/NNG + 을/JKO
+고집할	고집/NNG + 하/XSV + ㄹ/ETM
+경우	경우/NNG
+유엔	유엔/NNP
+안보리에	안보리/NNG + 에/JKB
+대해	대하/VV + 아/EC
+광범위한	광범위/NNG + 하/XSA + ㄴ/ETM
+대	대/NNG
+북한	북한/NNP
+제재	제재/NNG
+조치를	조치/NNG + 를/JKO
+검토할	검토/NNG + 하/XSV + ㄹ/ETM
+것을	것/NNB + 을/JKO
+요구할	요구/NNG + 하/XSV + ㄹ/ETM
+준비를	준비/NNG + 를/JKO
+해야	하/VV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+제재	제재/NNG
+조치에는	조치/NNG + 에/JKB + 는/JX
+단기적으론	단기/NNG + 적/XSN + 으로/JKB + ㄴ/JX
+정치적인	정치/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+규탄이	규탄/NNG + 이/JKS
+들어가야	들어가/VV + 아야/EC
+하고	하/VX + 고/EC
+중기적으론	중기/NNG + 적/XSN + 으로/JKB + ㄴ/JX
+경제	경제/NNG
+제재가	제재/NNG + 가/JKS
+포함돼야	포함/NNG + 되/XSV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+인구-빈곤	인구/NNG + -/SS + 빈곤/NNG
+등	등/NNB
+인류	인류/NNG
+문제	문제/NNG
+역할	역할/NNG
+분담	분담/NNG
+필요	필요/NNG
+/	//SP
+프랑스가	프랑스/NNP + 가/JKS
+낳은	낳/VV + 은/ETM
+지성인	지성인/NNG
+자크	자크/NNP
+아탈리(50·전	아탈리/NNP + (/SS + 50/SN + ·/SP + 전/MM
+유럽개발은행	유럽개발은행/NNP
+총재·	총재/NNG + ·/SP
+미테랑	미테랑/NNP
+대통령	대통령/NNG
+특별	특별/NNG
+보좌관)가	보좌관/NNG + )/SS + 가/JKS
+서울에	서울/NNP + 에/JKB
+왔다.	오/VV + 았/EP + 다/EF + ./SF
+
+그는	그/NP + 는/JX
+세계	세계/NNG
+경제	경제/NNG
+연구원(원장	연구원/NNG + (/SS + 원장/NNG
+사공일)의	사공일/NNP + )/SS + 의/JKG
+초청으로	초청/NNG + 으로/JKB
+4일	4/SN + 일/NNB
+오전	오전/NNG
+롯데호텔에서	롯데호텔/NNP + 에서/JKB
+'21세기	'/SS + 21/SN + 세기/NNG
+세계	세계/NNG
+구도	구도/NNG
+변화와	변화/NNG + 와/JC
+한국'이라는	한국/NNP + '/SS + 이/VCP + 라는/ETM
+주제로	주제/NNG + 로/JKB
+특별	특별/NNG
+강연을	강연/NNG + 을/JKO
+했다.	하/VV + 았/EP + 다/EF + ./SF
+
+이날	이날/NNG
+강연에는	강연/NNG + 에/JKB + 는/JX
+3백여	3/SN + 백/NR + 여/XSN
+명의	명/NNB + 의/JKG
+국내	국내/NNG
+경제	경제/NNG
+전문가들이	전문가/NNG + 들/XSN + 이/JKS
+자리를	자리/NNG + 를/JKO
+메웠다.	메우/VV + 었/EP + 다/EF + ./SF
+
+다음은	다음/NNG + 은/JX
+강연	강연/NNG
+요지이다.	요지/NNG + 이/VCP + 다/EF + ./SF
+
+'현재까지	'/SS + 현재/NNG + 까지/JX
+세계	세계/NNG
+경제	경제/NNG
+질서는	질서/NNG + 는/JX
+대서양을	대서양/NNP + 을/JKO
+중심으로	중심/NNG + 으로/JKB
+이룩됐다.	이룩/XR + 되/XSV + 었/EP + 다/EF + ./SF
+
+그러나	그러나/MAJ
+지난	지나/VV + ㄴ/ETM
+20여	20/SN + 여/XSN
+년간	년/NNB + 간/NNG
+이	이/MM
+질서는	질서/NNG + 는/JX
+약화되고	약화/NNG + 되/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+주된	주되/VV + ㄴ/ETM
+이유는	이유/NNG + 는/JX
+보건-교육-국방	보건/NNG + -/SS + 교육/NNG + -/SS + 국방/NNG
+및	및/MAG
+치안	치안/NNG
+유지에	유지/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+공공	공공/NNG
+지출이	지출/NNG + 이/JKS
+계속	계속/MAG
+증가하고	증가/NNG + 하/XSV + 고/EC
+있기	있/VX + 기/ETN
+때문이다.	때문/NNB + 이/VCP + 다/EF + ./SF
+
+산업	산업/NNG
+생산에서	생산/NNG + 에서/JKB
+얻어지는	얻/VV + 어/EC + 지/VX + 는/ETM
+이윤보다	이윤/NNG + 보다/JKB
+공공	공공/NNG
+서비스에	서비스/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+지출이	지출/NNG + 이/JKS
+더	더/MAG
+빠른	빠르/VA + ㄴ/ETM
+속도로	속도/NNG + 로/JKB
+증가할	증가/NNG + 하/XSV + ㄹ/ETM
+때	때/NNG
+위기가	위기/NNG + 가/JKS
+발생한다.	발생/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+산업의	산업/NNG + 의/JKG
+효율성은	효율/NNG + 성/XSN + 은/JX
+점점	점점/MAG
+하락하고	하락/NNG + 하/XSV + 고/EC
+경제적	경제/NNG + 적/XSN
+부담이	부담/NNG + 이/JKS
+가중되기	가중/NNG + 되/XSV + 기/ETN
+때문이다.	때문/NNB + 이/VCP + 다/EF + ./SF
+
+공공	공공/NNG
+서비스	서비스/NNG
+비용을	비용/NNG + 을/JKO
+낮추려면	낮추/VV + 려면/EC
+사회	사회/NNG
+보장	보장/NNG
+혜택을	혜택/NNG + 을/JKO
+줄이든가,	줄이/VV + 든가/EC + ,/SP
+아니면	아니/VCN + 면/EC
+새로운	새롭/VA + ㄴ/ETM
+에너지와	에너지/NNG + 와/JC
+통신	통신/NNG
+기술	기술/NNG
+발명으로	발명/NNG + 으로/JKB
+지금껏	지금껏/MAG
+정부가	정부/NNG + 가/JKS
+지원하고	지원/NNG + 하/XSV + 고/EC
+있는	있/VX + 는/ETM
+교육	교육/NNG
+및	및/MAG
+의료	의료/NNG
+서비스의	서비스/NNG + 의/JKG
+최소한	최소한/NNG
+일부라도	일부/NNG + 이/VCP + 라도/EC
+개인이	개인/NNG + 이/JKS
+부담할	부담/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있어야	있/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+유목(遊牧)물품이	유목/NNG + (/SS + 遊牧/SH + )/SS + 물품/NNG + 이/JKS
+이런	이런/MM
+일을	일/NNG + 을/JKO
+가능케	가능/NNG + 하/XSA + 게/EC
+하고	하/VX + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+유목	유목/NNG
+물품이란	물품/NNG + 이란/JX
+유목민이	유목민/NNG + 이/JKS
+지니고	지니/VV + 고/EC
+다닌	다니/VV + ㄴ/ETM
+것과	것/NNB + 과/JKB
+같은	같/VA + 은/ETM
+간편한	간편/XR + 하/XSA + ㄴ/ETM
+이동식	이동식/NNG
+휴대	휴대/NNG
+상품.	상품/NNG + ./SF
+
+가령	가령/MAG
+팩스	팩스/NNG
+전화	전화/NNG
+비디오	비디오/NNG
+게임기	게임기/NNG
+등이다.	등/NNB + 이/VCP + 다/EF + ./SF
+
+그것들은	그것/NP + 들/XSN + 은/JX
+여가	여가/NNG
+활동의	활동/NNG + 의/JKG
+개인주의화를	개인주의/NNG + 화/XSN + 를/JKO
+촉진시키고,	촉진/NNG + 시키/XSV + 고/EC + ,/SP
+교육-진단-예방-치료의	교육/NNG + -/SS + 진단/NNG + -/SS + 예방/NNG + -/SS + 치료/NNG + 의/JKG
+분야에서	분야/NNG + 에서/JKB
+사용되기	사용/NNG + 되/XSV + 기/ETN
+시작하고	시작/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+이런	이런/MM
+유목	유목/NNG
+물품의	물품/NNG + 의/JKG
+출현으로	출현/NNG + 으로/JKB
+개인이	개인/NNG + 이/JKS
+스스로	스스로/MAG
+자기	자기/NP
+책임	책임/NNG
+하에서	하/NNG + 에서/JKB
+부담하는	부담/NNG + 하/XSV + 는/ETM
+오락-교육	오락/NNG + -/SS + 교육/NNG
+및	및/MAG
+의료	의료/NNG
+서비스의	서비스/NNG + 의/JKG
+비중이	비중/NNG + 이/JKS
+커지고	커지/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+역사	역사/NNG
+이래	이래/NNB
+국가가	국가/NNG + 가/JKS
+수행해	수행/NNG + 하/XSV + 아/EC
+오던	오/VX + 던/ETM
+이런	이런/MM
+기능이	기능/NNG + 이/JKS
+점차적으로	점차/MAG + 적/XSN + 으로/JKB
+시장이	시장/NNG + 이/JKS
+떠맡게	떠맡/VV + 게/EC
+된다는	되/VV + ㄴ다는/ETM
+뜻도	뜻/NNG + 도/JX
+된다.	되/VV + ㄴ다/EF + ./SF
+
+거대한	거대/NNG + 하/XSA + ㄴ/ETM
+분야가	분야/NNG + 가/JKS
+새로운	새롭/VA + ㄴ/ETM
+산업에	산업/NNG + 에/JKB
+열려	열리/VV + 어/EC
+있는	있/VX + 는/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+아시아는	아시아/NNP + 는/JX
+이러한	이러/XR + 하/XSA + ㄴ/ETM
+시장	시장/NNG
+형태의	형태/NNG + 의/JKG
+중심지가	중심지/NNG + 가/JKC
+될	되/VV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+경제적	경제/NNG + 적/XSN
+선택과	선택/NNG + 과/JC
+문화적	문화/NNG + 적/XSN
+원인	원인/NNG
+때문에	때문/NNB + 에/JKB
+이런	이런/MM
+변화에	변화/NNG + 에/JKB
+가장	가장/MAG
+잘	잘/MAG
+준비되어	준비/NNG + 되/XSV + 어/EC
+있다고	있/VX + 다고/EC
+볼	보/VV + ㄹ/ETM
+수	수/NNB
+있다	있/VV + 다/EC
+상품의	상품/NNG + 의/JKG
+소형화,	소형/NNG + 화/XSN + ,/SP
+자기	자기/NP
+통제	통제/NNG
+등은	등/NNB + 은/JX
+오랫동안	오랫동안/NNG
+이뤄진	이루어지/VV + ㄴ/ETM
+가치인	가치/NNG + 이/VCP + ㄴ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+오늘날	오늘날/NNG
+유목	유목/NNG
+물품이	물품/NNG + 이/JKS
+그쪽에서	그쪽/NP + 에서/JKB
+처음	처음/NNG
+생산된	생산/NNG + 되/XSV + ㄴ/ETM
+것은	것/NNB + 은/JX
+우연한	우연/NNG + 하/XSA + ㄴ/ETM
+일이	일/NNG + 이/JKC
+아니다.	아니/VCN + 다/EF + ./SF
+
+더욱이	더욱이/MAG
+시장	시장/NNG
+규모,	규모/NNG + ,/SP
+기업가	기업가/NNG
+정신,	정신/NNG + ,/SP
+상대적으로	상대/NNG + 적/XSN + 으로/JKB
+적은	적/VA + 은/ETM
+공공	공공/NNG
+서비스	서비스/NNG
+지출	지출/NNG
+규모	규모/NNG
+등은	등/NNB + 은/JX
+이를	이/NP + 를/JKO
+뒷받침해	뒷받침/NNG + 하/XSV + 아/EC
+준다.	주/VX + ㄴ다/EF + ./SF
+
+미국은	미국/NNP + 은/JX
+엄청난	엄청나/VA + ㄴ/ETM
+문화적	문화/NNG + 적/XSN
+건망증과	건망증/NNG + 과/JC
+장기적	장기/NNG + 적/XSN
+안목이	안목/NNG + 이/JKS
+없는	없/VA + 는/ETM
+하루살이	하루살이/NNG
+같은	같/VA + 은/ETM
+삶의	삶/NNG + 의/JKG
+선호	선호/NNG
+때문에	때문/NNB + 에/JKB
+어떠한	어떠/XR + 하/XSA + ㄴ/ETM
+변화도	변화/NNG + 도/JX
+가장	가장/MAG
+잘	잘/MAG
+수용할	수용/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+나라이다.	나라/NNG + 이/VCP + 다/EF + ./SF
+
+미래의	미래/NNG + 의/JKG
+변화에	변화/NNG + 에/JKB
+효율적으로	효율/NNG + 적/XSN + 으로/JKB
+대응하고	대응/NNG + 하/XSV + 고/EC
+있는	있/VX + 는/ETM
+것도	것/NNB + 도/JX
+사실이다.	사실/NNG + 이/VCP + 다/EF + ./SF
+
+그러나	그러나/MAJ
+미국은	미국/NNP + 은/JX
+막대한	막대/XR + 하/XSA + ㄴ/ETM
+공공	공공/NNG
+서비스	서비스/NNG
+지출로	지출/NNG + 로/JKB
+재정	재정/NNG
+적자가	적자/NNG + 가/JKS
+날로	날로/MAG
+증가하고,	증가/NNG + 하/XSV + 고/EC + ,/SP
+산업	산업/NNG
+생산성	생산/NNG + 성/XSN
+저하로	저하/NNG + 로/JKB
+날로	날로/MAG
+경쟁력이	경쟁력/NNG + 이/JKS
+떨어지고	떨어지/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+미국이	미국/NNP + 이/JKS
+다시	다시/MAG
+한	한/MM
+번	번/NNB
+중심지가	중심지/NNG + 가/JKC
+될지도	되/VV + ㄹ지/EC + 도/JX
+모르지만,	모르/VV + 지만/EC + ,/SP
+그렇게	그렇/VA + 게/EC
+되려면	되/VV + 려면/EC
+거국적인	거국/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+노력을	노력/NNG + 을/JKO
+해야	하/VV + 아야/EC
+할	하/VX + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+이런	이런/MM
+맥락에서	맥락/NNG + 에서/JKB
+한국을	한국/NNP + 을/JKO
+얘기해	얘기/NNG + 하/XSV + 아/EC
+보겠다.	보/VX + 겠/EP + 다/EF + ./SF
+
+한국은	한국/NNP + 은/JX
+대학이나	대학/NNG + 이나/JC
+실험실-산업계가	실험실/NNG + -/SS + 산업/NNG + 계/XSN + 가/JKS
+유목적	유목적/NNG
+물품,	물품/NNG + ,/SP
+즉	즉/MAG
+간편한	간편/XR + 하/XSA + ㄴ/ETM
+이동식	이동식/NNG
+지식정보기기를	지식/NNG + 정보/NNG + 기기/NNG + 를/JKO
+고안하고	고안/NNG + 하/XSV + 고/EC
+생산할	생산/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있도록	있/VV + 도록/EC
+준비해야	준비/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+한국은	한국/NNP + 은/JX
+세계의	세계/NNG + 의/JKG
+다른	다른/MM
+나라	나라/NNG
+사람에	사람/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+기호와	기호/NNG + 와/JC
+요구에	요구/NNG + 에/JKB
+관한	관하/VV + ㄴ/ETM
+더	더/MAG
+많은	많/VA + 은/ETM
+정보를	정보/NNG + 를/JKO
+가져야	가지/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+한국은	한국/NNP + 은/JX
+유럽과	유럽/NNP + 과/JC
+아시아의	아시아/NNP + 의/JKG
+교두보적	교두보/NNG + 적/XSN
+역할을	역할/NNG + 을/JKO
+할	하/VV + ㄹ/ETM
+수	수/NNB
+있다	있/VV + 다/EC
+민주주의와	민주주의/NNG + 와/JC
+시장경제를	시장/NNG + 경제/NNG + 를/JKO
+통합한	통합/NNG + 하/XSV + ㄴ/ETM
+좋은	좋/VA + 은/ETM
+본보기인	본보기/NNG + 이/VCP + ㄴ/ETM
+한국은	한국/NNP + 은/JX
+이제	이제/MAG
+국제무대로	국제무대/NNG + 로/JKB
+나와야	나오/VV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+우선	우선/MAG
+유럽	유럽/NNP
+공동체와	공동체/NNG + 와/JKB
+밀접한	밀접/NNG + 하/XSA + ㄴ/ETM
+관계를	관계/NNG + 를/JKO
+구축할	구축/NNG + 하/XSV + ㄹ/ETM
+필요가	필요/NNG + 가/JKS
+있다.	있/VV + 다/EF + ./SF
+
+유럽안보협의체(CSCE),	유럽안보협의체/NNP + (/SS + CSCE/SL + )/SS + ,/SP
+OECD(선진국	OECD/SL + (/SS + 선진국/NNG
+경제	경제/NNG
+협력	협력/NNG
+기구),	기구/NNG + )/SS + ,/SP
+유럽	유럽/NNP
+개발은행	개발은행/NNG
+등에	등/NNB + 에/JKB
+참여하는	참여/NNG + 하/XSV + 는/ETM
+기회를	기회/NNG + 를/JKO
+마련해야	마련/NNG + 하/XSV + 아야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+또한	또한/MAG
+한국은	한국/NNP + 은/JX
+동유럽이나	동유럽/NNP + 이나/JC
+아프리카	아프리카/NNP
+국가들에	국가/NNG + 들/XSN + 에/JKB
+산업-기술면으로	산업/NNG + -/SS + 기술/NNG + 면/NNG + 으로/JKB
+도움을	도움/NNG + 을/JKO
+주어야	주/VV + 어야/EC
+한다.	하/VX + ㄴ다/EF + ./SF
+
+그렇게	그렇/VA + 게/EC
+하면,	하/VV + 면/EC + ,/SP
+그	그/MM
+지역은	지역/NNG + 은/JX
+장래	장래/NNG
+중요한	중요/NNG + 하/XSA + ㄴ/ETM
+시장이	시장/NNG + 이/JKC
+될	되/VV + ㄹ/ETM
+것이다.	것/NNB + 이/VCP + 다/EF + ./SF
+
+마지막으로	마지막/NNG + 으로/JKB
+한국은	한국/NNP + 은/JX
+지역	지역/NNG
+강대국이	강대국/NNG + 이/JKC
+됨으로써	되/VV + ㅁ/ETN + 으로써/JKB
+미래의	미래/NNG + 의/JKG
+인류가	인류/NNG + 가/JKS
+감당해야	감당/NNG + 하/XSV + 아야/EC
+할	하/VX + ㄹ/ETM
+인구	인구/NNG
+마약	마약/NNG
+무기	무기/NNG
+유전공학	유전/NNG + 공학/NNG
+빈곤	빈곤/NNG
+등	등/NNB
+5가지	5/SN + 가지/NNB
+중요한	중요/NNG + 하/XSA + ㄴ/ETM
+문제에	문제/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+역할	역할/NNG
+분담을	분담/NNG + 을/JKO
+생각해야	생각/NNG + 하/XSV + 아야/EC
+한다.'	하/VX + ㄴ다/EF + ./SF + '/SS
+

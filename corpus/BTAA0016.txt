@@ -1,0 +1,4113 @@
+재야인사로	재야인사/NNG + 로/JKB
+새정부의	새/MM + 정부/NNG + 의/JKG
+청와대	청와대/NNP
+사회	사회/NNG
+문화	문화/NNG
+수석에	수석/NNG + 에/JKB
+전격	전격/NNG
+발탁된	발탁/NNG + 되/XSV + ㄴ/ETM
+김정남씨(51)는	김정남/NNP + 씨/NNB + (/SS + 51/SN + )/SS + 는/JX
+투쟁의	투쟁/NNG + 의/JKG
+전면에	전면/NNG + 에/JKB
+나서기보다는	나서/VV + 기/ETN + 보다/JKB + 는/JX
+뒤에서	뒤/NNG + 에서/JKB
+궂은	궂/VA + 은/ETM
+일을	일/NNG + 을/JKO
+도맡아	도맡/VV + 아/EC
+온	오/VX + ㄴ/ETM
+재야의	재야/NNG + 의/JKG
+숨은	숨/VV + 은/ETM
+일꾼이었다.	일/NNG + 꾼/XSN + 이/VCP + 었/EP + 다/EF + ./SF
+
+재야	재야/NNG
+인사들이	인사/NNG + 들/XSN + 이/JKS
+수배당하면	수배/NNG + 당하/XSV + 면/EC
+그들을	그/NP + 들/XSN + 을/JKO
+숨겨주고	숨기/VV + 어/EC + 주/VX + 고/EC
+변호사	변호사/NNG
+알선	알선/NNG
+등	등/NNB
+뒷바라지를	뒷바라지/NNG + 를/JKO
+하는	하/VV + 는/ETM
+게	것/NNB + 이/JKS
+그의	그/NP + 의/JKG
+주된	주되/VV + ㄴ/ETM
+'임무'였다.	'/SS + 임무/NNG + '/SS + 이/VCP + 었/EP + 다/EF + ./SF
+
+그런	그런/MM
+인연으로	인연/NNG + 으로/JKB
+가까이	가까이/MAG
+지내온	지내/VV + 어/EC + 오/VX + ㄴ/ETM
+사람들만	사람/NNG + 들/XSN + 만/JX
+해도	하/VV + 아도/EC
+고	고/MM
+조영래	조영래/NNP
+변호사와	변호사/NNG + 와/JC
+이부영	이부영/NNP
+민주당	민주당/NNP
+최고	최고/NNG
+위원,	위원/NNG + ,/SP
+장기표	장기표/NNP
+전	전/MM
+민중당	민중당/NNP
+정책위	정책위/NNG
+의장,	의장/NNG + ,/SP
+시인	시인/NNG
+김지하	김지하/NNP
+씨	씨/NNB
+등	등/NNB
+수	수/NNG
+없이	없이/MAG
+많다.	많/VA + 다/EF + ./SF
+
+그는	그/NP + 는/JX
+재야의	재야/NNG + 의/JKG
+'무소속'으로	'/SS + 무/XPN + 소속/NNG + '/SS + 으로/JKB
+통한다.	통하/VV + ㄴ다/EF + ./SF
+
+대학	대학/NNG
+졸업	졸업/NNG
+후	후/NNG
+지금까지	지금/NNG + 까지/JX
+26년간	26/SN + 년/NNB + 간/NNG
+재야	재야/NNG
+운동권에	운동/NNG + 권/XSN + 에/JKB
+몸담아	몸담/VV + 아/EC
+왔으면서도	오/VX + 았/EP + 으면서/EC + 도/JX
+민통련이나	민통련/NNG + 이나/JC
+전민련	전민련/NNP
+등	등/NNB
+특정	특정/NNG
+단체에	단체/NNG + 에/JKB
+소속되지	소속/NNG + 되/XSV + 지/EC
+않고	않/VX + 고/EC
+막후에서	막후/NNG + 에서/JKB
+재야	재야/NNG
+결속을	결속/NNG + 을/JKO
+위해	위하/VV + 아/EC
+일했다.	일/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+지난	지나/VV + ㄴ/ETM
+89년	89/SN + 년/NNB
+8월	8/SN + 월/NNB
+영등포을	영등포/NNP + 을/NNG
+재선거에서	재/XPN + 선거/NNG + 에서/JKB
+고영구	고영구/NNP
+변호사를	변호사/NNG + 를/JKO
+'범민주	'/SS + 범/XPN + 민주/NNG
+후보'로	후보/NNG + '/SS + 로/JKB
+내세웠던	내세우/VV + 었/EP + 던/ETM
+것도	것/NNB + 도/JX
+그의	그/NP + 의/JKG
+작품으로	작품/NNG + 으로/JKB
+알려져	알리/VV + 어/EC + 지/VX + 어/EC
+있다.	있/VX + 다/EF + ./SF
+
+그래선지	그렇/VA + 어서/EC + 이/VCP + ㄴ지/EC
+스스로는	스스로/NNG + 는/JX
+"그동안	"/SS + 그동안/NNG
+익명의	익명/NNG + 의/JKG
+세월을	세월/NNG + 을/JKO
+살아	살/VV + 아/EC
+왔다"고	오/VX + 았/EP + 다/EC + "/SS + 고/JKQ
+말했다.	말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+그	그/MM
+같은	같/VA + 은/ETM
+막후	막후/NNG
+조정역은	조정/NNG + 역/NNG + 은/JX
+평소	평소/NNG
+재야원로,	재야/NNG + 원로/NNG + ,/SP
+진보적인	진보/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+변호사	변호사/NNG
+그룹,	그룹/NNG + ,/SP
+소장파	소장파/NNG
+야당	야당/NNG
+의원	의원/NNG
+등과	등/NNB + 과/JKB
+폭넓은	폭넓/VA + 은/ETM
+교분을	교분/NNG + 을/JKO
+맺어	맺/VV + 어/EC
+왔기	오/VX + 았/EP + 기/ETN
+때문에	때문/NNB + 에/JKB
+가능했다.	가능/NNG + 하/XSA + 았/EP + 다/EF + ./SF
+
+그는	그/NP + 는/JX
+특히	특히/MAG
+지학순	지학순/NNP
+주교,	주교/NNG + ,/SP
+이돈명	이돈명/NNP
+전	전/MM
+조선대총장	조선대/NNP + 총장/NNG
+등과	등/NNB + 과/JKB
+각별한	각별/NNG + 하/XSA + ㄴ/ETM
+사이라고	사이/NNG + 이/VCP + 라고/EC
+한다.	하/VV + ㄴ다/EF + ./SF
+
+74년	74/SN + 년/NNB
+민청	민청/NNG
+학련	학련/NNP
+사건으로	사건/NNG + 으로/JKB
+구속된	구속/NNG + 되/XSV + ㄴ/ETM
+김지하	김지하/NNP
+씨의	씨/NNB + 의/JKG
+구명	구명/NNG
+운동을	운동/NNG + 을/JKO
+계기로	계기/NNG + 로/JKB
+천주교	천주교/NNG
+사회	사회/NNG
+운동과	운동/NNG + 과/JKB
+깊은	깊/VA + 은/ETM
+연관을	연관/NNG + 을/JKO
+맺은	맺/VV + 은/ETM
+결과다.	결과/NNG + 이/VCP + 다/EF + ./SF
+
+대전출신인	대전/NNP + 출신/NNG + 이/VCP + ㄴ/ETM
+그는	그/NP + 는/JX
+64년	64/SN + 년/NNB
+서울대	서울대/NNP
+정치학과	정치학/NNG + 과/NNG
+재학	재학/NNG
+시절	시절/NNG
+한-일	한/NNP + -/SS + 일/NNP
+회담	회담/NNG
+반대	반대/NNG
+시위의	시위/NNG + 의/JKG
+배후로	배후/NNG + 로/JKB
+지목돼	지목/NNG + 되/XSV + 어/EC
+'반공법위반'으로	'/SS + 반공법/NNG + 위반/NNG + '/SS + 으로/JKB
+구속됐던	구속/NNG + 되/XSV + 었/EP + 던/ETM
+6.3세대.	6/SN + ./SP + 3/SN + 세대/NNG + ./SF
+
+당시	당시/NNG
+그는	그/NP + 는/JX
+대학	대학/NNG
+2년	2/SN + 년/NNB
+선배인	선배/NNG + 이/VCP + ㄴ/ETM
+김정강	김정강/NNP
+전	전/MM
+민주당	민주당/NNP
+당무	당무/NNG
+위원	위원/NNG
+등이	등/NNB + 이/JKS
+주도하던	주도/NNG + 하/XSV + 던/ETM
+'불꽃회'사건(민비연과는	'/SS + 불꽃회/NNP + '/SS + 사건/NNG + (/SS + 민비연/NNP + 과/JKB + 는/JX
+별개)에	별개/NNG + )/SS + 에/JKB
+연루돼	연루/NNG + 되/XSV + 어/EC
+투옥됐다.	투옥/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+
+정치학과	정치학/NNG + 과/NNG
+61학	61/SN + 학/NNG
+번	번/NNB
+동기인	동기/NNG + 이/VCP + ㄴ/ETM
+김중태	김중태/NNP
+현승일	현승일/NNP
+김도현	김도현/NNP
+김학준	김학준/NNP
+이부영	이부영/NNP
+씨,	씨/NNB + ,/SP
+사회학과	사회학/NNG + 과/NNG
+61학번인	61/SN + 학번/NNG + 이/VCP + ㄴ/ETM
+김덕용	김덕용/NNP
+의원,	의원/NNG + ,/SP
+정치학과	정치학/NNG + 과/NNG
+60학번인	60/SN + 학번/NNG + 이/VCP + ㄴ/ETM
+이종율	이종율/NNP
+전	전/MM
+의원	의원/NNG
+등과	등/NNB + 과/JKB
+6·3세대의	6/SN + ·/SP + 3/SN + 세대/NNG + 의/JKG
+대표	대표/NNG
+주자로	주자/NNG + 로/JKB
+꼽히고	꼽히/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+66년	66/SN + 년/NNB
+대학	대학/NNG
+졸업	졸업/NNG
+후	후/NNG
+졸곧	졸곧/NNP
+재야에서	재야/NNG + 에서/JKB
+3선	3/SN + 선/NNB
+개헌과	개헌/NNG + 과/JC
+유신	유신/NNG
+반대	반대/NNG
+등	등/NNB
+반독재	반/XPN + 독재/NNG
+투쟁을	투쟁/NNG + 을/JKO
+벌여	벌이/VV + 어/EC
+온	오/VX + ㄴ/ETM
+그가	그/NP + 가/JKS
+김영삼	김영삼/NNP
+대통령과	대통령/NNG + 과/JKB
+가까워진	가깝/VA + 어/EC + 지/VX + ㄴ/ETM
+것은	것/NNB + 은/JX
+70년	70/SN + 년/NNB
+대	대/NNB
+후반부터.	후반/NNG + 부터/JX + ./SF
+
+그는	그/NP + 는/JX
+친구인	친구/NNG + 이/VCP + ㄴ/ETM
+김덕용	김덕용/NNP
+의원을	의원/NNG + 을/JKO
+통해	통하/VV + 아/EC
+김	김/NNP
+대통령과	대통령/NNG + 과/JKB
+재야의	재야/NNG + 의/JKG
+가교	가교/NNG
+역할을	역할/NNG + 을/JKO
+하고	하/VV + 고/EC
+연설문을	연설문/NNG + 을/JKO
+대신	대신/NNG
+쓰기도	쓰/VV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+83년	83/SN + 년/NNB
+김영삼	김영삼/NNP
+씨의	씨/NNB + 의/JKG
+단식	단식/NNG
+투쟁	투쟁/NNG
+후	후/NNG
+그해	그해/NNG
+8월	8/SN + 월/NNB
+15일	15/SN + 일/NNB
+서울과	서울/NNP + 과/JC
+워싱턴에서	워싱턴/NNP + 에서/JKB
+양	양/MM
+김씨의	김/NNP + 씨/NNB + 의/JKG
+공동	공동/NNG
+명의로	명의/NNG + 로/JKB
+발표된	발표/NNG + 되/XSV + ㄴ/ETM
+공동	공동/NNG
+성명도	성명/NNG + 도/JX
+그의	그/NP + 의/JKG
+손을	손/NNG + 을/JKO
+거친	거치/VV + ㄴ/ETM
+것이었다.	것/NNB + 이/VCP + 었/EP + 다/EF + ./SF
+
+지난	지나/VV + ㄴ/ETM
+대선에선	대선/NNG + 에서/JKB + ㄴ/JX
+김	김/NNP
+대통령을	대통령/NNG + 을/JKO
+지지하는	지지/NNG + 하/XSV + 는/ETM
+재야	재야/NNG
+인사	인사/NNG
+5백	5/SN + 백/NR
+여명을	여/XSN + 명/NNB + 을/JKO
+묶어	묶/VV + 어/EC
+'신한국	'/SS + 신한국/NNP
+창조	창조/NNG
+시민연합'을	시민/NNG + 연합/NNG + '/SS + 을/JKO
+구성해	구성/NNG + 하/XSV + 아/EC
+의장으로	의장/NNG + 으로/JKB
+활동했다.	활동/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+대선후에는	대선/NNG + 후/NNG + 에/JKB + 는/JX
+재야의	재야/NNG + 의/JKG
+입장에서	입장/NNG + 에서/JKB
+새정부의	새/MM + 정부/NNG + 의/JKG
+개혁	개혁/NNG
+과제를	과제/NNG + 를/JKO
+뽑아	뽑/VV + 아/EC
+김	김/NNP
+대통령에게	대통령/NNG + 에게/JKB
+보고하고	보고/NNG + 하/XSV + 고/EC
+인사	인사/NNG
+자문에도	자문/NNG + 에/JKB + 도/JX
+응한	응하/VV + ㄴ/ETM
+것으로	것/NNB + 으로/JKB
+알려졌다.	알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+
+87년	87/SN + 년/NNB
+대선에서	대선/NNG + 에서/JKB
+후보	후보/NNG
+단일화	단일/NNG + 화/XSN
+운동을	운동/NNG + 을/JKO
+벌였던	벌이/VV + 었/EP + 던/ETM
+그는	그/NP + 는/JX
+대선	대선/NNG
+패배	패배/NNG
+후	후/NNG
+88년	88/SN + 년/NNB
+천주교	천주교/NNG
+신문인	신문/NNG + 이/VCP + ㄴ/ETM
+평화	평화/NNG
+신문을	신문/NNG + 을/JKO
+창간,	창간/NNG + ,/SP
+편집국장	편집국장/NNG
+대리-논설위원을	대리/NNG + -/SS + 논설위원/NNG + 을/JKO
+지내고,	지내/VV + 고/EC + ,/SP
+90년엔	90/SN + 년/NNB + 에/JKB + ㄴ/JX
+민주일보	민주일보/NNP
+논설	논설/NNG
+위원을	위원/NNG + 을/JKO
+지냈다.	지내/VV + 었/EP + 다/EF + ./SF
+
+그는	그/NP + 는/JX
+"재야도	"/SS + 재야/NNG + 도/JX
+이제	이제/MAG
+투사의	투사/NNG + 의/JKG
+시대는	시대/NNG + 는/JX
+지나갔다"면서	지나가/VV + 았/EP + 다/EC + "/SS + 면서/EC
+"그늘지고	"/SS + 그늘지/VV + 고/EC
+소외된	소외/NNG + 되/XSV + ㄴ/ETM
+계층의	계층/NNG + 의/JKG
+아픔을	아픔/NNG + 을/JKO
+함께	함께/MAG
+하고	하/VV + 고/EC
+그들의	그/NP + 들/XSN + 의/JKG
+얘기를	얘기/NNG + 를/JKO
+듣는데	듣/VV + 는데/EC
+최선을	최선/NNG + 을/JKO
+다하겠다"고	다/MAG + 하/XSV + 겠/EP + 다/EC + "/SS + 고/JKQ
+말했다.	말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+그는	그/NP + 는/JX
+반유신	반/XPN + 유신/NNG
+투쟁을	투쟁/NNG + 을/JKO
+위해	위하/VV + 아/EC
+당시	당시/NNG
+김영삼	김영삼/NNP
+신민당	신민당/NNP
+총재를	총재/NNG + 를/JKO
+상도동	상도동/NNP
+자택으로	자택/NNG + 으로/JKB
+찾아갔을	찾아가/VV + 았/EP + 을/ETM
+때도	때/NNG + 도/JX
+넥타이를	넥타이/NNG + 를/JKO
+매지	매/VV + 지/EC
+않았을	않/VX + 았/EP + 을/ETM
+정도로	정도/NNG + 로/JKB
+규격화된	규격/NNG + 화/XSN + 되/XSV + ㄴ/ETM
+삶과는	삶/NNG + 과/JKB + 는/JX
+동떨어져	동떨어지/VV + 어/EC
+지내	지내/VV + 어/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+충남	충남/NNP
+대덕군	대덕군/NNP
+회덕면에서	회덕면/NNP + 에서/JKB
+태어난	태어나/VV + ㄴ/ETM
+그는	그/NP + 는/JX
+등록금을	등록금/NNG + 을/JKO
+내지	내/VV + 지/EC
+못할	못하/VX + ㄹ/ETM
+정도로	정도/NNG + 로/JKB
+어려운	어렵/VA + ㄴ/ETM
+환경	환경/NNG
+속에서	속/NNG + 에서/JKB
+자라났다.	자라나/VV + 았/EP + 다/EF + ./SF
+
+결혼	결혼/NNG
+초기이던	초기/NNG + 이/VCP + 던/ETM
+60년대	60/SN + 년대/NNB
+말	말/NNB
+한때	한때/NNG
+서울	서울/NNP
+녹번동에서	녹번동/NNP + 에서/JKB
+손수레로	손수레/NNG + 로/JKB
+채소	채소/NNG
+장사를	장사/NNG + 를/JKO
+하기도	하/VV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+이때	이때/NNG
+리어카를	리어카/NNG + 를/JKO
+세워뒀던	세우/VV + 어/EC + 두/VX + 었/EP + 던/ETM
+공사장의	공사장/NNG + 의/JKG
+자재를	자재/NNG + 를/JKO
+훔친	훔치/VV + ㄴ/ETM
+도둑으로	도둑/NNG + 으로/JKB
+오해받아	오해/NNG + 받/VV + 아/EC
+6개월간	6/SN + 개월/NNB + 간/NNG
+복역하기도	복역/NNG + 하/XSV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+대학	대학/NNG
+재학	재학/NNG
+중	중/NNB
+경찰에	경찰/NNG + 에/JKB
+쫓겨	쫓기/VV + 어/EC
+학교	학교/NNG
+1년	1/SN + 년/NNB
+선배인	선배/NNG + 이/VCP + ㄴ/ETM
+신홍범	신홍범/NNP
+두레출판사	두레출판사/NNP
+사장	사장/NNG
+집에서	집/NNG + 에서/JKB
+숨어	숨/VV + 어/EC
+지내다	지내/VV + 다/EC
+신	신/NNP
+사장	사장/NNG
+누이	누이/NNG
+동생	동생/NNG
+신춘자	신춘자/NNP
+씨(49)와	씨/NNB + (/SS + 49/SN + )/SS + 와/JKB
+결혼해	결혼/NNG + 하/XSV + 아/EC
+4녀를	4/SN + 녀/NNG + 를/JKO
+두었다.	두/VV + 었/EP + 다/EF + ./SF
+
+92년	92/SN + 년/NNB
+제	제/XPN
+14차	14/SN + 차/NNB
+한미군사위원회	한미군사위원회/NNP
+실무	실무/NNG
+책임자로	책임자/NNG + 로/JKB
+한-미간	한/NNP + -/SS + 미/NNP + 간/NNB
+군사	군사/NNG
+현안인	현안/NNG + 이/VCP + ㄴ/ETM
+평시	평시/NNG
+작전	작전/NNG
+통제권	통제/NNG + 권/XSN
+이양	이양/NNG
+협상에	협상/NNG + 에/JKB
+참여했다.	참여/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+예편을	예편/NNG + 을/JKO
+앞두고	앞두/VV + 고/EC
+통합	통합/NNG
+군제로의	군제/NNG + 로/JKB + 의/JKG
+전환을	전환/NNG + 을/JKO
+위한	위하/VV + ㄴ/ETM
+연구	연구/NNG
+위원장직을	위원장/NNG + 직/NNG + 을/JKO
+맡아	맡/VV + 아/EC
+군제	군제/NNG
+개편을	개편/NNG + 을/JKO
+추진했다.	추진/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+말이	말/NNG + 이/JKS
+별로	별로/MAG
+없는	없/VA + 는/ETM
+실무형.	실무/NNG + 형/XSN + ./SF
+
+▴	▴/SW
+전남	전남/NNP
+완도·56세	완도/NNP + ·/SP + 56/SN + 세/NNB
+▴	▴/SW
+육사	육사/NNP
+16기	16/SN + 기/NNG
+▴	▴/SW
+사단장▴	사단장/NNG + ▴/SW
+군단장	군단장/NNG
+▴	▴/SW
+합참	합참/NNG
+전략기획본부장	전략/NNG + 기획/NNG + 본부장/NNG
+
+재무부의	재무/NNG + 부/NNG + 의/JKG
+세재-이재-증권업무를	세재/NNG + -/SS + 이재/NNG + -/SS + 증권/NNG + 업무/NNG + 를/JKO
+두루	두루/MAG
+섭렵한	섭렵/NNG + 하/XSV + ㄴ/ETM
+재무부	재무/NNG + 부/NNG
+토박이로	토박이/NNG + 로/JKB
+세밀하고	세밀/XR + 하/XSA + 고/EC
+무리하지	무리/NNG + 하/XSV + 지/EC
+않는	않/VX + 는/ETM
+업무	업무/NNG
+추진이	추진/NNG + 이/JKS
+장기이며	장기/NNG + 이/VCP + 며/EC
+자신을	자신/NNG + 을/JKO
+앞세우지	앞세우/VV + 지/EC
+않는다.	않/VX + 는다/EF + ./SF
+
+관세청장	관세청장/NNG
+재직시	재직/NNG + 시/NNB
+관세업무	관세/NNG + 업무/NNG
+전산화에	전산/NNG + 화/XSN + 에/JKB
+큰	크/VA + ㄴ/ETM
+공을	공/NNG + 을/JKO
+세웠다.	세우/VV + 었/EP + 다/EF + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+거창·53세	거창/NNP + ·/SP + 53/SN + 세/NNB
+▴	▴/SW
+경북대	경북대/NNP
+사대	사대/NNG
+사회학과	사회학/NNG + 과/NNG
+▴	▴/SW
+재무부	재무/NNG + 부/NNG
+세제	세제/NNG
+-	-/SS
+증권보험	증권/NNG + 보험/NNG
+-	-/SS
+이재국장	이재국장/NNG
+-	-/SS
+국세심판소장	국세/NNG + 심판/NNG + 소장/NNG
+-	-/SS
+제2차관보	제/XPN + 2/SN + 차관보/NNG
+▴	▴/SW
+관세청장	관세청장/NNG
+
+대선	대선/NNG
+때	때/NNG
+김영삼	김영삼/NNP
+대통령의	대통령/NNG + 의/JKG
+사조직인	사조직/NNG + 이/VCP + ㄴ/ETM
+민주	민주/NNP
+산악회에서	산악회/NNG + 에서/JKB
+김	김/NNP
+대통령의	대통령/NNG + 의/JKG
+당선에	당선/NNG + 에/JKB
+크게	크/VA + 게/EC
+기여.	기여/NNG + ./SF
+
+동국대	동국대/NNP
+졸업	졸업/NNG
+후	후/NNG
+민주	민주/NNP
+산악회	산악회/NNG
+서산	서산/NNP
+지부장을	지부장/NNG + 을/JKO
+맡아	맡/VV + 아/EC
+김	김/NNP
+대통령	대통령/NNG
+진영에	진영/NNG + 에/JKB
+가담.	가담/NNG + ./SF
+
+13대	13/SN + 대/NNB
+때	때/NNG
+민주당	민주당/NNP
+후보로	후보/NNG + 로/JKB
+서산에서	서산/NNP + 에서/JKB
+출마,	출마/NNG + ,/SP
+당선됐으나	당선/NNG + 되/XSV + 었/EP + 으나/EC
+14대에는	14/SN + 대/NNB + 에/JKB + 는/JX
+한영수	한영수/NNP
+의원에게	의원/NNG + 에게/JKB
+고배를	고배/NNG + 를/JKO
+마셨다.	마시/VV + 었/EP + 다/EF + ./SF
+
+▴	▴/SW
+충남	충남/NNP
+서산·46세	서산/NNP + ·/SP + 46/SN + 세/NNB
+▴	▴/SW
+민주당	민주당/NNP
+원내부총무	원내/NNG + 부총무/NNG
+▴	▴/SW
+광주	광주/NNP
+특위	특위/NNG
+위원	위원/NNG
+▴	▴/SW
+민자당	민자당/NNP
+정책운영실장	정책/NNG + 운영/NNG + 실장/NNG
+
+업무	업무/NNG
+장악력이	장악력/NNG + 이/JKS
+뛰어나고	뛰어나/VA + 고/EC
+두뇌	두뇌/NNG
+회전이	회전/NNG + 이/JKS
+빠른	빠르/VA + ㄴ/ETM
+재사형.	재사/NNG + 형/XSN + ./SF
+
+82년	82/SN + 년/NNB
+물가국장	물가/NNG + 국장/NNG
+시절	시절/NNG
+치솟는	치솟/VV + 는/ETM
+물가를	물가/NNG + 를/JKO
+잡아	잡/VV + 아/EC
+능력을	능력/NNG + 을/JKO
+인정받기도	인정받/VV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+공정거래위원장(차관급)을	공정/NNG + 거래/NNG + 위원장/NNG + (/SS + 차관/NNG + 급/NNG + )/SS + 을/JKO
+맡은	맡/VV + 은/ETM
+뒤	뒤/NNG
+개각	개각/NNG
+때마다	때/NNG + 마다/JX
+물망에만	물망/NNG + 에/JKB + 만/JX
+오르다	오르/VV + 다/EC
+5년만에	5/SN + 년/NNB + 만/NNB + 에/JKB
+차관으로	차관/NNG + 으로/JKB
+승진했다.	승진/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+▴	▴/SW
+광주,	광주/NNP + ,/SP
+54세	54/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+경제학과	경제학/NNG + 과/NNG
+▴	▴/SW
+경제기획원	경제/NNG + 기획원/NNG
+경제협력국장-물가정책국장-기획관리실장	경제/NNG + 협력/NNG + 국장/NNG + -/SS + 물가/NNG + 정책/NNG + 국장/NNG + -/SS + 기획/NNG + 관리/NNG + 실장/NNG
+▴	▴/SW
+공정거래위원장	공정/NNG + 거래/NNG + 위원장/NNG
+
+추진력이	추진력/NNG + 이/JKS
+강한	강하/VV + ㄴ/ETM
+총무처	총무처/NNG
+관료로	관료/NNG + 로/JKB
+요직을	요직/NNG + 을/JKO
+두루	두루/MAG
+거쳤다.	거치/VV + 었/EP + 다/EF + ./SF
+
+91년	91/SN + 년/NNB
+7개월간	7/SN + 개월/NNB + 간/NNG
+민자당	민자당/NNP
+전문	전문/NNG
+위원으로	위원/NNG + 으로/JKB
+재직하면서	재직/NNG + 하/XSV + 면서/EC
+판단력과	판단력/NNG + 과/JC
+정책	정책/NNG
+입안	입안/NNG
+능력을	능력/NNG + 을/JKO
+인정받았다.	인정받/VV + 았/EP + 다/EF + ./SF
+
+행정쇄신	행정/NNG + 쇄신/NNG
+과제	과제/NNG
+등을	등/NNB + 을/JKO
+원만히	원만히/MAG
+처리해	처리/NNG + 하/XSV + 아/EC
+나갈	나가/VX + ㄹ/ETM
+적임자라는	적임자/NNG + 이/VCP + 라는/ETM
+평가.	평가/NNG + ./SF
+
+▴	▴/SW
+경북	경북/NNP
+안동·53세	안동/NNP + ·/SP + 53/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+졸	졸/NNG
+▴	▴/SW
+행시	행시/NNG
+10회	10/SN + 회/NNB
+▴	▴/SW
+총무처	총무처/NNG
+행정관리국장	행정/NNG + 관리/NNG + 국장/NNG
+▴	▴/SW
+민자당	민자당/NNP
+전문	전문/NNG
+위원	위원/NNG
+▴	▴/SW
+총무처	총무처/NNG
+기획관리실장	기획/NNG + 관리/NNG + 실장/NNG
+
+63년	63/SN + 년/NNB
+법제처	법제처/NNG
+차장	차장/NNG
+비서관으로	비서관/NNG + 으로/JKB
+시작,	시작/NNG + ,/SP
+88년	88/SN + 년/NNB
+민자당	민자당/NNP
+법사	법사/NNG
+전문	전문/NNG
+위원으로	위원/NNG + 으로/JKB
+잠시	잠시/MAG
+외도한	외도/NNG + 하/XSV + ㄴ/ETM
+것을	것/NNB + 을/JKO
+제외하고는	제외/NNG + 하/XSV + 고/EC + 는/JX
+30년	30/SN + 년/NNB
+동안	동안/NNG
+줄곧	줄곧/MAG
+법제처에서만	법제처/NNG + 에서/JKB + 만/JX
+근무했다.	근무/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+부인	부인/NNG
+김동길	김동길/NNP
+여사와의	여사/NNG + 와/JKB + 의/JKG
+사이에	사이/NNG + 에/JKB
+1남	1/SN + 남/NNG
+2녀.	2/SN + 녀/NNG + ./SF
+
+▴	▴/SW
+서울·53세	서울/NNP + ·/SP + 53/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+졸	졸/NNG
+▴	▴/SW
+법제처	법제처/NNG
+총무과장	총무/NNG + 과장/NNG
+▴	▴/SW
+법제관제	법제관제/NNG
+2국장	2/SN + 국장/NNG
+▴	▴/SW
+민자당	민자당/NNP
+법사	법사/NNG
+전문	전문/NNG
+위원	위원/NNG
+▴	▴/SW
+법제처	법제처/NNG
+법제조정실장	법제/NNG + 조정/NNG + 실장/NNG
+
+경찰	경찰/NNG
+간부	간부/NNG
+후보생	후보생/NNG
+14기	14/SN + 기/NNG
+출신으로	출신/NNG + 으로/JKB
+줄곧	줄곧/MAG
+경비와	경비/NNG + 와/JC
+대공	대공/NNG
+분야에서	분야/NNG + 에서/JKB
+활동해	활동/NNG + 하/XSV + 아/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+추진력과	추진력/NNG + 과/JC
+창안력이	창안력/NNG + 이/JKS
+탁월하다는	탁월/XR + 하/XSA + 다는/ETM
+평.	평/NNG + ./SF
+
+서울경찰청장	서울경찰청장/NNG
+재직시	재직/NNG + 시/NNB
+대입	대입/NNG
+부정을	부정/NNG + 을/JKO
+파헤치고	파헤치/VV + 고/EC
+호평을	호평/NNG + 을/JKO
+받았다.	받/VV + 았/EP + 다/EF + ./SF
+
+이광빈씨(56)와	이광빈/NNP + 씨/NNB + (/SS + 56/SN + )/SS + 와/JC
+2남	2/SN + 남/NNG
+1녀.	1/SN + 녀/NNG + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+창원·57세	창원/NNP + ·/SP + 57/SN + 세/NNB
+▴	▴/SW
+중앙대	중앙대/NNP
+법정대	법정대/NNG
+졸	졸/NNG
+▴	▴/SW
+서울	서울/NNP
+종암서장	종암/NNP + 서장/NNG
+인천	인천/NNP
+시경	시경/NNG
+국장	국장/NNG
+▴	▴/SW
+청와대	청와대/NNP
+치안비서관	치안/NNG + 비서관/NNG
+▴	▴/SW
+서울경찰청장	서울경찰청장/NNG
+
+신문사	신문사/NNG
+정치	정치/NNG
+부장을	부장/NNG + 을/JKO
+거쳐	거치/VV + 어/EC
+5공	5/SN + 공/NNG
+출범과	출범/NNG + 과/JKB
+함께	함께/MAG
+민정당	민정당/NNP
+전국구	전국구/NNG
+의원으로	의원/NNG + 으로/JKB
+정계에	정계/NNG + 에/JKB
+진출.	진출/NNG + ./SF
+
+여당	여당/NNG
+당선이	당선/NNG + 이/JKS
+힘든	힘들/VA + ㄴ/ETM
+전북	전북/NNP
+익산	익산/NNP
+지역구에서	지역구/NNG + 에서/JKB
+12대	12/SN + 대/NNB
+때	때/NNG
+당선했으나,	당선/NNG + 하/XSV + 았/EP + 으나/EC + ,/SP
+13대에서	13/SN + 대/NNB + 에서/JKB
+근소한	근소/XR + 하/XSA + ㄴ/ETM
+표	표/NNG
+차이로	차이/NNG + 로/JKB
+낙선했다.	낙선/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+일	일/NNG
+처리가	처리/NNG + 가/JKS
+꼼꼼하고	꼼꼼/MAG + 하/XSA + 고/EC
+판단력이	판단력/NNG + 이/JKS
+뛰어나다는	뛰어나/VA + 다는/ETM
+평.	평/NNG + ./SF
+
+▴	▴/SW
+전북	전북/NNP
+익산·55세	익산/NNP + ·/SP + 55/SN + 세/NNB
+▴	▴/SW
+고려대	고려대/NNP
+정외과	정외과/NNG
+▴	▴/SW
+중앙일보	중앙일보/NNP
+정치부장	정치/NNG + 부장/NNG
+▴	▴/SW
+민자당	민자당/NNP
+전북도지부	전북도/NNP + 지부/NNG
+위원장	위원장/NNG
+
+행시	행시/NNG
+3회로	3/SN + 회/NNB + 로/JKB
+66년	66/SN + 년/NNB
+사무관으로	사무관/NNG + 으로/JKB
+출발,	출발/NNG + ,/SP
+줄곧	줄곧/MAG
+경제기획원에만	경제/NNG + 기획원/NNG + 에/JKB + 만/JX
+근무해	근무/NNG + 하/XSV + 아/EC
+온	오/VX + ㄴ/ETM
+정통	정통/NNG
+경제	경제/NNG
+관료.	관료/NNG + ./SF
+
+온화한	온화/XR + 하/XSA + ㄴ/ETM
+성품에	성품/NNG + 에/JKB
+상하	상하/NNG
+관계가	관계/NNG + 가/JKS
+원만하며	원만/XR + 하/XSA + 며/EC
+일	일/NNG
+처리는	처리/NNG + 는/JX
+철저하게	철저/NNG + 하/XSA + 게/EC
+합리성을	합리/NNG + 성/XSN + 을/JKO
+추구한다는	추구/NNG + 하/XSV + ㄴ다는/ETM
+평.	평/NNG + ./SF
+
+이경식	이경식/NNP
+부총리의	부총리/NNG + 의/JKG
+과거	과거/NNG
+부하	부하/NNG
+직원으로	직원/NNG + 으로/JKB
+장	장/NNP
+차관의	차관/NNG + 의/JKG
+호흡은	호흡/NNG + 은/JX
+잘	잘/MAG
+맞을	맞/VV + 을/ETM
+듯.	듯/NNB + ./SF
+
+▴	▴/SW
+서울·52세	서울/NNP + ·/SP + 52/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+▴	▴/SW
+기획원	기획원/NNG
+정책조정국장-대외경제조정실장-기획관리실장	정책/NNG + 조정/NNG + 국장/NNG + -/SS + 대외/NNG + 경제/NNG + 조정/NNG + 실장/NNG + -/SS + 기획/NNG + 관리/NNG + 실장/NNG
+
+82년	82/SN + 년/NNB
+대검중수부	대검/NNP + 중수부/NNG
+과장시절	과장/NNG + 시절/NNG
+이철희-장영자사건	이철희/NNP + -/SS + 장영자/NNP + 사건/NNG
+등	등/NNB
+대형	대형/NNG
+사건들을	사건/NNG + 들/XSN + 을/JKO
+뒷말	뒷말/NNG
+없이	없이/MAG
+마무리한	마무리/NNG + 하/XSV + ㄴ/ETM
+전형적인	전형/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+수사	수사/NNG
+검사	검사/NNG
+출신.	출신/NNG + ./SF
+
+고시	고시/NNG
+16회로	16/SN + 회/NNB + 로/JKB
+검찰내	검찰/NNG + 내/NNB
+호남출신중	호남/NNP + 출신/NNG + 중/NNB
+대표	대표/NNG
+주자.	주/VX + 자/EF + ./SF
+
+▴	▴/SW
+전북	전북/NNP
+전주·52세	전주/NNP + ·/SP + 52/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+▴	▴/SW
+서울	서울/NNP
+지검	지검/NNG
+1차장	1/SN + 차장/NNG
+▴	▴/SW
+법무부	법무부/NNG
+기획관리실장	기획/NNG + 관리/NNG + 실장/NNG
+▴	▴/SW
+광주	광주/NNP
+지검	지검/NNG
+검사장	검사장/NNG
+▴	▴/SW
+법무부	법무부/NNG
+교정국장▴	교정/NNG + 국장/NNG + ▴/SW
+대검	대검/NNG
+중수부장	중수부장/NNG
+▴	▴/SW
+광주	광주/NNP
+고검장	고검장/NNG
+
+사무관	사무관/NNG
+임관후	임관/NNG + 후/NNG
+줄곧	줄곧/MAG
+농림수산부에	농림수산부/NNG + 에/JKB
+몸담아	몸담/VV + 아/EC
+온	오/VX + ㄴ/ETM
+보기	보/VV + 기/ETN
+드문	드물/VA + ㄴ/ETM
+농정통.	농정통/NNG + ./SF
+
+통치의	통치/NNG + 의/JKG
+기본은	기본/NNG + 은/JX
+농업에	농업/NNG + 에/JKB
+있다는	있/VV + 다는/ETM
+'치본어농'을	'/SS + 치본어농/NNG + '/SS + 을/JKO
+평소역설.	평소/NNG + 역설/NNG + ./SF
+
+사교성이	사교/NNG + 성/XSN + 이/JKS
+부족하다는	부족/NNG + 하/XSA + 다는/ETM
+평가도	평가/NNG + 도/JX
+받지만	받/VV + 지만/EC
+맡은	맡/VV + 은/ETM
+일은	일/NNG + 은/JX
+오차	오차/NNG
+없이	없이/MAG
+끝내야	끝내/VV + 어야/EC
+하는	하/VX + 는/ETM
+완벽주의가	완벽/NNG + 주의/NNG + 가/JKS
+강점.	강점/NNG + ./SF
+
+윤규선	윤규선/NNP
+여사와	여사/NNG + 와/JC
+3남	3/SN + 남/NNG
+▴	▴/SW
+경남	경남/NNP
+거제·51세	거제/NNP + ·/SP + 51/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+사회학과	사회학/NNG + 과/NNG
+▴	▴/SW
+농림수산부	농림수산부/NNG
+주미농무관-기획관리실장-제	주미/NNG + 농무관/NNG + -/SS + 기획/NNG + 관리/NNG + 실장/NNG + -/SS + 제/XPN
+1차관보	1/SN + 차관보/NNG
+
+61년	61/SN + 년/NNB
+총무처	총무처/NNG
+행정	행정/NNG
+주사보로	주사보/NNG + 로/JKB
+출발,	출발/NNG + ,/SP
+공직생활	공직/NNG + 생활/NNG
+대부분을	대부분/NNG + 을/JKO
+통일원과	통일원/NNG + 과/JC
+평통	평통/NNG
+자문	자문/NNG
+회의에서	회의/NNG + 에서/JKB
+보냈다.	보내/VV + 었/EP + 다/EF + ./SF
+
+통일	통일/NNG
+문제는	문제/NNG + 는/JX
+전문가이나	전문가/NNG + 이/VCP + 나/EC
+노동	노동/NNG
+행정은	행정/NNG + 은/JX
+처음.	처음/NNG + ./SF
+
+꼼꼼하게	꼼꼼/MAG + 하/XSA + 게/EC
+업무를	업무/NNG + 를/JKO
+챙기나	챙기/VV + 나/EC
+대인	대인/NNG
+관계가	관계/NNG + 가/JKS
+원만해	원만/XR + 하/XSA + 아/EC
+누구에게나	누구/NP + 에게/JKB + 나/JX
+호감을	호감/NNG + 을/JKO
+사는	사/VV + 는/ETM
+스타일.	스타일/NNG + ./SF
+
+이날	이날/NNG
+오후	오후/NNG
+큰	크/VA + ㄴ/ETM
+딸	딸/NNG
+은정양(26)을	은정/NNP + 양/NNB + (/SS + 26/SN + )/SS + 을/JKO
+시집보냈다.	시집보내/VV + 었/EP + 다/EF + ./SF
+
+▴	▴/SW
+평남	평남/NNP
+용강·57세	용강/NNP + ·/SP + 57/SN + 세/NNB
+▴	▴/SW
+동국대	동국대/NNP
+정외과	정외과/NNG
+▴	▴/SW
+평통	평통/NNG
+사무사창	사무사창/NNG
+▴	▴/SW
+평남지사	평남/NNP + 지사/NNG
+
+25년	25/SN + 년/NNB
+동안	동안/NNG
+과기처에서만	과기처/NNG + 에서/JKB + 만/JX
+근무한	근무/NNG + 하/XSV + ㄴ/ETM
+전문관료.	전문/NNG + 관료/NNG + ./SF
+
+이중	이/MM + 중/NNB
+18년을	18/SN + 년/NNB + 을/JKO
+원자력과	원자력/NNG + 과/JC
+관련된	관련/NNG + 되/XSV + ㄴ/ETM
+분야에서	분야/NNG + 에서/JKB
+일했다.	일/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+원자력실장이던	원자력실장/NNG + 이/VCP + 던/ETM
+지난해	지난해/NNG
+원자력	원자력/NNG
+장기	장기/NNG
+개발	개발/NNG
+계획이	계획/NNG + 이/JKS
+유출되는	유출/NNG + 되/XSV + 는/ETM
+바람에	바람/NNB + 에/JKB
+책임을	책임/NNG + 을/JKO
+지고	지/VV + 고/EC
+국립	국립/NNG
+중앙	중앙/NNG
+과학관장으로	과학관장/NNG + 으로/JKB
+물러	무르/VV + 어/EC
+났다가	나/VX + 았/EP + 다가/EC
+이번에	이번/NNG + 에/JKB
+본부로	본부/NNG + 로/JKB
+금의환양했다.	금의환양/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+사천·54세	사천/NNP + ·/SP + 54/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+졸업	졸업/NNG
+▴	▴/SW
+ROTC	ROTC/SL
+1기생으로	1/SN + 기/NNG + 생/XSN + 으로/JKB
+오인숙(47)여사와의	오인숙/NNP + (/SS + 47/SN + )/SS + 여사/NNG + 와/JKB + 의/JKG
+사이에	사이/NNG + 에/JKB
+1남	1/SN + 남/NNG
+3녀.	3/SN + 녀/NNG + ./SF
+
+평소	평소/NNG
+온화한	온화/XR + 하/XSA + ㄴ/ETM
+성품이지만	성품/NNG + 이/VCP + 지만/EC
+불의를	불의/NNG + 를/JKO
+보면	보/VV + 면/EC
+참지	참/VV + 지/EC
+못하는	못하/VX + 는/ETM
+'정의파'.	'/SS + 정의파/NNG + '/SS + ./SF
+
+64년	64/SN + 년/NNB
+6·3	6/SN + ·/SP + 3/SN
+학생	학생/NNG
+운동과	운동/NNG + 과/JC
+65년	65/SN + 년/NNB
+한일	한/NNP + 일/NNP
+협정	협정/NNG
+비준	비준/NNG
+반대	반대/NNG
+시위에	시위/NNG + 에/JKB
+참가해	참가/NNG + 하/XSV + 아/EC
+옥고를	옥고/NNG + 를/JKO
+치르기도	치르/VV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+87년	87/SN + 년/NNB
+대선에서는	대선/NNG + 에서/JKB + 는/JX
+야권	야/NNG + 권/XSN
+후보	후보/NNG
+단일화	단일/NNG + 화/XSN
+운동을	운동/NNG + 을/JKO
+벌였다.	벌이/VV + 었/EP + 다/EF + ./SF
+
+▴	▴/SW
+서울·48세	서울/NNP + ·/SP + 48/SN + 세/NNB
+▴	▴/SW
+서울	서울/NNP
+법대	법대/NNG
+졸	졸/NNG
+▴	▴/SW
+사시	사시/NNG
+12회	12/SN + 회/NNB
+▴	▴/SW
+광주지법	광주지법/NNP
+판사	판사/NNG
+▴	▴/SW
+변호사	변호사/NNG
+▴	▴/SW
+경실련	경실련/NNG
+상임집행위원장	상임/NNG + 집행/NNG + 위원장/NNG
+
+씨름선수	씨름/NNG + 선수/NNG
+출신으로	출신/NNG + 으로/JKB
+유도	유도/NNG
+6단의	6/SN + 단/NNG + 의/JKG
+만능	만능/NNG
+스포츠맨.	스포츠맨/NNG + ./SF
+
+9공	9/SN + 공/NNG
+수여단	수여단/NNG
+시절	시절/NNG
+여단장이었던	여단장/NNG + 이/VCP + 었/EP + 던/ETM
+노태우	노태우/NNP
+전	전/MM
+대통령	대통령/NNG
+밑에서	밑/NNG + 에서/JKB
+근무한	근무/NNG + 하/XSV + ㄴ/ETM
+것이	것/NNB + 이/JKS
+인연이	인연/NNG + 이/JKC
+돼	되/VV + 어/EC
+오늘에	오늘/NNG + 에/JKB
+이른	이르/VV + ㄴ/ETM
+노인맥.	노/NNP + 인맥/NNG + ./SF
+
+안기부내	안기부/NNG + 내/NNB
+YS지지	YS/SL + 지지/NNG
+핵심으로	핵심/NNG + 으로/JKB
+대선	대선/NNG
+때	때/NNG
+상당한	상당/NNG + 하/XSA + ㄴ/ETM
+공이	공/NNG + 이/JKS
+있었다는	있/VV + 었/EP + 다는/ETM
+평.	평/NNG + ./SF
+
+▴	▴/SW
+경북	경북/NNP
+달성·53세	달성/NNP + ·/SP + 53/SN + 세/NNB
+▴	▴/SW
+경북대	경북대/NNP
+사대	사대/NNG
+▴	▴/SW
+ROTC	ROTC/SL
+3기	3/SN + 기/NNG
+▴	▴/SW
+안기부	안기부/NNG
+국방보좌관(준장)	국방/NNG + 보좌관/NNG + (/SS + 준장/NNG + )/SS
+▴	▴/SW
+소장예편	소장/NNG + 예편/NNG
+▴	▴/SW
+안기부	안기부/NNG
+기조실장	기조실장/NNG
+
+30년	30/SN + 년/NNB
+간	간/NNB
+수산행정	수산/NNG + 행정/NNG
+분야에서	분야/NNG + 에서/JKB
+근무하다	근무/NNG + 하/XSV + 다/EC
+지난	지나/VV + ㄴ/ETM
+91년	91/SN + 년/NNB
+'인사정체'를	'/SS + 인사/NNG + 정체/NNG + '/SS + 를/JKO
+이유로	이유/NNG + 로/JKB
+수산청	수산청/NNG
+차장에서	차장/NNG + 에서/JKB
+용퇴.	용퇴/NNG + ./SF
+
+수산청	수산청/NNG
+요직을	요직/NNG + 을/JKO
+장악하고	장악/NNG + 하/XSV + 고/EC
+있는	있/VX + 는/ETM
+부산	부산/NNP
+수산대	수산대/NNP
+출신의	출신/NNG + 의/JKG
+대부	대부/NNG
+격으로	격/NNB + 으로/JKB
+꼼꼼하고	꼼꼼/MAG + 하/XSA + 고/EC
+과묵한	과묵/NNG + 하/XSA + ㄴ/ETM
+성격.	성격/NNG + ./SF
+
+부인	부인/NNG
+김승엽씨(58)와	김승엽/NNP + 씨/NNB + (/SS + 58/SN + )/SS + 와/JC
+2남	2/SN + 남/NNG
+1녀.	1/SN + 녀/NNG + ./SF
+
+취미	취미/NNG
+테니스.	테니스/NNG + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+하동·62세	하동/NNP + ·/SP + 62/SN + 세/NNB
+▴	▴/SW
+부산	부산/NNP
+수산대	수산대/NNP
+어로과	어로과/NNG
+▴	▴/SW
+한국수산회	한국수산회/NNP
+회장	회장/NNG
+
+20여년	20/SN + 여/XSN + 년/NNB
+동안	동안/NNG
+남북	남북/NNP
+대화와	대화/NNG + 와/JC
+통일	통일/NNG
+문제를	문제/NNG + 를/JKO
+다루어	다루/VV + 어/EC
+온	오/VX + ㄴ/ETM
+전문가.	전문가/NNG + ./SF
+
+84년	84/SN + 년/NNB
+남북	남북/NNP
+적십자	적십자/NNG
+회담	회담/NNG
+실무수석	실무/NNG + 수석/NNG
+대표로서	대표/NNG + 로서/JKB
+제	제/XPN
+1차	1/SN + 차/NNB
+이산	이산/NNG
+가족	가족/NNG
+고향방문단	고향/NNG + 방문단/NNG
+사업을	사업/NNG + 을/JKO
+성사시키는	성사/NNG + 시키/XSV + 는/ETM
+데	데/NNB
+일조를	일조/NNG + 를/JKO
+했다.	하/VV + 았/EP + 다/EF + ./SF
+
+큰	크/VA + ㄴ/ETM
+소리를	소리/NNG + 를/JKO
+내는	내/VV + 는/ETM
+적이	적/NNB + 이/JKS
+없는	없/VA + 는/ETM
+조용한	조용/XR + 하/XSA + ㄴ/ETM
+성품.	성품/NNG + ./SF
+
+▴	▴/SW
+전남	전남/NNP
+구례	구례/NNP
+56세	56/SN + 세/NNB
+▴	▴/SW
+연세대	연세대/NNP
+정외과	정외과/NNG
+졸	졸/NNG
+▴	▴/SW
+문화	문화/NNG
+방송	방송/NNG
+정경부장	정경/NNG + 부장/NNG
+대우	대우/NNG
+▴	▴/SW
+동	동/MM
+남북회담사무국	남북/NNP + 회담/NNG + 사무국/NNG
+상근대표	상근/NNG + 대표/NNG
+▴	▴/SW
+동	동/MM
+자문	자문/NNG
+위원	위원/NNG
+
+80년	80/SN + 년/NNB
+대	대/NNB
+말	말/NNB
+재무부	재무/NNG + 부/NNG
+금융차관보	금융/NNG + 차관보/NNG
+시절금융산업	시절/NNG + 금융/NNG + 산업/NNG
+개편	개편/NNG
+작업을	작업/NNG + 을/JKO
+주도했던	주도/NNG + 하/XSV + 았/EP + 던/ETM
+재정	재정/NNG
+금융통.	금융통/NNG + ./SF
+
+민간	민간/NNG
+국방	국방/NNG
+차관이	차관/NNG + 이/JKS
+임명됐던	임명/NNG + 되/XSV + 었/EP + 던/ETM
+전례가	전례/NNG + 가/JKS
+거의	거의/MAG
+없는	없/VA + 는/ETM
+관행을	관행/NNG + 을/JKO
+깨고	깨/VV + 고/EC
+국방	국방/NNG
+실무를	실무/NNG + 를/JKO
+총괄하는	총괄/NNG + 하/XSV + 는/ETM
+자리에	자리/NNG + 에/JKB
+발탁됐다.	발탁/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+
+군사	군사/NNG
+전략	전략/NNG
+문외한으로	문외한/NNG + 으로/JKB
+방대한	방대/XR + 하/XSA + ㄴ/ETM
+국방	국방/NNG
+예산을	예산/NNG + 을/JKO
+어떻게	어떻/VA + 게/EC
+요리할	요리/NNG + 하/XSV + ㄹ/ETM
+것인지가	것/NNB + 이/VCP + ㄴ지/EC + 가/JKS
+관심.	관심/NNG + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+창원·56세	창원/NNP + ·/SP + 56/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+상대	상대/NNG
+▴	▴/SW
+재무부	재무/NNG + 부/NNG
+이재국장	이재국장/NNG
+▴	▴/SW
+관세청장	관세청장/NNG
+▴	▴/SW
+재무부	재무/NNG + 부/NNG
+차관	차관/NNG
+
+상공부와	상공/NNG + 부/NNG + 와/JC
+공업	공업/NNG
+진흥청에서	진흥/NNG + 청/NNG + 에서/JKB
+주로	주로/MAG
+산업	산업/NNG
+파트를	파트/NNG + 를/JKO
+맡아	맡/VV + 아/EC
+업계	업계/NNG
+사정에	사정/NNG + 에/JKB
+정통한	정통/NNG + 하/XSV + ㄴ/ETM
+상공관료.	상공/NNG + 관료/NNG + ./SF
+
+대우	대우/NNP
+조선	조선/NNG
+합리화	합리/NNG + 화/XSN
+대책,	대책/NNG + ,/SP
+한국	한국/NNP
+중공업	중공업/NNG
+정상화	정상/NNG + 화/XSN
+대책을	대책/NNG + 을/JKO
+뒷심	뒷심/NNG
+있게	있/VV + 게/EC
+밀어	밀/VV + 어/EC
+붙였다.	붙이/VV + 었/EP + 다/EF + ./SF
+
+한국	한국/NNP
+수출	수출/NNG
+보험	보험/NNG
+공사가	공사/NNG + 가/JKS
+설립되면서	설립/NNG + 되/XSV + 면서/EC
+공직을	공직/NNG + 을/JKO
+떠났었다.	떠나/VV + 았었/EP + 다/EF + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+진양·53세	진양/NNP + ·/SP + 53/SN + 세/NNB
+▴	▴/SW
+경북대	경북대/NNP
+사대	사대/NNG
+▴	▴/SW
+상공부	상공/NNG + 부/NNG
+상역국장-제	상역국장/NNG + -/SS + 제/XPN
+2차관보	2/SN + 차관보/NNG
+▴	▴/SW
+공진청	공진청/NNG
+차장-청장	차장/NNG + -/SS + 청장/NNG
+▴	▴/SW
+한국수출보험공사	한국수출보험공사/NNP
+사장	사장/NNG
+
+한국	한국/NNP
+개발	개발/NNG
+연구원	연구원/NNG
+수석	수석/NNG
+연구원으로	연구원/NNG + 으로/JKB
+출발,	출발/NNG + ,/SP
+재무부와	재무/NNG + 부/NNG + 와/JC
+경제기획원	경제/NNG + 기획원/NNG
+자문관을	자문관/NNG + 을/JKO
+거친	거치/VV + ㄴ/ETM
+비관료	비/XPN + 관료/NNG
+출신.	출신/NNG + ./SF
+
+청와대	청와대/NNP
+경제	경제/NNG
+비서관을	비서관/NNG + 을/JKO
+지낸	지내/VV + ㄴ/ETM
+것이	것/NNB + 이/JKS
+인연이	인연/NNG + 이/JKC
+돼	되/VV + 어/EC
+차관에	차관/NNG + 에/JKB
+발탁됐다고.	발탁/NNG + 되/XSV + 었/EP + 다고/EF + ./SF
+
+연구원	연구원/NNG
+시절	시절/NNG
+담당한	담당/NNG + 하/XSV + ㄴ/ETM
+'투자효율분석'등을	'/SS + 투자/NNG + 효율/NNG + 분석/NNG + '/SS + 등/NNB + 을/JKO
+날로	날로/MAG
+복잡해지는	복잡/XR + 하/XSA + 아/EC + 지/VX + 는/ETM
+교통	교통/NNG
+업무	업무/NNG
+발전에	발전/NNG + 에/JKB
+도입할	도입/NNG + 하/XSV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+기대되고	기대/NNG + 되/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+▴	▴/SW
+경기	경기/NNP
+개성·46세	개성/NNP + ·/SP + 46/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+경제학과	경제학/NNG + 과/NNG
+졸	졸/NNG
+▴	▴/SW
+경제학	경제학/NNG
+박사	박사/NNG
+▴	▴/SW
+주미	주미/NNG
+공사	공사/NNG
+
+7회	7/SN + 회/NNB
+행정고시	행정/NNG + 고시/NNG
+합격후	합격/NNG + 후/NNG
+70년부터	70/SN + 년/NNB + 부터/JX
+보사부에서	보사부/NNG + 에서/JKB
+공직	공직/NNG
+생활을	생활/NNG + 을/JKO
+시작,	시작/NNG + ,/SP
+80년	80/SN + 년/NNB
+환경청이	환경청/NNG + 이/JKS
+보사부에서	보사부/NNG + 에서/JKB
+독립할	독립/NNG + 하/XSV + ㄹ/ETM
+때부터	때/NNG + 부터/JX
+13년	13/SN + 년/NNB
+간	간/NNB
+몸담아	몸담/VV + 아/EC
+온	오/VX + ㄴ/ETM
+환경처의	환경/NNG + 처/NNG + 의/JKG
+산	살/VV + ㄴ/ETM
+증인.	증인/NNG + ./SF
+
+심사숙고형으로서는	심사숙고/NNG + 형/XSN + 으로서/JKB + 는/JX
+꼼꼼히	꼼꼼히/MAG
+업무를	업무/NNG + 를/JKO
+추진한다는	추진/NNG + 하/XSV + ㄴ다는/ETM
+평.	평/NNG + ./SF
+
+▴	▴/SW
+평양·53세	평양/NNP + ·/SP + 53/SN + 세/NNB
+▴	▴/SW
+63년	63/SN + 년/NNB
+서울대	서울대/NNP
+법대	법대/NNG
+졸	졸/NNG
+▴	▴/SW
+70년	70/SN + 년/NNB
+법제처	법제처/NNG
+행정사무관	행정/NNG + 사무관/NNG
+▴	▴/SW
+86년	86/SN + 년/NNB
+대기보전국장	대기/NNG + 보전/NNG + 국장/NNG
+▴	▴/SW
+90년	90/SN + 년/NNB
+기획	기획/NNG
+관리	관리/NNG
+실장	실장/NNG
+
+키	키/NNG
+1백	1/SN + 백/NR
+75㎝의	75/SN + ㎝/SW + 의/JKG
+당당한	당당/MAG + 하/XSA + ㄴ/ETM
+체구에	체구/NNG + 에/JKB
+누구에게나	누구/NP + 에게/JKB + 나/JX
+거침없는	거침없/VA + 는/ETM
+성격.	성격/NNG + ./SF
+
+여성으로서는	여성/NNG + 으로서/JKB + 는/JX
+처음	처음/NNG
+집권당	집권당/NNG
+부대변인을	부대변인/NNG + 을/JKO
+지냈다.	지내/VV + 었/EP + 다/EF + ./SF
+
+13대	13/SN + 대/NNB
+총선	총선/NNG
+때	때/NNG
+민정당	민정당/NNP
+지역구	지역구/NNG
+공천을	공천/NNG + 을/JKO
+받았을	받/VV + 았/EP + 을/ETM
+때부터	때/NNG + 부터/JX
+상당한	상당/NNG + 하/XSA + ㄴ/ETM
+'정치감각'을	'/SS + 정치/NNG + 감각/NNG + '/SS + 을/JKO
+보여	보이/VV + 어/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+▴	▴/SW
+전북	전북/NNP
+김제.	김제/NNP + ./SF
+
+47세	47/SN + 세/NNB
+▴	▴/SW
+고려대	고려대/NNP
+교육학과	교육학/NNG + 과/NNG
+졸	졸/NNG
+▴	▴/SW
+민자당	민자당/NNP
+부대변인-민자당	부대변인/NNG + -/SS + 민자당/NNP
+여성정책특위	여성/NNG + 정책/NNG + 특위/NNG
+부위원장	부위원장/NNG
+▴	▴/SW
+한국여성정치문화연구소장	한국여성정치문화연구소장/NNG
+
+지난	지나/VV + ㄴ/ETM
+63년	63/SN + 년/NNB
+부산	부산/NNP
+세관	세관/NNG
+사무관을	사무관/NNG + 을/JKO
+시작으로	시작/NNG + 으로/JKB
+30년	30/SN + 년/NNB
+간	간/NNB
+줄곧	줄곧/MAG
+관세	관세/NNG
+분야에만	분야/NNG + 에/JKB + 만/JX
+몸담아와	몸담/VV + 아/EC + 오/VX + 아/EC
+이론과	이론/NNG + 과/JC
+실무를	실무/NNG + 를/JKO
+겸비했다는	겸비/NNG + 하/XSV + 았/EP + 다는/ETM
+평.	평/NNG + ./SF
+
+조용하고	조용/XR + 하/XSA + 고/EC
+소탈한	소탈/NNG + 하/XSA + ㄴ/ETM
+성격으로	성격/NNG + 으로/JKB
+상하간	상하/NNG + 간/NNB
+대인	대인/NNG
+관계가	관계/NNG + 가/JKS
+부드럽다.	부드럽/VA + 다/EF + ./SF
+
+업무	업무/NNG
+브리핑과	브리핑/NNG + 과/JC
+연설	연설/NNG
+실력도	실력/NNG + 도/JX
+탁월하다는	탁월/XR + 하/XSA + 다는/ETM
+평.	평/NNG + ./SF
+
+부인	부인/NNG
+강경숙씨(46)와	강경숙/NNP + 씨/NNB + (/SS + 46/SN + )/SS + 와/JC
+2남	2/SN + 남/NNG
+▴	▴/SW
+전북	전북/NNP
+고창·55세	고창/NNP + ·/SP + 55/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+▴	▴/SW
+재무부	재무/NNG + 부/NNG
+관세국장-세무대학장	관세국장/NNG + -/SS + 세무/NNG + 대학장/NNG
+▴	▴/SW
+서울세관장-관세청	서울세관장/NNG + -/SS + 관세청/NNG
+차장	차장/NNG
+
+프랑스,	프랑스/NNP + ,/SP
+벨기에,	벨기에/NNP + ,/SP
+제네바	제네바/NNP
+주재	주재/NNG
+상무관을	상무관/NNG + 을/JKO
+역임하는	역임/NNG + 하/XSV + 는/ETM
+등	등/NNB
+주로	주로/MAG
+통상	통상/NNG
+부문에서	부문/NNG + 에서/JKB
+일했다.	일/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+친근감	친근감/NNG
+있는	있/VV + 는/ETM
+외모처럼	외모/NNG + 처럼/JKB
+성격도	성격/NNG + 도/JX
+소탈하고	소탈/NNG + 하/XSA + 고/EC
+활발하며	활발/XR + 하/XSA + 며/EC
+부하	부하/NNG
+직원에게	직원/NNG + 에게/JKB
+과감한	과감/XR + 하/XSA + ㄴ/ETM
+권한을	권한/NNG + 을/JKO
+이양하는	이양/NNG + 하/XSV + 는/ETM
+스타일.	스타일/NNG + ./SF
+
+만능	만능/NNG
+스포츠맨으로	스포츠맨/NNG + 으로/JKB
+스키를	스키/NNG + 를/JKO
+즐긴다.	즐기/VV + ㄴ다/EF + ./SF
+
+▴	▴/SW
+서울·55세	서울/NNP + ·/SP + 55/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+▴	▴/SW
+상공부	상공/NNG + 부/NNG
+공보관-통상진흥국장-전자공업국장-무역조사실장-제	공보관/NNG + -/SS + 통상/NNG + 진흥/NNG + 국장/NNG + -/SS + 전자/NNG + 공업/NNG + 국장/NNG + -/SS + 무역/NNG + 조사/NNG + 실장/NNG + -/SS + 제/XPN
+1차관보	1/SN + 차관보/NNG
+
+미-일-중-러시아	미/NNP + -/SS + 일/NNP + -/SS + 중/NNP + -/SS + 러시아/NNP
+등	등/NNB
+한반도	한반도/NNP
+주변	주변/NNG
+4강과의	4/SN + 강/NNG + 과/JKB + 의/JKG
+'균형외교'와,	'/SS + 균형/NNG + 외교/NNG + '/SS + 와/JC + ,/SP
+외무부의	외무부/NNG + 의/JKG
+자체	자체/NNG
+개혁을	개혁/NNG + 을/JKO
+강조해	강조/NNG + 하/XSV + 아/EC
+온	오/VX + ㄴ/ETM
+직업	직업/NNG
+외교관.	외교관/NNG + ./SF
+
+6공	6/SN + 공/NNG
+때	때/NNG
+제	제/XPN
+2차관보로	2/SN + 차관보/NNG + 로/JKB
+재직하면서	재직/NNG + 하/XSV + 면서/EC
+한-미	한/NNP + -/SS + 미/NNP
+통상	통상/NNG
+마찰을	마찰/NNG + 을/JKO
+소신	소신/NNG
+있게	있/VV + 게/EC
+타결,	타결/NNG + ,/SP
+능력을	능력/NNG + 을/JKO
+인정받았다.	인정받/VV + 았/EP + 다/EF + ./SF
+
+북방	북방/NNG
+외교	외교/NNG
+추진	추진/NNG
+본부장을	본부장/NNG + 을/JKO
+맡은	맡/VV + 은/ETM
+외무부	외무부/NNG
+내	내/NNB
+북방통.	북방통/NNG + ./SF
+
+▴	▴/SW
+충북	충북/NNP
+제천·56세	제천/NNP + ·/SP + 56/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+졸	졸/NNG
+▴	▴/SW
+제	제/XPN
+2차관보	2/SN + 차관보/NNG
+▴	▴/SW
+주말	주말/NNG
+레이시아	레이시아/NNP
+대사	대사/NNG
+
+부하들의	부하/NNG + 들/XSN + 의/JKG
+의견을	의견/NNG + 을/JKO
+존중하는	존중/NNG + 하/XSV + 는/ETM
+민주적-합리적	민주/NNG + 적/XSN + -/SS + 합리/NNG + 적/XSN
+스타일.	스타일/NNG + ./SF
+
+행시	행시/NNG
+6회	6/SN + 회/NNB
+출신으로	출신/NNG + 으로/JKB
+총리실과	총리실/NNG + 과/JC
+대통령	대통령/NNG
+비서실	비서실/NNG
+등에서	등/NNB + 에서/JKB
+근무하다	근무/NNG + 하/XSV + 다/EC
+80년	80/SN + 년/NNB
+문교부	문교부/NNG
+감사관으로	감사관/NNG + 으로/JKB
+교육	교육/NNG
+행정에	행정/NNG + 에/JKB
+입문.	입문/NNG + ./SF
+
+소주를	소주/NNG + 를/JKO
+즐겨	즐기/VV + 어/EC
+마시고	마시/VV + 고/EC
+검소하고	검소/NNG + 하/XSA + 고/EC
+소탈한	소탈/NNG + 하/XSA + ㄴ/ETM
+성격.	성격/NNG + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+고성·50세	고성/NNP + ·/SP + 50/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+▴	▴/SW
+민정당	민정당/NNP
+문교전문위원	문교/NNG + 전문/NNG + 위원/NNG
+▴	▴/SW
+국립중앙도서관장	국립중앙도서관장/NNG
+▴	▴/SW
+문교부	문교부/NNG
+대학정책실장	대학/NNG + 정책실장/NNG
+▴	▴/SW
+교육부	교육부/NNG
+기획관리실장	기획/NNG + 관리/NNG + 실장/NNG
+
+서울대	서울대/NNP
+법학과에	법학/NNG + 과/NNG + 에/JKB
+입학했다가	입학/NNG + 하/XSV + 았/EP + 다가/EC
+적성이	적성/NNG + 이/JKS
+안	안/MAG
+맞아	맞/VV + 아/EC
+학과를	학과/NNG + 를/JKO
+바꿨고,	바꾸/VV + 었/EP + 고/EC + ,/SP
+대학	대학/NNG
+시절	시절/NNG
+신춘	신춘/NNG
+문예	문예/NNG
+소설	소설/NNG
+부문에	부문/NNG + 에/JKB
+당선됐던	당선/NNG + 되/XSV + 었/EP + 던/ETM
+이색	이색/NNG
+경력을	경력/NNG + 을/JKO
+소유.	소유/NNG + ./SF
+
+79년부터	79/SN + 년/NNB + 부터/JX
+국토	국토/NNG
+개발	개발/NNG
+연구원에서	연구원/NNG + 에서/JKB
+줄곧	줄곧/MAG
+도시	도시/NNG
+교통	교통/NNG
+문제를	문제/NNG + 를/JKO
+연구해	연구/NNG + 하/XSV + 아/EC
+왔고	오/VX + 았/EP + 고/EC
+자유	자유/NNG
+분방한	분방/NNG + 하/XSA + ㄴ/ETM
+성격.	성격/NNG + ./SF
+
+▴	▴/SW
+경기	경기/NNP
+용인·48세	용인/NNP + ·/SP + 48/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+건축공학과	건축/NNG + 공학/NNG + 과/NNG
+▴	▴/SW
+미	미/NNP
+노스웨스턴대	노스웨스턴대/NNP
+도시계획학	도시/NNG + 계획학/NNG
+박사	박사/NNG
+▴	▴/SW
+국토개발연구원	국토/NNG + 개발/NNG + 연구원/NNG
+기획조정실장	기획/NNG + 조정/NNG + 실장/NNG
+
+엔지니어	엔지니어/NNG
+출신이면서도	출신/NNG + 이/VCP + 면서/EC + 도/JX
+조직	조직/NNG
+관리	관리/NNG
+능력이	능력/NNG + 이/JKS
+뛰어나다는	뛰어나/VA + 다는/ETM
+평을	평/NNG + 을/JKO
+받는	받/VV + 는/ETM
+정보	정보/NNG
+통신	통신/NNG
+분야	분야/NNG
+전문가.	전문가/NNG + ./SF
+
+84년부터	84/SN + 년/NNB + 부터/JX
+한국	한국/NNP
+전자	전자/NNG
+통신	통신/NNG
+연구소	연구소/NNG
+소장을	소장/NNG + 을/JKO
+맡아	맡/VV + 아/EC
+국산전전자교환기(TDX)	국산전전자교환기/NNG + (/SS + TDX/SL + )/SS
+국산	국산/NNG
+중형	중형/NNG
+컴퓨터	컴퓨터/NNG
+4메가디램	4/SN + 메가디램/NNG
+등	등/NNB
+정보	정보/NNG
+통신	통신/NNG
+기술	기술/NNG
+개발을	개발/NNG + 을/JKO
+주도했다.	주도/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+▴	▴/SW
+서울·57세	서울/NNP + ·/SP + 57/SN + 세/NNB
+▴	▴/SW
+서울고	서울고/NNP
+▴	▴/SW
+MIT대	MIT/SL + 대/NNG
+박사	박사/NNG
+▴	▴/SW
+한국	한국/NNP
+전자	전자/NNG
+통신	통신/NNG
+연구소	연구소/NNG
+소장	소장/NNG
+▴	▴/SW
+한국	한국/NNP
+전산원	전산원/NNG
+원장	원장/NNG
+
+널리	널리/MAG
+알려진	알리/VV + 어/EC + 지/VX + ㄴ/ETM
+김영삼	김영삼/NNP
+대통령의	대통령/NNG + 의/JKG
+핵심	핵심/NNG
+측근.	측근/NNG + ./SF
+
+김덕용	김덕용/NNP
+씨의	씨/NNB + 의/JKG
+후임	후임/NNG
+공보	공보/NNG
+비서로	비서/NNG + 로/JKB
+상도동	상도동/NNP
+진영에	진영/NNG + 에/JKB
+합류,	합류/NNG + ,/SP
+20년	20/SN + 년/NNB
+가까이	가까이/MAG
+한눈	한눈/NNG
+팔지	팔/VV + 지/EC
+않고	않/VX + 고/EC
+헌신해	헌신/NNG + 하/XSV + 아/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+설득력	설득력/NNG
+있는	있/VV + 는/ETM
+논리를	논리/NNG + 를/JKO
+갖추었다는	갖추/VV + 었/EP + 다는/ETM
+평.	평/NNG + ./SF
+
+14대	14/SN + 대/NNB
+대선	대선/NNG
+성명전에서	성명전/NNG + 에서/JKB
+많은	많/VA + 은/ETM
+공을	공/NNG + 을/JKO
+세웠다.	세우/VV + 었/EP + 다/EF + ./SF
+
+▴	▴/SW
+강원	강원/NNP
+삼척·53	삼척/NNP + ·/SP + 53/SN
+▴	▴/SW
+경복고	경복고/NNP
+▴	▴/SW
+고려대	고려대/NNP
+경제학과	경제학/NNG + 과/NNG
+▴	▴/SW
+민자당	민자당/NNP
+서울	서울/NNP
+강서갑지구당	강서갑지구당/NNP
+위원장	위원장/NNG
+▴	▴/SW
+민자당	민자당/NNP
+부대변인	부대변인/NNG
+
+법무관으로	법무관/NNG + 으로/JKB
+해군에	해군/NNG + 에/JKB
+몸담고	몸담/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+지난	지나/VV + ㄴ/ETM
+87년	87/SN + 년/NNB
+대통령	대통령/NNG
+비서실	비서실/NNG
+사정	사정/NNG
+비서관으로	비서관/NNG + 으로/JKB
+관계에	관계/NNG + 에/JKB
+입문했다.	입문/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+매사에	매사/NNG + 에/JKB
+꼼꼼하고	꼼꼼/MAG + 하/XSA + 고/EC
+온화한	온화/XR + 하/XSA + ㄴ/ETM
+성격에	성격/NNG + 에/JKB
+업무	업무/NNG
+스타일도	스타일/NNG + 도/JX
+외유	외유/NNG
+내강형.	내강/NNG + 형/XSN + ./SF
+
+조달청	조달청/NNG
+설립이래	설립/NNG + 이래/NNB
+두	두/MM
+번째로	번/NNB + 째/XSN + 로/JKB
+내부	내부/NNG
+승진하는	승진/NNG + 하/XSV + 는/ETM
+영예를	영예/NNG + 를/JKO
+안았다.	안/VV + 았/EP + 다/EF + ./SF
+
+▴	▴/SW
+서울·51세	서울/NNP + ·/SP + 51/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+▴	▴/SW
+해군	해군/NNG
+본부	본부/NNG
+검찰부장-법무감	검찰/NNG + 부장/NNG + -/SS + 법무감/NNG
+▴	▴/SW
+대통령	대통령/NNG
+사정비서관-민정비서관	사정/NNG + 비서관/NNG + -/SS + 민정/NNG + 비서관/NNG
+▴	▴/SW
+조달청	조달청/NNG
+차장	차장/NNG
+
+경북도청에서	경북도청/NNP + 에서/JKB
+공무원	공무원/NNG
+생활을	생활/NNG + 을/JKO
+시작한	시작/NNG + 하/XSV + ㄴ/ETM
+뒤	뒤/NNG
+줄곧	줄곧/MAG
+지방	지방/NNG
+공무원으로	공무원/NNG + 으로/JKB
+일했으며	일/NNG + 하/XSV + 았/EP + 으며/EC
+내무부	내무부/NNG
+주요	주요/NNG
+요직을	요직/NNG + 을/JKO
+거쳤다.	거치/VV + 었/EP + 다/EF + ./SF
+
+내무부	내무부/NNG
+차관보	차관보/NNG
+때	때/NNG
+지방	지방/NNG
+자치제	자치/NNG + 제/XSN
+실시	실시/NNG
+등	등/NNB
+굵직한	굵직/XR + 하/XSA + ㄴ/ETM
+현안을	현안/NNG + 을/JKO
+성공적으로	성공/NNG + 적/XSN + 으로/JKB
+수행했다는	수행/NNG + 하/XSV + 았/EP + 다는/ETM
+평.	평/NNG + ./SF
+
+대범하고	대범/XR + 하/XSA + 고/EC
+소탈한	소탈/NNG + 하/XSA + ㄴ/ETM
+성격이나	성격/NNG + 이나/JC
+일	일/NNG
+처리에는	처리/NNG + 에/JKB + 는/JX
+엄격.	엄격/XR + ./SF
+
+▴	▴/SW
+대구·59세	대구/NNP + ·/SP + 59/SN + 세/NNB
+▴	▴/SW
+대구	대구/NNP
+대경상학부	대/NNG + 경상/NNG + 학부/NNG
+▴	▴/SW
+마산-춘천시장	마산/NNP + -/SS + 춘천시장/NNG
+▴	▴/SW
+내무부	내무부/NNG
+기획관리실장-차관보	기획/NNG + 관리/NNG + 실장/NNG + -/SS + 차관보/NNG
+▴	▴/SW
+경북도지사	경북도지사/NNP
+
+상공부의	상공/NNG + 부/NNG + 의/JKG
+산업	산업/NNG
+분야에서	분야/NNG + 에서/JKB
+줄곧	줄곧/MAG
+근무했으며	근무/NNG + 하/XSV + 았/EP + 으며/EC
+보고서의	보고서/NNG + 의/JKG
+가위질-풀질까지	가위/NNG + 질/XSN + -/SS + 풀/NNG + 질/XSN + 까지/JX
+직접하는	직접/MAG + 하/VV + 는/ETM
+치밀한	치밀/XR + 하/XSA + ㄴ/ETM
+성격.	성격/NNG + ./SF
+
+부하	부하/NNG
+직원들을	직원/NNG + 들/XSN + 을/JKO
+독려하는	독려/NNG + 하/XSV + 는/ETM
+등	등/NNB
+일	일/NNG
+욕심이	욕심/NNG + 이/JKS
+강하고	강하/VV + 고/EC
+대학	대학/NNG
+시절	시절/NNG
+행정고시에	행정/NNG + 고시/NNG + 에/JKB
+합격해	합격/NNG + 하/XSV + 아/EC
+승진이	승진/NNG + 이/JKS
+빠른	빠르/VA + ㄴ/ETM
+편.	편/NNB + ./SF
+
+▴	▴/SW
+충북괴산·51세	충북/NNP + 괴산/NNP + ·/SP + 51/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+▴	▴/SW
+상공부	상공/NNG + 부/NNG
+산업	산업/NNG
+정책	정책/NNG
+국장	국장/NNG
+▴	▴/SW
+특허청	특허청/NNG
+항고심판소장	항고/NNG + 심판/NNG + 소장/NNG
+▴	▴/SW
+대전	대전/NNP
+엑스포	엑스포/NNG
+조직위	조직위/NNG
+사무	사무/NNG
+차장	차장/NNG
+▴	▴/SW
+상공부	상공/NNG + 부/NNG
+기획관리실장	기획/NNG + 관리/NNG + 실장/NNG
+
+30여년	30/SN + 여/XSN + 년/NNB
+간	간/NNB
+주로	주로/MAG
+철도청에서만	철도청/NNG + 에서/JKB + 만/JX
+근무해	근무/NNG + 하/XSV + 아/EC
+온	오/VX + ㄴ/ETM
+철도청	철도청/NNG
+터줏대감.	터줏대감/NNG + ./SF
+
+예산과	예산/NNG + 과/JC
+재정	재정/NNG
+분야의	분야/NNG + 의/JKG
+전문가로	전문가/NNG + 로/JKB
+철도청의	철도청/NNG + 의/JKG
+기업	기업/NNG
+회계와	회계/NNG + 와/JC
+예산	예산/NNG
+제도	제도/NNG
+기초	기초/NNG
+확립에	확립/NNG + 에/JKB
+기여했다.	기여/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+빠른	빠르/VA + ㄴ/ETM
+두뇌	두뇌/NNG
+회전으로	회전/NNG + 으로/JKB
+업무	업무/NNG
+처리에	처리/NNG + 에/JKB
+빈틈이	빈틈/NNG + 이/JKS
+없다는	없/VA + 다는/ETM
+평.	평/NNG + ./SF
+
+▴	▴/SW
+서울·54세	서울/NNP + ·/SP + 54/SN + 세/NNB
+▴	▴/SW
+연세대	연세대/NNP
+상대	상대/NNG
+졸	졸/NNG
+▴	▴/SW
+순천-대전지방철도청장	순천/NNP + -/SS + 대전/NNP + 지방/NNG + 철도청장/NNG
+▴	▴/SW
+운수국장	운수국장/NNG
+▴	▴/SW
+기획관리관	기획/NNG + 관리관/NNG
+
+'6·3세대'	'/SS + 6/SN + ·/SP + 3/SN + 세대/NNG + '/SS
+핵심	핵심/NNG
+멤버의	멤버/NNG + 의/JKG
+한	한/MM
+명.	명/NNB + ./SF
+
+매사에	매사/NNG + 에/JKB
+신중을	신중/NNG + 을/JKO
+기하는	기하/VV + 는/ETM
+성격이나	성격/NNG + 이/VCP + 나/EC
+한	한/MM
+번	번/NNB
+결심하면	결심/NNG + 하/XSV + 면/EC
+행동에	행동/NNG + 에/JKB
+옮기는	옮기/VV + 는/ETM
+기질.	기질/NNG + ./SF
+
+80년	80/SN + 년/NNB
+서울의	서울/NNP + 의/JKG
+봄	봄/NNG
+때	때/NNG
+김영삼	김영삼/NNP
+대통령과	대통령/NNG + 과/JKB
+인연을	인연/NNG + 을/JKO
+맺어	맺/VV + 어/EC
+대선	대선/NNG
+때	때/NNG
+홍보대책	홍보/NNG + 대책/NNG
+부위원장으로	부위원장/NNG + 으로/JKB
+공헌.	공헌/NNG + ./SF
+
+부인	부인/NNG
+정명옥씨(44)와	정명옥/NNP + 씨/NNB + (/SS + 44/SN + )/SS + 와/JC
+2남.	2/SN + 남/NNG + ./SF
+
+▴	▴/SW
+경북	경북/NNP
+안동	안동/NNP
+50세	50/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+정치학과	정치학/NNG + 과/NNG
+수료	수료/NNG
+▴	▴/SW
+영남일보	영남일보/NNP
+논설	논설/NNG
+위원	위원/NNG
+▴	▴/SW
+통일	통일/NNG
+민주당	민주당/NNP
+당보주간	당보/NNG + 주간/NNG
+▴	▴/SW
+민자당	민자당/NNP
+성동을	성동/NNP + 을/NNG
+위원장	위원장/NNG
+
+온화한	온화/XR + 하/XSA + ㄴ/ETM
+성품이나	성품/NNG + 이나/JC
+업무	업무/NNG
+처리에는	처리/NNG + 에/JKB + 는/JX
+빈틈이	빈틈/NNG + 이/JKS
+없는	없/VA + 는/ETM
+꼼꼼한	꼼꼼/MAG + 하/XSA + ㄴ/ETM
+성격의	성격/NNG + 의/JKG
+전통	전통/NNG
+직업	직업/NNG
+공무원.	공무원/NNG + ./SF
+
+고등	고등/NNG
+고시	고시/NNG
+행정과(13회)	행정과/NNG + (/SS + 13/SN + 회/NNB + )/SS
+출신으로	출신/NNG + 으로/JKB
+정부	정부/NNG
+합동민원실장	합동/NNG + 민원/NNG + 실장/NNG
+등	등/NNB
+총무처	총무처/NNG
+내의	내/NNB + 의/JKG
+주요	주요/NNG
+요직을	요직/NNG + 을/JKO
+두루	두루/MAG
+거쳤다.	거치/VV + 었/EP + 다/EF + ./SF
+
+서울	서울/NNP
+근교로	근교/NNG + 로/JKB
+등산을	등산/NNG + 을/JKO
+가는	가/VV + 는/ETM
+것이	것/NNB + 이/JKS
+취미.	취미/NNG + ./SF
+
+▴	▴/SW
+전남	전남/NNP
+보성출신,	보성/NNP + 출신/NNG + ,/SP
+58세	58/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+▴	▴/SW
+총무처	총무처/NNG
+전자계산소장-총무국장-정부청사	전자/NNG + 계산/NNG + 소장/NNG + -/SS + 총무국장/NNG + -/SS + 정부/NNG + 청사/NNG
+관리	관리/NNG
+소장	소장/NNG
+▴	▴/SW
+소청	소청/NNG
+심사	심사/NNG
+위원장	위원장/NNG
+
+30여년	30/SN + 여/XSN + 년/NNB
+넘게	넘/VV + 게/EC
+감사원에서	감사원/NNG + 에서/JKB
+일한	일/NNG + 하/XSV + ㄴ/ETM
+정통	정통/NNG
+감사인.	감사인/NNG + ./SF
+
+특히	특히/MAG
+회계	회계/NNG
+업무에	업무/NNG + 에/JKB
+이론과	이론/NNG + 과/JC
+실무에	실무/NNG + 에/JKB
+능통하다는	능통/XR + 하/XSA + 다는/ETM
+평.	평/NNG + ./SF
+
+근면한데다	근면/NNG + 하/XSA + ㄴ데다/EC
+소탈한	소탈/NNG + 하/XSA + ㄴ/ETM
+성격으로	성격/NNG + 으로/JKB
+거리감이	거리감/NNG + 이/JKS
+없어	없/VA + 어/EC
+따르는	따르/VV + 는/ETM
+직원이	직원/NNG + 이/JKS
+많다.	많/VA + 다/EF + ./SF
+
+탁구가	탁구/NNG + 가/JKS
+취미로	취미/NNG + 로/JKB
+아마추어	아마추어/NNG
+수준을	수준/NNG + 을/JKO
+넘는다.	넘/VV + 는다/EF + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+울산·58세	울산/NNP + ·/SP + 58/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+졸	졸/NNG
+▴	▴/SW
+감사원	감사원/NNG
+공보관	공보관/NNG
+▴	▴/SW
+감사원	감사원/NNG
+5-4-1국장	5/SN + -/SS + 4/SN + -/SS + 1/SN + 국장/NNG
+▴	▴/SW
+사무차장	사무/NNG + 차장/NNG
+
+63년	63/SN + 년/NNB
+경제기획원	경제/NNG + 기획원/NNG
+통계	통계/NNG
+서기보로	서기보/NNG + 로/JKB
+관직을	관직/NNG + 을/JKO
+시작.	시작/NNG + ./SF
+
+주로	주로/MAG
+경제부서와	경제/NNG + 부서/NNG + 와/JC
+내무	내무/NNG
+부서에	부서/NNG + 에/JKB
+몸담아	몸담/VV + 아/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+대선	대선/NNG
+기간	기간/NNG
+동안	동안/NNG
+민자당	민자당/NNP
+전문	전문/NNG
+위원으로	위원/NNG + 으로/JKB
+지방관계	지방/NNG + 관계/NNG
+공약을	공약/NNG + 을/JKO
+담당했다.	담당/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+부인	부인/NNG
+곽정애씨(45)와	곽정애/NNP + 씨/NNB + (/SS + 45/SN + )/SS + 와/JC
+1남	1/SN + 남/NNG
+1녀.	1/SN + 녀/NNG + ./SF
+
+▴	▴/SW
+대구·53세	대구/NNP + ·/SP + 53/SN + 세/NNB
+▴	▴/SW
+성균관대	성균관대/NNP
+▴	▴/SW
+서울시	서울시/NNP
+총무과장	총무/NNG + 과장/NNG
+▴	▴/SW
+경기도기획관리실장	경기도/NNP + 기획/NNG + 관리/NNG + 실장/NNG
+▴	▴/SW
+대구부시장	대구/NNP + 부시장/NNG
+▴	▴/SW
+경기-경남	경기/NNP + -/SS + 경남/NNP
+부지사	부지사/NNG
+
+공무원	공무원/NNG
+입문	입문/NNG
+32년만에	32/SN + 년/NNB + 만/NNB + 에/JKB
+도백의	도백/NNG + 의/JKG
+꿈을	꿈/NNG + 을/JKO
+이룬	이루/VV + ㄴ/ETM
+내무부의	내무부/NNG + 의/JKG
+'호걸'.	'/SS + 호걸/NNG + '/SS + ./SF
+
+88년	88/SN + 년/NNB
+경기도부지사	경기도/NNP + 부지사/NNG
+시절	시절/NNG
+지사실에	지사실/NNG + 에/JKB
+침입한	침입/NNG + 하/XSV + ㄴ/ETM
+대학생들을	대학/NNG + 생/XSN + 들/XSN + 을/JKO
+육탄으로	육탄/NNG + 으로/JKB
+제지할	제지/NNG + 하/XSV + ㄹ/ETM
+정도로	정도/NNG + 로/JKB
+직선적	직선/NNG + 적/XSN
+행동파.	행동파/NNG + ./SF
+
+유해일	유해일/NNP
+여사(53)와	여사/NNG + (/SS + 53/SN + )/SS + 와/JKB
+5년.	5/SN + 년/NNB + ./SF
+
+▴	▴/SW
+경기	경기/NNP
+양주·57세	양주/NNP + ·/SP + 57/SN + 세/NNB
+▴	▴/SW
+고려대	고려대/NNP
+정외과	정외과/NNG
+▴	▴/SW
+경기부지사	경기/NNP + 부지사/NNG
+▴	▴/SW
+민자당	민자당/NNP
+내무전문위원	내무/NNG + 전문/NNG + 위원/NNG
+▴	▴/SW
+내무부	내무부/NNG
+민방위	민방위/NNG
+본부장	본부장/NNG
+
+책임감과	책임감/NNG + 과/JC
+추진력이	추진력/NNG + 이/JKS
+탁월하면서도	탁월/XR + 하/XSA + 면서/EC + 도/JX
+원칙에	원칙/NNG + 에/JKB
+철저한	철저/NNG + 하/XSA + ㄴ/ETM
+인물.	인물/NNG + ./SF
+
+72년	72/SN + 년/NNB
+행정고시	행정/NNG + 고시/NNG
+출신으로	출신/NNG + 으로/JKB
+줄곧	줄곧/MAG
+수사	수사/NNG
+분야에	분야/NNG + 에/JKB
+몸담아	몸담/VV + 아/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+전북	전북/NNP
+출신이면서도	출신/NNG + 이/VCP + 면서/EC + 도/JX
+경남-부산	경남/NNP + -/SS + 부산/NNP
+경찰	경찰/NNG
+국장을	국장/NNG + 을/JKO
+지내	지내/VV + 어/EC
+김영삼	김영삼/NNP
+대통령과도	대통령/NNG + 과/JKB + 도/JX
+안면이	안면/NNG + 이/JKS
+많다.	많/VA + 다/EF + ./SF
+
+이정희	이정희/NNP
+씨와의	씨/NNB + 와/JKB + 의/JKG
+사이에	사이/NNG + 에/JKB
+1남	1/SN + 남/NNG
+▴	▴/SW
+전북	전북/NNP
+전주·52세	전주/NNP + ·/SP + 52/SN + 세/NNB
+▴	▴/SW
+국민대	국민대/NNP
+법학과	법학/NNG + 과/NNG
+▴	▴/SW
+경남도경국장	경남도경국장/NNG
+▴	▴/SW
+경찰종합학교장	경찰종합학교장/NNG
+▴	▴/SW
+부산	부산/NNP
+시경	시경/NNG
+국장	국장/NNG
+▴	▴/SW
+해양경찰청장	해양경찰청장/NNG
+
+과묵하고	과묵/NNG + 하/XSA + 고/EC
+온화한	온화/XR + 하/XSA + ㄴ/ETM
+성격과	성격/NNG + 과/JC
+합리적인	합리/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+사고	사고/NNG
+방식.	방식/NNG + ./SF
+
+총경진급후	총경/NNG + 진급/NNG + 후/NNG
+아홉번째	아홉/NR + 번/NNB + 째/XSN
+지휘관을	지휘관/NNG + 을/JKO
+맡게	맡/VV + 게/EC
+됐다.	되/VV + 었/EP + 다/EF + ./SF
+
+김효은	김효은/NNP
+신임	신임/NNG
+경찰청장과	경찰청장/NNG + 과/JKB
+쌍벽을	쌍벽/NNG + 을/JKO
+이루는	이루/VV + 는/ETM
+간부후보	간부/NNG + 후보/NNG
+14기의	14/SN + 기/NNG + 의/JKG
+선두	선두/NNG
+주자.	주/VX + 자/EF + ./SF
+
+정세	정세/NNG
+분석과	분석/NNG + 과/JC
+판단이	판단/NNG + 이/JKS
+빨라	빠르/VA + 아/EC
+정보	정보/NNG
+업무에	업무/NNG + 에/JKB
+일가견이	일가견/NNG + 이/JKS
+있다.	있/VV + 다/EF + ./SF
+
+정계희	정계희/NNP
+씨와	씨/NNB + 와/JC
+2남	2/SN + 남/NNG
+1녀.	1/SN + 녀/NNG + ./SF
+
+▴	▴/SW
+충북	충북/NNP
+영동·57세	영동/NNP + ·/SP + 57/SN + 세/NNB
+▴	▴/SW
+경희대	경희대/NNP
+법대	법대/NNG
+▴	▴/SW
+경남-전남	경남/NNP + -/SS + 전남/NNP
+경찰	경찰/NNG
+국장	국장/NNG
+▴	▴/SW
+청와대	청와대/NNP
+치안비서관	치안/NNG + 비서관/NNG
+▴	▴/SW
+경찰청	경찰청/NNG
+차장	차장/NNG
+
+교통부에서	교통부/NNG + 에서/JKB
+잔뼈가	잔뼈/NNG + 가/JKS
+굵은	굵/VA + 은/ETM
+행정고시	행정/NNG + 고시/NNG
+출신.	출신/NNG + ./SF
+
+매사에	매사/NNG + 에/JKB
+합리적.	합리/NNG + 적/XSN + ./SF
+
+소탈하고	소탈/NNG + 하/XSA + 고/EC
+꾸밈없는	꾸밈없/VA + 는/ETM
+성격.	성격/NNG + ./SF
+
+교통부	교통부/NNG
+기획	기획/NNG
+관리	관리/NNG
+실장으로	실장/NNG + 으로/JKB
+재직하던	재직/NNG + 하/XSV + 던/ETM
+작년	작년/NNG
+국정감사때	국정/NNG + 감사/NNG + 때/NNG
+영종도	영종도/NNP
+신공항과	신/XPN + 공항/NNG + 과/JC
+고속	고속/NNG
+전철	전철/NNG
+사업의	사업/NNG + 의/JKG
+타당성을	타당/XR + 성/XSN + 을/JKO
+성공적으로	성공/NNG + 적/XSN + 으로/JKB
+부각시켰다는	부각/NNG + 시키/XSV + 었/EP + 다는/ETM
+평.	평/NNG + ./SF
+
+부인	부인/NNG
+김성은	김성은/NNP
+여사(52)와	여사/NNG + (/SS + 52/SN + )/SS + 와/JC
+2남.	2/SN + 남/NNG + ./SF
+
+▴	▴/SW
+전남	전남/NNP
+나주·55세	나주/NNP + ·/SP + 55/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+사대	사대/NNG
+▴	▴/SW
+교통부	교통부/NNG
+육운국장	육운국장/NNG
+▴	▴/SW
+전문	전문/NNG
+위원	위원/NNG
+▴	▴/SW
+해운	해운/NNG
+항만청	항만청/NNG
+차장	차장/NNG
+
+F4전투기	F/SL + 4/SN + 전투기/NNG
+조종사	조종사/NNG
+출신의	출신/NNG + 의/JKG
+예비역	예비역/NNG
+공군중장.	공군/NNG + 중장/NNG + ./SF
+
+현역	현역/NNG
+복무시	복무/NNG + 시/NNB
+인사	인사/NNG
+기획	기획/NNG
+작전	작전/NNG
+부서를	부서/NNG + 를/JKO
+두루	두루/MAG
+섭렵한	섭렵/NNG + 하/XSV + ㄴ/ETM
+작전통.	작전통/NNG + ./SF
+
+일	일/NNG
+처리가	처리/NNG + 가/JKS
+합리적이며	합리/NNG + 적/XSN + 이/VCP + 며/EC
+추진력도	추진력/NNG + 도/JX
+있다는	있/VV + 다는/ETM
+평을	평/NNG + 을/JKO
+들었다.	듣/VV + 었/EP + 다/EF + ./SF
+
+공군	공군/NNG
+교육	교육/NNG
+사령관으로	사령관/NNG + 으로/JKB
+있으면서	있/VV + 으면서/EC
+공군	공군/NNG
+신병	신병/NNG
+교육	교육/NNG
+훈련	훈련/NNG
+체계를	체계/NNG + 를/JKO
+현대전에	현대전/NNG + 에/JKB
+알맞게	알맞/VA + 게/EC
+개선하는	개선/NNG + 하/XSV + 는/ETM
+데	데/NNB
+주력했다.	주력/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+▴	▴/SW
+충남	충남/NNP
+당진·56세	당진/NNP + ·/SP + 56/SN + 세/NNB
+▴	▴/SW
+공사	공사/NNG
+9기	9/SN + 기/NNG
+▴	▴/SW
+제	제/XPN
+11	11/SN
+전투비행단장	전투/NNG + 비행단장/NNG
+▴	▴/SW
+공군	공군/NNG
+교육사령관	교육/NNG + 사령관/NNG
+
+공채	공채/NNG
+1회(5급)로	1/SN + 회/NNB + (/SS + 5/SN + 급/NNG + )/SS + 로/JKB
+공직	공직/NNG
+생활을	생활/NNG + 을/JKO
+시작,	시작/NNG + ,/SP
+31년	31/SN + 년/NNB
+간	간/NNB
+총무처에만	총무처/NNG + 에/JKB + 만/JX
+몸담아	몸담/VV + 아/EC
+온	오/VX + ㄴ/ETM
+'총무	'/SS + 총무/NNG
+처	처/NNG
+터줏대감'.	터줏대감/NNG + '/SS + ./SF
+
+5공	5/SN + 공/NNG
+시절	시절/NNG
+미얀마	미얀마/NNP
+아웅산	아웅산/NNP
+테러	테러/NNG
+사건이	사건/NNG + 이/JKS
+터진	터지/VV + ㄴ/ETM
+뒤	뒤/NNG
+희생자들의	희생자/NNG + 들/XSN + 의/JKG
+유해를	유해/NNG + 를/JKO
+국내로	국내/NNG + 로/JKB
+옮기는	옮기/VV + 는/ETM
+일을	일/NNG + 을/JKO
+진두지휘했다.	진두지휘/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+총무처	총무처/NNG
+후생	후생/NNG
+국장을	국장/NNG + 을/JKO
+역임.	역임/NNG + ./SF
+
+▴	▴/SW
+충북	충북/NNP
+옥천·58세	옥천/NNP + ·/SP + 58/SN + 세/NNB
+▴	▴/SW
+충남대	충남대/NNP
+문리대	문리대/NNG
+졸	졸/NNG
+▴	▴/SW
+정부종합민원실장	정부/NNG + 종합/NNG + 민원실장/NNG
+▴	▴/SW
+정부	정부/NNG
+청사	청사/NNG
+관리	관리/NNG
+소장	소장/NNG
+▴	▴/SW
+정부	정부/NNG
+청사	청사/NNG
+기획운영실장	기획/NNG + 운영/NNG + 실장/NNG
+
+74년	74/SN + 년/NNB
+부산지법	부산지법/NNP
+진주지원	진주지원/NNP
+판사로	판사/NNG + 로/JKB
+임용된	임용/NNG + 되/XSV + ㄴ/ETM
+후	후/NNG
+20년	20/SN + 년/NNB
+간	간/NNB
+판사로	판사/NNG + 로/JKB
+재직해	재직/NNG + 하/XSV + 아/EC
+온	오/VX + ㄴ/ETM
+법조출신.	법조/NNG + 출신/NNG + ./SF
+
+부장	부장/NNG
+판사	판사/NNG
+8년만에	8/SN + 년/NNB + 만/NNB + 에/JKB
+최연소	최/XPN + 연소/XR
+감사	감사/NNG
+위원이	위원/NNG + 이/JKC
+됐다.	되/VV + 었/EP + 다/EF + ./SF
+
+헌법에	헌법/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+조예가	조예/NNG + 가/JKS
+깊어	깊/VA + 어/EC
+공법	공법/NNG
+학회에서	학회/NNG + 에서/JKB
+인정을	인정/NNG + 을/JKO
+받을	받/VV + 을/ETM
+정도.	정도/NNG + ./SF
+
+▴	▴/SW
+인천·46세	인천/NNP + ·/SP + 46/SN + 세/NNB
+▴	▴/SW
+서울법대-대학원	서울/NNP + 법대/NNG + -/SS + 대학원/NNG
+졸	졸/NNG
+▴	▴/SW
+춘천	춘천/NNP
+제주	제주/NNP
+인천지법	인천지법/NNP
+판사	판사/NNG
+▴	▴/SW
+서울가정법원	서울가정법원/NNP
+부장	부장/NNG
+판사	판사/NNG
+▴	▴/SW
+서울	서울/NNP
+민사	민사/NNG
+지법	지법/NNG
+부장	부장/NNG
+판사	판사/NNG
+
+김영삼	김영삼/NNP
+대통령	대통령/NNG
+비서	비서/NNG
+출신의	출신/NNG + 의/JKG
+YS맨.	YS/SL + 맨/NNG + ./SF
+
+외환	외환/NNG
+은행에	은행/NNG + 에/JKB
+근무하다	근무/NNG + 하/XSV + 다/EC
+79년	79/SN + 년/NNB
+신민당	신민당/NNP
+총재	총재/NNG
+공보	공보/NNG
+비서로	비서/NNG + 로/JKB
+정계에	정계/NNG + 에/JKB
+입문,	입문/NNG + ,/SP
+이후	이후/NNG
+외길을	외길/NNG + 을/JKO
+걸어	걷/VV + 어/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+오랜	오랜/MM
+야당	야당/NNG
+생활에도	생활/NNG + 에/JKB + 도/JX
+불구하고,	불구/XR + 하/XSV + 고/EC + ,/SP
+부드러운	부드럽/VA + ㄴ/ETM
+성품이다.	성품/NNG + 이/VCP + 다/EF + ./SF
+
+신중하며	신중/NNG + 하/XSA + 며/EC
+대인	대인/NNG
+관계도	관계/NNG + 도/JX
+원만하다.	원만/XR + 하/XSA + 다/EF + ./SF
+
+▴	▴/SW
+경기	경기/NNP
+김포·48세	김포/NNP + ·/SP + 48/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+▴	▴/SW
+김영삼	김영삼/NNP
+신민당	신민당/NNP
+총재	총재/NNG
+비서	비서/NNG
+▴	▴/SW
+민주당	민주당/NNP
+총재	총재/NNG
+비서실장	비서실장/NNG
+▴	▴/SW
+13대	13/SN + 대/NNB
+의원(민자)	의원/NNG + (/SS + 민자/NNP + )/SS
+
+12,	12/SN + ,/SP
+13대	13/SN + 대/NNB
+강원도	강원도/NNP
+원주에서	원주/NNP + 에서/JKB
+민정당	민정당/NNP
+후보로	후보/NNG + 로/JKB
+출마,	출마/NNG + ,/SP
+당선된	당선/NNG + 되/XSV + ㄴ/ETM
+재선	재선/NNG
+의원	의원/NNG
+출신.	출신/NNG + ./SF
+
+14대	14/SN + 대/NNB
+때는	때/NNG + 는/JX
+국민당	국민당/NNP
+돌풍에	돌풍/NNG + 에/JKB
+고배를	고배/NNG + 를/JKO
+들었다.	들/VV + 었/EP + 다/EF + ./SF
+
+당내에서는	당내/NNG + 에서/JKB + 는/JX
+김윤환	김윤환/NNP
+의원	의원/NNG
+계보로	계보/NNG + 로/JKB
+일찍부터	일찍/MAG + 부터/JX
+김영삼	김영삼/NNP
+대표	대표/NNG
+대통령	대통령/NNG
+만들기에	만들/VV + 기에/EC
+기여한	기여/NNG + 하/XSV + ㄴ/ETM
+공로를	공로/NNG + 를/JKO
+인정받고	인정받/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+▴	▴/SW
+강원	강원/NNP
+원주·49세	원주/NNP + ·/SP + 49/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+농대	농대/NNG
+▴	▴/SW
+상지대교수	상지대/NNP + 교수/NNG
+▴	▴/SW
+민정당	민정당/NNP
+부총무	부총무/NNG
+▴	▴/SW
+민자당	민자당/NNP
+민원실장	민원실장/NNG
+
+경찰	경찰/NNG
+간부	간부/NNG
+후보생	후보생/NNG
+11기로	11/SN + 기/NNG + 로/JKB
+평소에	평소/NNG + 에/JKB
+책을	책/NNG + 을/JKO
+가까이	가까이/MAG
+하는	하/VV + 는/ETM
+학구파.	학구/NNG + 파/NNG + ./SF
+
+경찰대학장	경찰대학장/NNG
+시절엔	시절/NNG + 에/JKB + ㄴ/JX
+후배가	후배/NNG + 가/JKS
+상급자인	상급자/NNG + 이/VCP + ㄴ/ETM
+치안	치안/NNG
+본부장이	본부장/NNG + 이/JKS
+되자	되/VV + 자/EC
+'바람직한	'/SS + 바람직/XR + 하/XSA + ㄴ/ETM
+인사관행'을	인사/NNG + 관행/NNG + '/SS + 을/JKO
+위해	위하/VV + 아/EC
+자진사퇴하기도	자진/NNG + 사퇴/NNG + 하/XSV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+부인	부인/NNG
+이진숙씨(56)와	이진숙/NNP + 씨/NNB + (/SS + 56/SN + )/SS + 와/JC
+1남	1/SN + 남/NNG
+4녀.	4/SN + 녀/NNG + ./SF
+
+▴	▴/SW
+전남	전남/NNP
+함평·59세	함평/NNP + ·/SP + 59/SN + 세/NNB
+▴	▴/SW
+전남	전남/NNP
+경찰	경찰/NNG
+국장	국장/NNG
+▴	▴/SW
+부산	부산/NNP
+시경	시경/NNG
+국장	국장/NNG
+▴	▴/SW
+경찰대학	경찰대학/NNP
+학장	학장/NNG
+▴	▴/SW
+감사원	감사원/NNG
+감사	감사/NNG
+위원	위원/NNG
+▴	▴/SW
+서울시	서울시/NNP
+시설관리공단	시설/NNG + 관리/NNG + 공단/NNG
+이사장	이사장/NNG
+
+66년	66/SN + 년/NNB
+안기부	안기부/NNG
+공채	공채/NNG
+2기로	2/SN + 기/NNG + 로/JKB
+들어가	들어가/VV + 아/EC
+줄곧	줄곧/MAG
+정보	정보/NNG
+업무에만	업무/NNG + 에/JKB + 만/JX
+종사해	종사/NNG + 하/XSV + 아/EC
+온	오/VX + ㄴ/ETM
+정보	정보/NNG
+전문가.	전문가/NNG + ./SF
+
+안기부	안기부/NNG
+업무에	업무/NNG + 에/JKB
+두루	두루/MAG
+밝고	밝/VA + 고/EC
+상황	상황/NNG
+판단이	판단/NNG + 이/JKS
+빠르다.	빠르/VA + 다/EF + ./SF
+
+과묵하고	과묵/NNG + 하/XSA + 고/EC
+의리를	의리/NNG + 를/JKO
+중시하는	중시/NNG + 하/XSV + 는/ETM
+스타일로	스타일/NNG + 로/JKB
+부하	부하/NNG
+직원들의	직원/NNG + 들/XSN + 의/JKG
+신망을	신망/NNG + 을/JKO
+받는다.	받/VV + 는다/EF + ./SF
+
+김근수	김근수/NNP
+전	전/MM
+의원에	의원/NNG + 에/JKB
+이어	잇/VV + 어/EC
+두	두/MM
+번째로	번/NNB + 째/XSN + 로/JKB
+내부승진….	내부/NNG + 승진/NNG + …/SE + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+마산·53세	마산/NNP + ·/SP + 53/SN + 세/NNB
+▴	▴/SW
+고려대	고려대/NNP
+법학과	법학/NNG + 과/NNG
+졸	졸/NNG
+▴	▴/SW
+안기부	안기부/NNG
+공채	공채/NNG
+2기	2/SN + 기/NNG
+▴	▴/SW
+안기부	안기부/NNG
+1국장	1/SN + 국장/NNG
+1차장보	1/SN + 차장보/NNG
+
+내무부에서	내무부/NNG + 에서/JKB
+잔뼈가	잔뼈/NNG + 가/JKS
+굵은	굵/VA + 은/ETM
+정통	정통/NNG
+내무	내무/NNG
+관료.	관료/NNG + ./SF
+
+부친	부친/NNG
+이복양	이복양/NNP
+씨도	씨/NNB + 도/JX
+전남	전남/NNP
+부지사를	부지사/NNG + 를/JKO
+역임했다.	역임/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+독실한	독실/XR + 하/XSA + ㄴ/ETM
+기독	기독/NNG
+신자로	신자/NNG + 로/JKB
+소망	소망/NNG
+교회의	교회/NNG + 의/JKG
+장로	장로/NNG
+일도	일/NNG + 도/JX
+맡고	맡/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+▴	▴/SW
+전남	전남/NNP
+여수·58세	여수/NNP + ·/SP + 58/SN + 세/NNB
+▴	▴/SW
+숭실대	숭실대/NNP
+법학과	법학/NNG + 과/NNG
+졸	졸/NNG
+▴	▴/SW
+전북도	전북도/NNP
+기획관리실장	기획/NNG + 관리/NNG + 실장/NNG
+▴	▴/SW
+충북	충북/NNP
+부지사	부지사/NNG
+▴	▴/SW
+부산부시장	부산/NNP + 부시장/NNG
+▴	▴/SW
+국무	국무/NNG
+총리	총리/NNG
+행정	행정/NNG
+조정	조정/NNG
+실장	실장/NNG
+제3	제/XPN + 3/SN
+행정	행정/NNG
+조정관	조정관/NNG
+▴	▴/SW
+내무부	내무부/NNG
+기획관리실장	기획/NNG + 관리/NNG + 실장/NNG
+▴	▴/SW
+내무부	내무부/NNG
+차관보	차관보/NNG
+▴	▴/SW
+광주	광주/NNP
+시장	시장/NNG
+
+행시	행시/NNG
+7회로	7/SN + 회/NNB + 로/JKB
+경제기획원	경제/NNG + 기획원/NNG
+사무관으로	사무관/NNG + 으로/JKB
+출발,	출발/NNG + ,/SP
+기획	기획/NNG
+국장에	국장/NNG + 에/JKB
+이르기까지	이르/VV + 기/ETN + 까지/JX
+기획원에서만	기획원/NNG + 에서/JKB + 만/JX
+일해	일/NNG + 하/XSV + 아/EC
+온	오/VX + ㄴ/ETM
+경제통.	경제통/NNG + ./SF
+
+치밀하고	치밀/XR + 하/XSA + 고/EC
+논리적인	논리/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+사고력이	사고력/NNG + 이/JKS
+돋보인다.	돋보이/VV + ㄴ다/EF + ./SF
+
+3당	3/SN + 당/NNG
+합당후	합당/NNG + 후/NNG
+민자당	민자당/NNP
+경제	경제/NNG
+전문	전문/NNG
+위원으로	위원/NNG + 으로/JKB
+들어간	들어가/VV + ㄴ/ETM
+뒤	뒤/NNG
+당시	당시/NNG
+김영삼	김영삼/NNP
+대표의	대표/NNG + 의/JKG
+경제	경제/NNG
+개인	개인/NNG
+교사로	교사/NNG + 로/JKB
+역할을	역할/NNG + 을/JKO
+맡았다.	맡/VV + 았/EP + 다/EF + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+김해·50세	김해/NNP + ·/SP + 50/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+상대	상대/NNG
+▴	▴/SW
+기획원	기획원/NNG
+자금계획과장-기획국장-민자당	자금/NNG + 계획/NNG + 과장/NNG + -/SS + 기획국장/NNG + -/SS + 민자당/NNP
+총재경제보좌역	총재/NNG + 경제/NNG + 보좌/NNG + 역/NNG
+
+79년	79/SN + 년/NNB
+서울시	서울시/NNP
+지하	지하/NNG
+철본부장으로	철/NA + 본부장/NNG + 으로/JKB
+5년	5/SN + 년/NNB
+동안	동안/NNG
+2호선	2/SN + 호/NNB + 선/NNG
+건설을	건설/NNG + 을/JKO
+책임졌고,	책임지/VV + 었/EP + 고/EC + ,/SP
+89년부터	89/SN + 년/NNB + 부터/JX
+현직을	현직/NNG + 을/JKO
+맡아	맡/VV + 아/EC
+4년	4/SN + 년/NNB
+동안	동안/NNG
+재임중인	재임/NNG + 중/NNB + 이/VCP + ㄴ/ETM
+지하철	지하철/NNG
+건설의	건설/NNG + 의/JKG
+베테랑.	베테랑/NNG + ./SF
+
+공학	공학/NNG
+박사로,	박사/NNG + 로/JKB + ,/SP
+현장	현장/NNG
+경험과	경험/NNG + 과/JKB
+함께	함께/MAG
+이론을	이론/NNG + 을/JKO
+겸비했다.	겸비/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+친화력이	친화력/NNG + 이/JKS
+있고	있/VV + 고/EC
+부하들의	부하/NNG + 들/XSN + 의/JKG
+신망이	신망/NNG + 이/JKS
+높다.	높/VA + 다/EF + ./SF
+
+▴	▴/SW
+경북	경북/NNP
+의성	의성/NNP
+57세	57/SN + 세/NNB
+▴	▴/SW
+동아대	동아대/NNP
+공대	공대/NNG
+졸	졸/NNG
+▴	▴/SW
+하수국장	하수국장/NNG
+▴	▴/SW
+건설국장	건설국장/NNG
+▴	▴/SW
+종합	종합/NNG
+건설	건설/NNG
+본부장	본부장/NNG
+▴	▴/SW
+지하철	지하철/NNG
+건설	건설/NNG
+본부장	본부장/NNG
+
+국회	국회/NNG
+사무처	사무처/NNG
+사무관으로	사무관/NNG + 으로/JKB
+공직	공직/NNG
+생활을	생활/NNG + 을/JKO
+시작,	시작/NNG + ,/SP
+69년	69/SN + 년/NNB
+감사원으로	감사원/NNG + 으로/JKB
+옮겨	옮기/VV + 어/EC
+24년	24/SN + 년/NNB
+간	간/NNB
+근무했다.	근무/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+감사	감사/NNG
+부서인	부서/NNG + 이/VCP + ㄴ/ETM
+1-2-3-4국을	1/SN + -/SS + 2/SN + -/SS + 3/SN + -/SS + 4/SN + 국/NNG + 을/JKO
+두루	두루/MAG
+거치며	거치/VV + 며/EC
+감사	감사/NNG
+경험을	경험/NNG + 을/JKO
+쌓았다.	쌓/VV + 았/EP + 다/EF + ./SF
+
+컴퓨터를	컴퓨터/NNG + 를/JKO
+자유	자유/NNG
+자재로	자재/NNG + 로/JKB
+다룰	다루/VV + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+소신	소신/NNG
+있는	있/VV + 는/ETM
+감사인이란	감사인/NNG + 이/VCP + 란/ETM
+평.	평/NNG + ./SF
+
+▴	▴/SW
+경기	경기/NNP
+파주·54세	파주/NNP + ·/SP + 54/SN + 세/NNB
+▴	▴/SW
+서울	서울/NNP
+법대	법대/NNG
+졸	졸/NNG
+▴	▴/SW
+국회	국회/NNG
+사무처	사무처/NNG
+사무관	사무관/NNG
+▴	▴/SW
+감사원	감사원/NNG
+총무과장,	총무/NNG + 과장/NNG + ,/SP
+3국장,	3/SN + 국장/NNG + ,/SP
+2국장,	2/SN + 국장/NNG + ,/SP
+기획관리실장	기획/NNG + 관리/NNG + 실장/NNG
+
+행시	행시/NNG
+8회로	8/SN + 회/NNB + 로/JKB
+군수	군수/NNG
+부지사	부지사/NNG
+등을	등/NNB + 을/JKO
+거친	거치/VV + ㄴ/ETM
+내무	내무/NNG
+관료.	관료/NNG + ./SF
+
+기획	기획/NNG
+능력과	능력/NNG + 과/JC
+추진력이	추진력/NNG + 이/JKS
+돋보이고	돋보이/VV + 고/EC
+기억력이	기억력/NNG + 이/JKS
+뛰어나	뛰어나/VA + 아/EC
+별명이	별명/NNG + 이/JKS
+'백과사전'.	'/SS + 백과사전/NNG + '/SS + ./SF
+
+세세한	세세/XR + 하/XSA + ㄴ/ETM
+사항까지	사항/NNG + 까지/JX
+꼼꼼하게	꼼꼼/MAG + 하/XSA + 게/EC
+챙기는	챙기/VV + 는/ETM
+스타일.	스타일/NNG + ./SF
+
+김선숙씨(51)와	김선숙/NNP + 씨/NNB + (/SS + 51/SN + )/SS + 와/JC
+1남	1/SN + 남/NNG
+4녀.	4/SN + 녀/NNG + ./SF
+
+▴	▴/SW
+전남	전남/NNP
+여수·54세	여수/NNP + ·/SP + 54/SN + 세/NNB
+▴	▴/SW
+성균관대	성균관대/NNP
+법학과	법학/NNG + 과/NNG
+1년	1/SN + 년/NNB
+수료	수료/NNG
+▴	▴/SW
+진도	진도/NNP
+장성군수	장성/NNP + 군수/NNG
+▴	▴/SW
+전남기획관리실장	전남/NNP + 기획/NNG + 관리/NNG + 실장/NNG
+▴	▴/SW
+광주	광주/NNP
+부시장	부시장/NNG
+▴	▴/SW
+내무부	내무부/NNG
+지방세제국장	지방/NNG + 세제/NNG + 국장/NNG
+▴	▴/SW
+전남	전남/NNP
+부지사	부지사/NNG
+
+행시	행시/NNG
+10회로	10/SN + 회/NNB + 로/JKB
+내무부	내무부/NNG
+재정과장,	재정/NNG + 과장/NNG + ,/SP
+국장을	국장/NNG + 을/JKO
+지낸	지내/VV + ㄴ/ETM
+재정통.	재정통/NNG + ./SF
+
+일찌감치	일찌감치/MAG
+도백으로	도백/NNG + 으로/JKB
+꼽혀	꼽히/VV + 어/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+부드러운	부드럽/VA + ㄴ/ETM
+외모에	외모/NNG + 에/JKB
+걸맞게	걸맞/VA + 게/EC
+돌다리도	돌다리/NNG + 도/JX
+두드려	두드리/VV + 어/EC
+보고	보/VX + 고/EC
+건널	건너/VV + ㄹ/ETM
+만큼	만큼/NNB
+매사를	매사/NNG + 를/JKO
+신중하게	신중/NNG + 하/XSA + 게/EC
+처리하는	처리/NNG + 하/XSV + 는/ETM
+것으로	것/NNB + 으로/JKB
+소문나	소문나/VV + 아/EC
+있다.	있/VX + 다/EF + ./SF
+
+부인	부인/NNG
+김희영	김희영/NNP
+여사(51)와	여사/NNG + (/SS + 51/SN + )/SS + 와/JC
+1녀.	1/SN + 녀/NNG + ./SF
+
+▴	▴/SW
+충북	충북/NNP
+중원·51세	중원/NNP + ·/SP + 51/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대▴	법대/NNG + ▴/SW
+청주시장	청주시장/NNG
+▴	▴/SW
+내무부	내무부/NNG
+지방행정연수원장	지방/NNG + 행정/NNG + 연수/NNG + 원장/NNG
+▴	▴/SW
+청와대	청와대/NNP
+행정비서관	행정/NNG + 비서관/NNG
+
+엘리트코스를	엘리트/NNG + 코스/NNG + 를/JKO
+밟아	밟/VV + 아/EC
+온	오/VX + ㄴ/ETM
+정통	정통/NNG
+내무	내무/NNG
+관료.	관료/NNG + ./SF
+
+항상	항상/MAG
+부드러운	부드럽/VA + ㄴ/ETM
+미소를	미소/NNG + 를/JKO
+잃지	잃/VV + 지/EC
+않는	않/VX + 는/ETM
+전형적인	전형/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+'호인'형.	'/SS + 호인/NNG + '/SS + 형/XSN + ./SF
+
+독실한	독실/XR + 하/XSA + ㄴ/ETM
+기독교	기독교/NNG
+신자로	신자/NNG + 로/JKB
+노모에	노모/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+지극한	지극/XR + 하/XSA + ㄴ/ETM
+효성으로	효성/NNG + 으로/JKB
+소문나	소문나/VV + 아/EC
+있다.	있/VX + 다/EF + ./SF
+
+이명숙	이명숙/NNP
+여사(50)와	여사/NNG + (/SS + 50/SN + )/SS + 와/JC
+2남.	2/SN + 남/NNG + ./SF
+
+▴	▴/SW
+경북	경북/NNP
+청도·55세	청도/NNP + ·/SP + 55/SN + 세/NNB
+▴	▴/SW
+영남대	영남대/NNP
+경제학과	경제학/NNG + 과/NNG
+▴	▴/SW
+경기도	경기도/NNP
+부천-안양시장	부천/NNP + -/SS + 안양/NNP + 시장/NNG
+▴	▴/SW
+내무부	내무부/NNG
+지방	지방/NNG
+행정	행정/NNG
+국장,	국장/NNG + ,/SP
+기획	기획/NNG
+관리	관리/NNG
+실장	실장/NNG
+
+온화한	온화/XR + 하/XSA + ㄴ/ETM
+외모에	외모/NNG + 에/JKB
+미	미/NNP
+하버드	하버드/NNP
+대(법학)와	대/NNG + (/SS + 법학/NNG + )/SS + 와/JC
+존스	존스/NNP
+홉킨스	홉킨스/NNP
+대(국제	대/NNG + (/SS + 국제/NNG
+정치학)	정치학/NNG + )/SS
+박사	박사/NNG
+학위를	학위/NNG + 를/JKO
+갖고	갖/VV + 고/EC
+있는	있/VX + 는/ETM
+국제통.	국제통/NNG + ./SF
+
+김영삼	김영삼/NNP
+대통령의	대통령/NNG + 의/JKG
+막내	막내/NNG
+여동생인	여동생/NNG + 이/VCP + ㄴ/ETM
+두악씨의	두악/NNP + 씨/NNB + 의/JKG
+남편	남편/NNG
+김창원	김창원/NNP
+씨의	씨/NNB + 의/JKG
+형이다.	형/NNG + 이/VCP + 다/EF + ./SF
+
+이	이/MM
+인연으로	인연/NNG + 으로/JKB
+87년에	87/SN + 년/NNB + 에/JKB
+귀국,	귀국/NNG + ,/SP
+김	김/NNP
+대통령을	대통령/NNG + 을/JKO
+돕기	돕/VV + 기/ETN
+시작했다.	시작/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+▴	▴/SW
+서울·56세	서울/NNP + ·/SP + 56/SN + 세/NNB
+▴	▴/SW
+컬럼비아대,	컬럼비아대/NNP + ,/SP
+존스	존스/NNP
+홉킨스대	홉킨스대/NNP
+대학원▴	대학원/NNG + ▴/SW
+통일	통일/NNG
+민주당,	민주당/NNP + ,/SP
+민자당	민자당/NNP
+총재	총재/NNG
+외교	외교/NNG
+안보	안보/NNG
+특보	특보/NNG
+
+전형적인	전형/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+외유	외유/NNG
+내강형.	내강/NNG + 형/XSN + ./SF
+
+업무를	업무/NNG + 를/JKO
+꼼꼼히	꼼꼼히/MAG
+챙기면서도	챙기/VV + 면서/EC + 도/JX
+상하	상하/NNG
+인간	인간/NNG
+관계가	관계/NNG + 가/JKS
+좋다는	좋/VA + 다는/ETM
+평.	평/NNG + ./SF
+
+줄곧	줄곧/MAG
+상공부에서	상공/NNG + 부/NNG + 에서/JKB
+근무하다	근무/NNG + 하/XSV + 다/EC
+91년	91/SN + 년/NNB
+1월	1/SN + 월/NNB
+상공부	상공/NNG + 부/NNG
+제	제/XPN
+2차관보를	2/SN + 차관보/NNG + 를/JKO
+끝으로	끝/NNG + 으로/JKB
+동력자원부로	동력/NNG + 자원/NNG + 부/NNG + 로/JKB
+옮겨	옮기/VV + 어/EC
+지난해	지난해/NNG
+전력위기	전력/NNG + 위기/NNG
+극복을	극복/NNG + 을/JKO
+일선에서	일선/NNG + 에서/JKB
+지휘.	지휘/NNG + ./SF
+
+▴	▴/SW
+서울·54세	서울/NNP + ·/SP + 54/SN + 세/NNB
+▴	▴/SW
+서울	서울/NNP
+법대	법대/NNG
+졸	졸/NNG
+▴	▴/SW
+행시	행시/NNG
+1회	1/SN + 회/NNB
+▴	▴/SW
+상공부	상공/NNG + 부/NNG
+사무관	사무관/NNG
+▴	▴/SW
+민정당	민정당/NNP
+상공전문위원	상공/NNG + 전문/NNG + 위원/NNG
+▴	▴/SW
+상공부	상공/NNG + 부/NNG
+제	제/XPN
+2차관보	2/SN + 차관보/NNG
+▴	▴/SW
+동력자원부	동력/NNG + 자원/NNG + 부/NNG
+차관	차관/NNG
+
+국교교사를	국교/NNG + 교사/NNG + 를/JKO
+잠시	잠시/MAG
+하다	하/VV + 다/EC
+72년	72/SN + 년/NNB
+민관식	민관식/NNP
+문교	문교/NNG
+장관	장관/NNG
+비서관으로	비서관/NNG + 으로/JKB
+교육	교육/NNG
+행정에	행정/NNG + 에/JKB
+입문.	입문/NNG + ./SF
+
+특유의	특유/NNG + 의/JKG
+추진력과	추진력/NNG + 과/JC
+아이디어를	아이디어/NNG + 를/JKO
+무기로	무기/NNG + 로/JKB
+고위직까지	고위/NNG + 직/NNG + 까지/JX
+단기	단기/NNG
+돌파형.	돌파/NNG + 형/XSN + ./SF
+
+▴	▴/SW
+충남	충남/NNP
+홍성·54세	홍성/NNP + ·/SP + 54/SN + 세/NNB
+▴	▴/SW
+대전사범학교	대전사범학교/NNP
+▴	▴/SW
+미	미/NNP
+플로리다	플로리다/NNP
+주립대	주립대/NNG
+▴	▴/SW
+미	미/NNP
+조지워싱턴대	조지워싱턴대/NNP
+교육학박사	교육학/NNG + 박사/NNG
+▴	▴/SW
+주미	주미/NNG
+수석교육관	수석/NNG + 교육관/NNG
+▴	▴/SW
+교육부	교육부/NNG
+교직국장	교직/NNG + 국장/NNG
+▴	▴/SW
+대학정책실장	대학/NNG + 정책실장/NNG
+
+지난	지나/VV + ㄴ/ETM
+61년	61/SN + 년/NNB
+감사원	감사원/NNG
+전신인	전신/NNG + 이/VCP + ㄴ/ETM
+심계원에	심계원/NNG + 에/JKB
+들어	들/VV + 어/EC
+와	오/VX + 아/EC
+32년	32/SN + 년/NNB
+간	간/NNB
+근무.	근무/NNG + ./SF
+
+일에	일/NNG + 에/JKB
+있어서는	있/VV + 어서/EC + 는/JX
+철저히	철저히/MAG
+원칙을	원칙/NNG + 을/JKO
+고수해	고수/NNG + 하/XSV + 아/EC
+깐깐하다는	깐깐/XR + 하/XSA + 다는/ETM
+인상을	인상/NNG + 을/JKO
+주지만	주/VV + 지만/EC
+동료와	동료/NNG + 와/JC
+부하	부하/NNG
+직원들에는	직원/NNG + 들/XSN + 에/JKB + 는/JX
+자상한	자상/XR + 하/XSA + ㄴ/ETM
+성격.	성격/NNG + ./SF
+
+감사원	감사원/NNG
+탁구동호회	탁구/NNG + 동호회/NNG
+회장을	회장/NNG + 을/JKO
+맡고	맡/VV + 고/EC
+있으며	있/VX + 으며/EC
+탁구와	탁구/NNG + 와/JC
+볼링이	볼링/NNG + 이/JKS
+취미.	취미/NNG + ./SF
+
+▴	▴/SW
+전북	전북/NNP
+장수·60세	장수/NNP + ·/SP + 60/SN + 세/NNB
+▴	▴/SW
+서울	서울/NNP
+법대	법대/NNG
+졸	졸/NNG
+▴	▴/SW
+감사원	감사원/NNG
+심의실장	심의실장/NNG
+▴	▴/SW
+감사원	감사원/NNG
+4-5-2국장	4/SN + -/SS + 5/SN + -/SS + 2/SN + 국장/NNG
+▴	▴/SW
+홍조근정훈장	홍조/NNG + 근정훈장/NNG
+
+법제처에	법제처/NNG + 에/JKB
+잠시	잠시/MAG
+근무한	근무/NNG + 하/XSV + ㄴ/ETM
+것을	것/NNB + 을/JKO
+제외하곤	제외/NNG + 하/XSV + 곤/EC
+줄곧	줄곧/MAG
+총무처에만	총무처/NNG + 에/JKB + 만/JX
+근무해	근무/NNG + 하/XSV + 아/EC
+온	오/VX + ㄴ/ETM
+정부의	정부/NNG + 의/JKG
+살림꾼.	살림/NNG + 꾼/XSN + ./SF
+
+87년	87/SN + 년/NNB
+민원	민원/NNG
+처리	처리/NNG
+절차	절차/NNG
+간소화를	간소/XR + 화/XSN + 를/JKO
+위한	위하/VV + ㄴ/ETM
+행정절차법	행정/NNG + 절차법/NNG
+제정의	제정/NNG + 의/JKG
+실무	실무/NNG
+책임자를	책임자/NNG + 를/JKO
+맡기도	맡/VV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+부산	부산/NNP
+시장으로	시장/NNG + 으로/JKB
+자리를	자리/NNG + 를/JKO
+옮김으로써	옮기/VV + ㅁ/ETN + 으로써/JKB
+공직생활	공직/NNG + 생활/NNG
+중	중/NNB
+첫	첫/MM
+'외도'를	'/SS + 외도/NNG + '/SS + 를/JKO
+하는	하/VV + 는/ETM
+셈.	셈/NNB + ./SF
+
+▴	▴/SW
+부산·53세	부산/NNP + ·/SP + 53/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+법대	법대/NNG
+졸	졸/NNG
+▴	▴/SW
+총무처	총무처/NNG
+행정관리국장	행정/NNG + 관리/NNG + 국장/NNG
+▴	▴/SW
+소청	소청/NNG
+심사	심사/NNG
+위원장	위원장/NNG
+
+제	제/XPN
+3세계의	3/SN + 세계/NNG + 의/JKG
+종속	종속/NNG
+이론을	이론/NNG + 을/JKO
+국내에	국내/NNG + 에/JKB
+도입한	도입/NNG + 하/XSV + ㄴ/ETM
+정치학	정치학/NNG
+교수	교수/NNG
+출신.	출신/NNG + ./SF
+
+88년	88/SN + 년/NNB
+대통령	대통령/NNG
+정무	정무/NNG
+비서관으로	비서관/NNG + 으로/JKB
+관계에	관계/NNG + 에/JKB
+들어와	들어오/VV + 아/EC
+당-정,	당/NNG + -/SS + 정/NNG + ,/SP
+정국	정국/NNG
+운영,	운영/NNG + ,/SP
+학계와	학/NNG + 계/XSN + 와/JC
+여성,	여성/NNG + ,/SP
+평통분야	평통/NNG + 분야/NNG
+등을	등/NNB + 을/JKO
+두루	두루/MAG
+맡았다.	맡/VV + 았/EP + 다/EF + ./SF
+
+남북	남북/NNP
+고위급	고위급/NNG
+회담	회담/NNG
+예비	예비/NNG
+대표로도	대표/NNG + 로/JKB + 도/JX
+활약.	활약/NNG + ./SF
+
+부인	부인/NNG
+이종숙씨(44)는	이종숙/NNP + 씨/NNB + (/SS + 44/SN + )/SS + 는/JX
+덕성여대	덕성여대/NNP
+교수	교수/NNG
+▴	▴/SW
+충남	충남/NNP
+논산·49세	논산/NNP + ·/SP + 49/SN + 세/NNB
+▴	▴/SW
+경희대	경희대/NNP
+정외과	정외과/NNG
+졸	졸/NNG
+▴	▴/SW
+경남대	경남대/NNP
+극동	극동/NNP
+문제연구소장겸	문제/NNG + 연구소장/NNG + 겸/NNB
+교수	교수/NNG
+
+성격이	성격/NNG + 이/JKS
+모나지	모나/VA + 지/EC
+않은	않/VX + 은/ETM
+정통	정통/NNG
+농정관료.86년	농정/NNG + 관료/NNG + ./SF + 86/SN + 년/NNB
+
+농림수산부	농림수산부/NNG
+1차관보시절	1/SN + 차관보/NNG + 시절/NNG
+9년	9/SN + 년/NNB
+연속	연속/NNG
+풍년	풍년/NNG
+달성의	달성/NNG + 의/JKG
+주역으로	주역/NNG + 으로/JKB
+성가를	성가/NNG + 를/JKO
+높이기도	높이/VV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+등산으로	등산/NNG + 으로/JKB
+다진	다지/VV + ㄴ/ETM
+왕성한	왕성/NNG + 하/XSA + ㄴ/ETM
+체력이	체력/NNG + 이/JKS
+자랑.	자랑/NNG + ./SF
+
+부인	부인/NNG
+홍선자씨(51)와	홍선자/NNP + 씨/NNB + (/SS + 51/SN + )/SS + 와/JC
+2남	2/SN + 남/NNG
+1녀.	1/SN + 녀/NNG + ./SF
+
+▴	▴/SW
+충남	충남/NNP
+부여·58세	부여/NNP + ·/SP + 58/SN + 세/NNB
+▴	▴/SW
+홍익대	홍익대/NNP
+법정	법정/NNG
+학부	학부/NNG
+▴	▴/SW
+농수산부	농수산부/NNG
+농업개발국장	농업/NNG + 개발국장/NNG
+▴	▴/SW
+청와대	청와대/NNP
+정무	정무/NNG
+비서관	비서관/NNG
+▴	▴/SW
+농촌	농촌/NNG
+진흥청장	진흥청장/NNG
+
+경남도청	경남도청/NNP
+주사로	주사/NNG + 로/JKB
+출발,	출발/NNG + ,/SP
+승진을	승진/NNG + 을/JKO
+거듭해	거듭/MAG + 하/XSV + 아/EC
+33년만에	33/SN + 년/NNB + 만/JX + 에/JKB
+도백이	도백/NNG + 이/JKC
+됐다.	되/VV + 었/EP + 다/EF + ./SF
+
+지난	지나/VV + ㄴ/ETM
+85년부터	85/SN + 년/NNB + 부터/JX
+3년	3/SN + 년/NNB
+간	간/NNB
+민정당	민정당/NNP
+경남도지부	경남도/NNP + 지부/NNG
+사무국장으로	사무국장/NNG + 으로/JKB
+'외도'한	'/SS + 외도/NNG + '/SS + 하/XSV + ㄴ/ETM
+것을	것/NNB + 을/JKO
+빼곤	빼/VV + 곤/EC
+줄곧	줄곧/MAG
+재정	재정/NNG
+분야에서	분야/NNG + 에서/JKB
+일했다.	일/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+조용조용한	조용조용/MAG + 하/XSV + ㄴ/ETM
+말투에	말투/NNG + 에/JKB
+소탈한	소탈/NNG + 하/XSA + ㄴ/ETM
+성품.	성품/NNG + ./SF
+
+부인	부인/NNG
+강수미	강수미/NNP
+여사(51)와	여사/NNG + (/SS + 51/SN + )/SS + 와/JC
+1남	1/SN + 남/NNG
+3녀	3/SN + 녀/NNG
+▴	▴/SW
+경남	경남/NNP
+함안·56세	함안/NNP + ·/SP + 56/SN + 세/NNB
+▴	▴/SW
+부산대	부산대/NNP
+상대	상대/NNG
+▴	▴/SW
+경남	경남/NNP
+부지사	부지사/NNG
+▴	▴/SW
+내무부	내무부/NNG
+기획관리실장	기획/NNG + 관리/NNG + 실장/NNG
+▴	▴/SW
+내무부	내무부/NNG
+차관보	차관보/NNG
+
+샐러리맨	샐러리맨/NNG
+출신의	출신/NNG + 의/JKG
+특이한	특이/NNG + 하/XSA + ㄴ/ETM
+경력	경력/NNG
+소유자.	소유자/NNG + ./SF
+
+전력투구식	전력투구/NNG + 식/NNB
+근무	근무/NNG
+태도로	태도/NNG + 로/JKB
+아남	아남/NNP
+산업과	산업/NNG + 과/JC
+삼성에서	삼성/NNP + 에서/JKB
+빠른	빠르/VA + ㄴ/ETM
+승진을	승진/NNG + 을/JKO
+했다.	하/VV + 았/EP + 다/EF + ./SF
+
+김영삼	김영삼/NNP
+대통령의	대통령/NNG + 의/JKG
+야당총재시절	야당/NNG + 총재/NNG + 시절/NNG
+'YS인맥'이라는	'/SS + YS/SL + 인맥/NNG + '/SS + 이/VCP + 라는/ETM
+이유로	이유/NNG + 로/JKB
+불이익을	불/XPN + 이익/NNG + 을/JKO
+당하자	당하/VV + 자/EC
+사직하고	사직/NNG + 하/XSV + 고/EC
+김	김/NNP
+대통령	대통령/NNG
+비서실에	비서실/NNG + 에/JKB
+합류.	합류/NNG + ./SF
+
+▴	▴/SW
+대구·54세	대구/NNP + ·/SP + 54/SN + 세/NNB
+▴	▴/SW
+서울대	서울대/NNP
+정치학과	정치학/NNG + 과/NNG
+졸	졸/NNG
+▴	▴/SW
+아남	아남/NNP
+산업	산업/NNG
+공장장	공장장/NNG
+▴	▴/SW
+삼성	삼성/NNP
+전관	전관/NNG
+전무	전무/NNG
+▴	▴/SW
+민자당	민자당/NNP
+총재	총재/NNG
+의전-민청	의전/NNG + -/SS + 민청/NNG
+특별	특별/NNG
+보좌역	보좌/NNG + 역/NNG
+
+조용하고	조용/XR + 하/XSA + 고/EC
+대인	대인/NNG
+관계가	관계/NNG + 가/JKS
+원만한	원만/XR + 하/XSA + ㄴ/ETM
+선비형.	선비/NNG + 형/XSN + ./SF
+
+3천	3/SN + 천/NR
+7백여시간의	7/SN + 백/NR + 여/XSN + 시간/NNG + 의/JKG
+비행	비행/NNG
+기록을	기록/NNG + 을/JKO
+보유하고	보유/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+대북	대북/NNG
+정세에	정세/NNG + 에/JKB
+밝은	밝/VA + 은/ETM
+작전정보통.	작전/NNG + 정보통/NNG + ./SF
+
+지나치게	지나치/VA + 게/EC
+신중하다는	신중/NNG + 하/XSA + 다는/ETM
+지적도	지적/NNG + 도/JX
+있다.	있/VV + 다/EF + ./SF
+
+충북	충북/NNP
+청주고	청주고/NNP
+졸업	졸업/NNG
+후	후/NNG
+공사	공사/NNG
+8기로	8/SN + 기/NNG + 로/JKB
+60년	60/SN + 년/NNB
+임관.	임관/NNG + ./SF
+
+최근	최근/NNG
+차세대전투기사업(KFP)	차세대/NNG + 전투기/NNG + 사업/NNG + (/SS + KFP/SL + )/SS
+기종변경	기종/NNG + 변경/NNG
+의혹과	의혹/NNG + 과/JKB
+관련,	관련/NNG + ,/SP
+곤욕을	곤욕/NNG + 을/JKO
+치렀다.	치르/VV + 었/EP + 다/EF + ./SF
+
+군개혁을	군/NNG + 개혁/NNG + 을/JKO
+돌풍에	돌풍/NNG + 에/JKB
+공군	공군/NNG
+총장이	총장/NNG + 이/JKC
+된	되/VV + ㄴ/ETM
+지	지/NNB
+7개월여만에	7/SN + 개월/NNB + 여/XSN + 만/JX + 에/JKB
+공군	공군/NNG
+출신	출신/NNG
+최초의	최초/NNG + 의/JKG
+합참	합참/NNG
+의장이	의장/NNG + 이/JKS
+됐다.	되/VV + 었/EP + 다/EF + ./SF
+
+부인	부인/NNG
+김혜숙씨(55)와	김혜숙/NNP + 씨/NNB + (/SS + 55/SN + )/SS + 와/JC
+2녀.	2/SN + 녀/NNG + ./SF
+
+겉으로	겉/NNG + 으로/JKB
+보기엔	보/VV + 기에/EC + ㄴ/JX
+대범하고	대범/XR + 하/XSA + 고/EC
+후덕한	후덕/NNG + 하/XSA + ㄴ/ETM
+인상을	인상/NNG + 을/JKO
+주지만	주/VV + 지만/EC
+업무는	업무/NNG + 는/JX
+치밀하게	치밀/XR + 하/XSA + 게/EC
+챙기는	챙기/VV + 는/ETM
+편.	편/NNB + ./SF
+
+작전	작전/NNG
+분야를	분야/NNG + 를/JKO
+두루	두루/MAG
+거친	거치/VV + ㄴ/ETM
+공군	공군/NNG
+제일의	제일/NNG + 의/JKG
+작전통.	작전통/NNG + ./SF
+
+지난해	지난해/NNG
+공군작전사령관에서	공군/NNG + 작전/NNG + 사령관/NNG + 에서/JKB
+합참	합참/NNG
+정보	정보/NNG
+본부장을	본부장/NNG + 을/JKO
+거쳐	거치/VV + 어/EC
+이번에	이번/NNG + 에/JKB
+총장에	총장/NNG + 에/JKB
+임명돼	임명/NNG + 되/XSV + 어/EC
+이양호	이양호/NNP
+합참의장(전	합참/NNG + 의장/NNG + (/SS + 전/NNG
+공군총장)을	공군/NNG + 총장/NNG + )/SS + 을/JKO
+이어	잇/VV + 어/EC
+정통	정통/NNG
+코스를	코스/NNG + 를/JKO
+밟았다.	밟/VV + 았/EP + 다/EF + ./SF
+
+경북	경북/NNP
+양양	양양/NNP
+출신으로	출신/NNG + 으로/JKB
+경북고를	경북고/NNP + 를/JKO
+나온	나오/VV + ㄴ/ETM
+TK.	TK/SL + ./SF
+
+공사	공사/NNG
+9기	9/SN + 기/NNG
+선두	선두/NNG
+주자로	주자/NNG + 로/JKB
+전투비행단장-작전참모부장-교육사령관	전투/NNG + 비행단장/NNG + -/SS + 작전/NNG + 참모부장/NNG + -/SS + 교육/NNG + 사령관/NNG
+등을	등/NNB + 을/JKO
+지냈다.	지내/VV + 었/EP + 다/EF + ./SF
+
+조인화씨(47)와	조인화/NNP + 씨/NNB + (/SS + 47/SN + )/SS + 와/JC
+1녀.	1/SN + 녀/NNG + ./SF
+
+소장에서	소장/NNG + 에서/JKB
+중장으로	중장/NNG + 으로/JKB
+파격적으로	파격/NNG + 적/XSN + 으로/JKB
+해군	해군/NNG
+참모	참모/NNG
+총장에	총장/NNG + 에/JKB
+발탁되는	발탁/NNG + 되/XSV + 는/ETM
+행운을	행운/NNG + 을/JKO
+얻었다.	얻/VV + 었/EP + 다/EF + ./SF
+
+기수가	기수/NNG + 가/JKS
+하나	하나/NR
+위인	위/NNG + 이/VCP + ㄴ/ETM
+간용태	간용태/NNP
+해군사관학교장(15기)을	해군사관학교장/NNG + (/SS + 15/SN + 기/NNG + )/SS + 을/JKO
+비롯,	비롯/XR + ,/SP
+동기생인	동기/NNG + 생/XSN + 이/VCP + ㄴ/ETM
+김성득	김성득/NNP
+합참	합참/NNG
+제	제/XPN
+2차장,	2/SN + 차장/NNG + ,/SP
+김만청	김만청/NNP
+참모	참모/NNG
+차장	차장/NNG
+등	등/NNB
+그동안	그동안/NNG
+거론돼	거론/NNG + 되/XSV + 어/EC
+왔던	오/VX + 았/EP + 던/ETM
+총장	총장/NNG
+후보들을	후보/NNG + 들/XSN + 을/JKO
+제친	제치/VV + ㄴ/ETM
+의외의	의외/NNG + 의/JKG
+인물.	인물/NNG + ./SF
+
+일밖에	일/NNG + 밖에/JX
+모른다는	모르/VV + ㄴ다는/ETM
+평.	평/NNG + ./SF
+
+해사	해사/NNP
+16기를	16/SN + 기/NNG + 를/JKO
+수석졸업,	수석/NNG + 졸업/NNG + ,/SP
+참모	참모/NNG
+총장	총장/NNG
+수석부관-함대사령관-작전참모부장	수석/NNG + 부관/NNG + -/SS + 함대/NNG + 사령관/NNG + -/SS + 작전/NNG + 참모/NNG + 부장/NNG
+등을	등/NNB + 을/JKO
+거쳤다.	거치/VV + 었/EP + 다/EF + ./SF
+
+충남	충남/NNP
+서천	서천/NNP
+출신으로	출신/NNG + 으로/JKB
+부인	부인/NNG
+박정애씨(54)와	박정애/NNP + 씨/NNB + (/SS + 54/SN + )/SS + 와/JC
+1남	1/SN + 남/NNG
+1녀.	1/SN + 녀/NNG + ./SF
+
+13일	13/SN + 일/NNB
+회교국	회교국/NNG
+터키	터키/NNP
+사상	사상/NNG
+최초의	최초/NNG + 의/JKG
+여성	여성/NNG
+총리가	총리/NNG + 가/JKC
+된	되/VV + ㄴ/ETM
+터키	터키/NNP
+제	제/XPN
+1당	1/SN + 당/NNG
+정도당(TPP)	정도당/NNP + (/SS + TPP/SL + )/SS
+당수	당수/NNG
+탄수	탄수/NNP
+실레르	실레르/NNP
+전국무장관(47)은	전/MM + 국무/NNG + 장관/NNG + (/SS + 47/SN + )/SS + 은/JX
+"터키	"/SS + 터키/NNP
+국민은	국민/NNG + 은/JX
+변화를	변화/NNG + 를/JKO
+원하고	원하/VV + 고/EC
+있다"고	있/VX + 다/EC + "/SS + 고/JKQ
+지적하고	지적/NNG + 하/XSV + 고/EC
+"당	"/SS + 당/NNG
+지도자들과	지도자/NNG + 들/XSN + 과/JKB
+함께	함께/MAG
+21세기	21/SN + 세기/NNG
+터키를	터키/NNP + 를/JKO
+이끌어	이끌/VV + 어/EC
+나가겠다"고	나가/VX + 겠/EP + 다/EC + "/SS + 고/JKQ
+강조했다.	강조/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+미국에서	미국/NNP + 에서/JKB
+경제학을	경제학/NNG + 을/JKO
+공부한	공부/NNG + 하/XSV + ㄴ/ETM
+그녀는	그녀/NP + 는/JX
+귀국	귀국/NNG
+후	후/NNG
+명문	명문/NNG
+보스포러스	보스포러스/NNP
+대학에서	대학/NNG + 에서/JKB
+경제학	경제학/NNG
+교수로	교수/NNG + 로/JKB
+일하다	일/NNG + 하/XSV + 다/EC
+지난	지나/VV + ㄴ/ETM
+80년	80/SN + 년/NNB
+대말	대/NNB + 말/NNB
+데미렐	데미렐/NNP
+현	현/MM
+대통령의	대통령/NNG + 의/JKG
+경제	경제/NNG
+담당	담당/NNG
+보좌관을	보좌관/NNG + 을/JKO
+시작으로	시작/NNG + 으로/JKB
+정계에	정계/NNG + 에/JKB
+입문했다.	입문/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+그녀는	그녀/NP + 는/JX
+한때	한때/NNG
+데미렐의	데미렐/NNP + 의/JKG
+'왕비'	'/SS + 왕비/NNG + '/SS
+또는	또는/MAG
+'딸'이라는	'/SS + 딸/NNG + '/SS + 이/VCP + 라는/ETM
+별명을	별명/NNG + 을/JKO
+가졌으나	가지/VV + 었/EP + 으나/EC
+이후	이후/NNG
+국영	국영/NNG
+기업의	기업/NNG + 의/JKG
+신속한	신속/NNG + 하/XSA + ㄴ/ETM
+민영화를	민영/NNG + 화/XSN + 를/JKO
+주장하고	주장/NNG + 하/XSV + 고/EC
+최근에는	최근/NNG + 에/JKB + 는/JX
+중앙	중앙/NNG
+은행	은행/NNG
+및	및/MAG
+재무부에	재무/NNG + 부/NNG + 에/JKB
+금리	금리/NNG
+인하를	인하/NNG + 를/JKO
+요구하는	요구/NNG + 하/XSV + 는/ETM
+등	등/NNB
+독자적인	독자/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+목소리를	목소리/NNG + 를/JKO
+높이기	높이/VV + 기/ETN
+시작해	시작/NNG + 하/XSV + 아/EC
+'강철	'/SS + 강철/NNG
+미소를	미소/NNG + 를/JKO
+지닌	지니/VV + ㄴ/ETM
+여성'이라는	여성/NNG + '/SS + 이/VCP + 라는/ETM
+새로운	새롭/VA + ㄴ/ETM
+별명이	별명/NNG + 이/JKS
+붙었다.	붙/VV + 었/EP + 다/EF + ./SF
+
+결혼	결혼/NNG
+후	후/NNG
+남편에게	남편/NNG + 에게/JKB
+자신의	자신/NNG + 의/JKG
+성을	성/NNG + 을/JKO
+사용토록	사용/NNG + 하/XSV + 도록/EC
+하는	하/VX + 는/ETM
+등	등/NNB
+회교	회교/NNG
+국가에서는	국가/NNG + 에서/JKB + 는/JX
+극히	극히/MAG
+드문	드물/VA + ㄴ/ETM
+여권	여권/NNG
+신장	신장/NNG
+관련	관련/NNG
+일화를	일화/NNG + 를/JKO
+갖고	갖/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+13일	13/SN + 일/NNB
+보수당	보수당/NNP
+당수	당수/NNG
+선거에서	선거/NNG + 에서/JKB
+승리,	승리/NNG + ,/SP
+캐나다	캐나다/NNP
+최초의	최초/NNG + 의/JKG
+여성	여성/NNG
+총리가	총리/NNG + 가/JKC
+된	되/VV + ㄴ/ETM
+킴	킴/NNP
+캠블은	캠블/NNP + 은/JX
+86년	86/SN + 년/NNB
+브리티시	브리티시/NNP
+컬럼비아	컬럼비아/NNP
+주의원으로	주/NNG + 의원/NNG + 으로/JKB
+정계	정계/NNG
+입문,	입문/NNG + ,/SP
+88년	88/SN + 년/NNB
+밴쿠버에서	밴쿠버/NNP + 에서/JKB
+집권	집권/NNG
+진보	진보/NNG
+보수당	보수당/NNP
+소속으로	소속/NNG + 으로/JKB
+의원	의원/NNG
+당선,	당선/NNG + ,/SP
+인디언	인디언/NNG
+문제	문제/NNG
+담당	담당/NNG
+장관과	장관/NNG + 과/JC
+법무장관	법무/NNG + 장관/NNG
+역임	역임/NNG
+등	등/NNB
+출세	출세/NNG
+가도를	가도/NNG + 를/JKO
+달려	달리/VV + 어/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+그녀의	그녀/NP + 의/JKG
+독설은	독설/NNG + 은/JX
+유명해	유명/NNG + 하/XSA + 아/EC
+언론에서는	언론/NNG + 에서/JKB + 는/JX
+'독설적인	'/SS + 독설/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+작은	작/VA + 은/ETM
+대처'라고	대처/NNG + '/SS + 라고/JKQ
+부르기도	부르/VV + 기/ETN + 도/JX
+한다.	하/VX + ㄴ다/EF + ./SF
+
+실제	실제/MAG
+이번	이번/NNG
+선거	선거/NNG
+기간	기간/NNG
+동안	동안/NNG
+상대편을	상대편/NNG + 을/JKO
+'캐나다의	'/SS + 캐나다/NNP + 의/JKG
+적들'이라고	적/NNG + 들/XSN + '/SS + 이라고/JKQ
+험담을	험담/NNG + 을/JKO
+퍼부어	퍼붓/VV + 어/EC
+지난	지나/VV + ㄴ/ETM
+달	달/NNG
+이를	이/NP + 를/JKO
+공개	공개/NNG
+사과한	사과/NNG + 하/XSV + ㄴ/ETM
+바	바/NNB
+있고,	있/VV + 고/EC + ,/SP
+한	한/MM
+인터뷰에서는	인터뷰/NNG + 에서/JKB + 는/JX
+선거에	선거/NNG + 에/JKB
+냉담한	냉담/NNG + 하/XSA + ㄴ/ETM
+유권자들을	유권자/NNG + 들/XSN + 을/JKO
+"잘난	"/SS + 잘나/VA + ㄴ/ETM
+체하는	체/NNB + 하/XSV + 는/ETM
+개××들"이라고	개/NNG + ×/SO + ×/SO + 들/XSN + "/SS + 이라고/JKQ
+표현,	표현/NNG + ,/SP
+심한	심하/VA + ㄴ/ETM
+비난을	비난/NNG + 을/JKO
+받기도	받/VV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+그녀의	그녀/NP + 의/JKG
+이	이/MM
+같은	같/VA + 은/ETM
+성격은	성격/NNG + 은/JX
+정책에서도	정책/NNG + 에서/JKB + 도/JX
+그대로	그대로/MAG
+나타내	나타내/VV + 어/EC
+낙태	낙태/NNG
+권리와	권리/NNG + 와/JC
+총포	총포/NNG
+단속을	단속/NNG + 을/JKO
+적극	적극/NNG
+지지해	지지/NNG + 하/XSV + 아/EC
+당	당/NNG
+지도부와	지도부/NNG + 와/JKB
+많은	많/VA + 은/ETM
+마찰을	마찰/NNG + 을/JKO
+일으키곤	일으키/VV + 곤/EC
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+밴쿠버	밴쿠버/NNP
+태생인	태생/NNG + 이/VCP + ㄴ/ETM
+캠블은	캠블/NNP + 은/JX
+대학에서	대학/NNG + 에서/JKB
+정치학을	정치학/NNG + 을/JKO
+전공한	전공/NNG + 하/XSV + ㄴ/ETM
+뒤	뒤/NNG
+런던	런던/NNP
+경제	경제/NNG
+학교에서	학교/NNG + 에서/JKB
+러시아학을	러시아학/NNG + 을/JKO
+공부해	공부/NNG + 하/XSV + 아/EC
+러시아	러시아/NNP
+전문가로	전문가/NNG + 로/JKB
+통하기도	통하/VV + 기/ETN + 도/JX
+한다.	하/VX + ㄴ다/EF + ./SF
+
+그녀는	그녀/NP + 는/JX
+법무장관	법무/NNG + 장관/NNG
+취임	취임/NNG
+직후	직후/NNG
+어깨를	어깨/NNG + 를/JKO
+드러낸	드러내/VV + ㄴ/ETM
+모습으로	모습/NNG + 으로/JKB
+사진	사진/NNG
+취재에	취재/NNG + 에/JKB
+응해	응하/VV + 아/EC
+언론들로부터	언론/NNG + 들/XSN + 로부터/JKB
+'캐나다	'/SS + 캐나다/NNP
+정계의	정계/NNG + 의/JKG
+마돈나'라는	마돈나/NNP + '/SS + 이/VCP + 라는/ETM
+별명을	별명/NNG + 을/JKO
+얻기도	얻/VV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+훤칠한	훤칠/XR + 하/XSA + ㄴ/ETM
+키에	키/NNG + 에/JKB
+성격도	성격/NNG + 도/JX
+원만해	원만/XR + 하/XSA + 아/EC
+'영국	'/SS + 영국/NNP
+신사'로	신사/NNG + '/SS + 로/JKB
+불린다.	불리/VV + ㄴ다/EF + ./SF
+
+법원내	법원/NNG + 내/NNB
+'소수파'인	'/SS + 소수파/NNG + '/SS + 이/VCP + ㄴ/ETM
+연세대	연세대/NNP
+출신의	출신/NNG + 의/JKG
+맏형.	맏햄/NNG + ./SF
+
+윤관	윤관/NNP
+대법원장의	대법원장/NNG + 의/JKG
+대학	대학/NNG
+2년	2/SN + 년/NNB
+선배이지만	선배/NNG + 이/VCP + 지만/EC
+시험은	시험/NNG + 은/JX
+동기로	동기/NNG + 로/JKB
+대법관	대/XPN + 법관/NNG
+중	중/NNB
+최고령이다.	최/XPN + 고령/NNG + 이/VCP + 다/EF + ./SF
+
+매사에	매사/NNG + 에/JKB
+신중하고	신중/NNG + 하/XSA + 고/EC
+합리적이어서	합리/NNG + 적/XSN + 이/VCP + 어서/EC
+후배	후배/NNG
+법관들로부터	법관/NNG + 들/XSN + 로부터/JKB
+신망이	신망/NNG + 이/JKS
+높다.	높/VA + 다/EF + ./SF
+
+재판은	재판/NNG + 은/JX
+물론	물론/MAG
+사법	사법/NNG
+행정에도	행정/NNG + 에/JKB + 도/JX
+능력을	능력/NNG + 을/JKO
+보였다.	보이/VV + 었/EP + 다/EF + ./SF
+
+▴	▴/SW
+경남	경남/NNP
+하동출신·60세▴	하동/NNP + 출신/NNG + ·/SP + 60/SN + 세/NNB + ▴/SW
+연세대	연세대/NNP
+정법대졸▴	정법대/NNG + 졸/NNG + ▴/SW
+고시	고시/NNG
+10회▴	10/SN + 회/NNB + ▴/SW
+인천지원장▴	인천지원장/NNG + ▴/SW
+서울남부지원장▴	서울/NNP + 남부/NNG + 지원장/NNG + ▴/SW
+부산지법원장▴	부산지법/NNP + 원장/NNG + ▴/SW
+법원행정처차장▴	법원/NNG + 행정처/NNG + 차장/NNG + ▴/SW
+대법관	대/XPN + 법관/NNG
+
+서울	서울/NNP
+민사지법원장	민사/NNG + 지법/NNG + 원장/NNG
+때	때/NNG
+사건적체	사건/NNG + 적체/NNG
+해소와	해소/NNG + 와/JC
+소송	소송/NNG
+업무의	업무/NNG + 의/JKG
+신속	신속/XR
+처리를	처리/NNG + 를/JKO
+위해	위하/VV + 아/EC
+집중	집중/NNG
+심리제를	심리/NNG + 제/XSN + 를/JKO
+도입한	도입/NNG + 하/XSV + ㄴ/ETM
+민사통.	민사통/NNG + ./SF
+
+조용하면서도	조용/XR + 하/XSA + 면서/EC + 도/JX
+결단력	결단력/NNG
+있고	있/VV + 고/EC
+자기	자기/NP
+관리에	관리/NNG + 에/JKB
+엄격한	엄격/XR + 하/XSA + ㄴ/ETM
+소신파.	소신/NNG + 파/NNG + ./SF
+
+유신	유신/NNG
+때인	때/NNG + 이/VCP + ㄴ/ETM
+76년	76/SN + 년/NNB
+서울	서울/NNP
+고법	고법/NNG
+판사	판사/NNG
+재직시	재직/NNG + 시/NNB
+3·1	3/SN + ·/SP + 1/SN
+명동	명동/NNP
+구국	구국/NNG
+선언	선언/NNG
+사건으로	사건/NNG + 으로/JKB
+기소된	기소/NNG + 되/XSV + ㄴ/ETM
+김대중	김대중/NNP
+씨가	씨/NNB + 가/JKS
+낸	내/VV + ㄴ/ETM
+재판부	재판부/NNG
+기피	기피/NNG
+신청을	신청/NNG + 을/JKO
+받아	받/VV + 아/EC
+들여	들이/VV + 어/EC
+고충을	고충/NNG + 을/JKO
+겪었다.	겪/VV + 었/EP + 다/EF + ./SF
+
+고	고/MM
+고재호	고재호/NNP
+대법관의	대/XPN + 법관/NNG + 의/JKG
+맏사위.	맏/XPN + 사위/NNG + ./SF
+
+▴	▴/SW
+강원	강원/NNP
+강릉출신·54세▴	강릉/NNP + 출신/NNG + ·/SP + 54/SN + 세/NNB + ▴/SW
+서울법대	서울법대/NNP
+졸▴	졸/NNG + ▴/SW
+고시	고시/NNG
+13회▴	13/SN + 회/NNB + ▴/SW
+서울지법	서울지법/NNP
+북부지원장▴	북부/NNG + 지원장/NNG + ▴/SW
+대법관	대/XPN + 법관/NNG
+

@@ -1,0 +1,2016 @@
+시스템	시스템/NNG
+공학	공학/NNG
+연구소는	연구소/NNG + 는/JX
+교육부의	교육부/NNG + 의/JKG
+요청을	요청/NNG + 을/JKO
+받아	받/VV + 아/EC
+들여	들이/VV + 어/EC
+대학	대학/NNG
+수학	수학/NNG
+능력	능력/NNG
+시험에	시험/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+컴퓨터	컴퓨터/NNG
+채점을	채점/NNG + 을/JKO
+맡기로	맡/VV + 기/ETN + 로/JKB
+했다고	하/VX + 았/EP + 다고/EC
+이	이/MM
+연구소의	연구소/NNG + 의/JKG
+김문현	김문현/NNP
+소장이	소장/NNG + 이/JKS
+5일	5/SN + 일/NNB
+밝혔다.	밝히/VV + 었/EP + 다/EF + ./SF
+
+김	김/NNP
+소장은	소장/NNG + 은/JX
+"다른	"/SS + 다른/MM
+대학과	대학/NNG + 과/JC
+기관에서도	기관/NNG + 에서/JKB + 도/JX
+채점을	채점/NNG + 을/JKO
+할	하/VV + ㄹ/ETM
+능력을	능력/NNG + 을/JKO
+갖췄으나	갖추/VV + 었/EP + 으나/EC
+신뢰성을	신뢰/NNG + 성/XSN + 을/JKO
+고려할	고려/NNG + 하/XSV + ㄹ/ETM
+때	때/NNG
+우리	우리/NP
+연구소가	연구소/NNG + 가/JKS
+가장	가장/MAG
+적합하다는	적합/NNG + 하/XSA + 다는/ETM
+여론을	여론/NNG + 을/JKO
+받아	받/VV + 아/EC
+들여	들이/VV + 어/EC
+컴퓨터	컴퓨터/NNG
+채점을	채점/NNG + 을/JKO
+담당하기로	담당/NNG + 하/XSV + 기/ETN + 로/JKB
+했다"고	하/VX + 았/EP + 다/EC + "/SS + 고/JKQ
+말했다.	말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+이	이/MM
+연구소는	연구소/NNG + 는/JX
+이미	이미/MAG
+74만	74/SN + 만/NR
+2천	2/SN + 천/NR
+6백	6/SN + 백/NR
+28장에	28/SN + 장/NNB + 에/JKB
+달하는	달하/VV + 는/ETM
+지원	지원/NNG
+원서를	원서/NNG + 를/JKO
+지난	지나/VV + ㄴ/ETM
+달	달/NNG
+28일부터	28/SN + 일/NNB + 부터/JX
+이틀간	이틀간/NNG
+넘겨	넘기/VV + 어/EC
+받아	받/VV + 아/EC
+3일간에	3/SN + 일/NNB + 간/NNB + 에/JKB
+걸쳐	걸치/VV + 어/EC
+수험생의	수험/NNG + 생/XSN + 의/JKG
+인적	인/NNG + 적/XSN
+사항을	사항/NNG + 을/JKO
+입력했다.	입력/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+실무를	실무/NNG + 를/JKO
+담당한	담당/NNG + 하/XSV + ㄴ/ETM
+전영민	전영민/NNP
+박사(44·전략	박사/NNG + (/SS + 44/SN + ·/SP + 전략/NNG
+정보	정보/NNG
+연구실)는	연구실/NNG + )/SS + 는/JX
+"원서를	"/SS + 원서/NNG + 를/JKO
+5백	5/SN + 백/NR
+장씩	장/NNB + 씩/XSN
+묶어	묶/VV + 어/EC
+광학	광학/NNG
+문자	문자/NNG
+판독기(OMR)에	판독기/NNG + (/SS + OMR/SL + )/SS + 에/JKB
+올려	올리/VV + 어/EC
+놓으면	놓/VX + 으면/EC
+광학	광학/NNG
+문자	문자/NNG
+판독기가	판독기/NNG + 가/JKS
+자동으로	자동/NNG + 으로/JKB
+한	한/MM
+장씩	장/NNB + 씩/XSN
+인적	인/NNG + 적/XSN
+사항을	사항/NNG + 을/JKO
+읽어주는데	읽/VV + 어/EC + 주/VX + 는데/EC
+속도는	속도/NNG + 는/JX
+하루에	하루/NNG + 에/JKB
+30만	30/SN + 만/NR
+장	장/NNB
+정도"라고	정도/NNG + "/SS + 라고/JKQ
+말했다.	말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+연구소는	연구소/NNG + 는/JX
+컴퓨터에	컴퓨터/NNG + 에/JKB
+입력된	입력/NNG + 되/XSV + ㄴ/ETM
+인적	인/NNG + 적/XSN
+사항을	사항/NNG + 을/JKO
+프린터로	프린터/NNG + 로/JKB
+인쇄,	인쇄/NNG + ,/SP
+15개	15/SN + 개/NNB
+시도에	시도/NNG + 에/JKB
+보내	보내/VV + 어/EC
+이상	이상/NNG
+유무를	유무/NNG + 를/JKO
+확인	확인/NNG
+점검한	점검/NNG + 하/XSV + ㄴ/ETM
+다음	다음/NNG
+수험	수험/NNG
+번호를	번호/NNG + 를/JKO
+정하게	정하/VV + 게/EC
+된다.	되/VV + ㄴ다/EF + ./SF
+
+전	전/NNP
+박사는	박사/NNG + 는/JX
+"시험	"/SS + 시험/NNG
+부정을	부정/NNG + 을/JKO
+방지하기	방지/NNG + 하/XSV + 기/ETN
+위해	위하/VV + 아/EC
+보통	보통/NNG
+4~5개	4/SN + ~/SO + 5/SN + 개/NNB
+학교	학교/NNG
+수험생을	수험/NNG + 생/XSN + 을/JKO
+섞어	섞/VV + 어/EC
+고사장을	고사장/NNG + 을/JKO
+배치한	배치/NNG + 하/XSV + ㄴ/ETM
+뒤	뒤/NNG
+수험	수험/NNG
+번호를	번호/NNG + 를/JKO
+배정해	배정/NNG + 하/XSV + 아/EC
+시험	시험/NNG
+한달	한/MM + 달/NNB
+전인	전/NNG + 이/VCP + ㄴ/ETM
+20일에	20/SN + 일/NNB + 에/JKB
+학생들에게	학생/NNG + 들/XSN + 에게/JKB
+수험표를	수험표/NNG + 를/JKO
+발부할	발부/NNG + 하/XSV + ㄹ/ETM
+예정"이라고	예정/NNG + "/SS + 이라고/JKQ
+말했다.	말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+8월	8/SN + 월/NNB
+20일	20/SN + 일/NNB
+실시되는	실시/NNG + 되/XSV + 는/ETM
+1차	1/SN + 차/NNB
+수학	수학/NNG
+능력	능력/NNG
+시험은	시험/NNG + 은/JX
+4교시에	4/SN + 교시/NNB + 에/JKB
+걸쳐	걸치/VV + 어/EC
+1백	1/SN + 백/NR
+90문항을	90/SN + 문항/NNG + 을/JKO
+출제할	출제/NNG + 하/XSV + ㄹ/ETM
+예정이다.	예정/NNG + 이/VCP + 다/EF + ./SF
+
+시험	시험/NNG
+당일	당일/NNG
+연구소는	연구소/NNG + 는/JX
+전국에서	전국/NNG + 에서/JKB
+모두	모두/MAG
+2백	2/SN + 백/NR
+90여만	90/SN + 여/XSN + 만/NR
+장의	장/NNB + 의/JKG
+답안지를	답안지/NNG + 를/JKO
+받아	받/VV + 아/EC
+컴퓨터로	컴퓨터/NNG + 로/JKB
+채점을	채점/NNG + 을/JKO
+시작한다.	시작/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+워낙	워낙/MAG
+답안지가	답안지/NNG + 가/JKS
+많기	많/VA + 기/ETN
+때문에	때문/NNB + 에/JKB
+입력에만	입력/NNG + 에/JKB + 만/JX
+10일이	10/SN + 일/NNB + 이/JKS
+걸릴	걸리/VV + ㄹ/ETM
+전망이다.	전망/NNG + 이/VCP + 다/EF + ./SF
+
+처음	처음/NNG
+입력된	입력/NNG + 되/XSV + ㄴ/ETM
+자료는	자료/NNG + 는/JX
+마그네틱	마그네틱/NNG
+릴테이프에	릴테이프/NNG + 에/JKB
+담아	담/VV + 아/EC
+봉인하여	봉인/NNG + 하/XSV + 아/EC
+최종	최종/NNG
+확인을	확인/NNG + 을/JKO
+위해	위하/VV + 아/EC
+별도로	별도/NNG + 로/JKB
+보관하고,	보관/NNG + 하/XSV + 고/EC + ,/SP
+실제	실제/NNG
+채점	채점/NNG
+처리는	처리/NNG + 는/JX
+원본을	원본/NNG + 을/JKO
+복사한	복사/NNG + 하/XSV + ㄴ/ETM
+자료를	자료/NNG + 를/JKO
+가지고	가지/VV + 고/EC
+한다.	하/VV + ㄴ다/EF + ./SF
+
+이	이/MM
+때	때/NNG
+수험	수험/NNG
+번호를	번호/NNG + 를/JKO
+암호화하여	암호/NNG + 화/XSN + 하/XSV + 아/EC
+처리하므로	처리/NNG + 하/XSV + 므로/EC
+암호를	암호/NNG + 를/JKO
+모르면	모르/VV + 면/EC
+누가	누구/NP + 가/JKS
+누군지	누구/NP + 이/VCP + ㄴ지/EC
+알	알/VV + ㄹ/ETM
+수	수/NNB
+없도록	없/VA + 도록/EC
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
+이	이/MM
+암호는	암호/NNG + 는/JX
+국립	국립/NNG
+교육	교육/NNG
+평가원과	평가원/NNG + 과/JC
+연구소가	연구소/NNG + 가/JKS
+공동	공동/NNG
+관리하는	관리/NNG + 하/XSV + 는/ETM
+등	등/NNB
+채점에는	채점/NNG + 에/JKB + 는/JX
+여러	여러/MM
+겹의	겹/NNG + 의/JKG
+안전	안전/NNG
+장치가	장치/NNG + 가/JKS
+마련되어	마련/NNG + 되/XSV + 어/EC
+있다.	있/VX + 다/EF + ./SF
+
+이런	이런/MM
+과정을	과정/NNG + 을/JKO
+거쳐	거치/VV + 어/EC
+연구소는	연구소/NNG + 는/JX
+시험을	시험/NNG + 을/JKO
+치른	치르/VV + ㄴ/ETM
+지	지/NNB
+33일쯤	33/SN + 일쯤/NNG
+뒤에	뒤/NNG + 에/JKB
+모든	모든/MM
+채점과	채점/NNG + 과/JC
+확인	확인/NNG
+과정을	과정/NNG + 을/JKO
+끝내고	끝내/VV + 고/EC
+수험생당	수험/NNG + 생/XSN + 당/XSN
+6장씩	6/SN + 장/NNB + 씩/XSN
+성적	성적/NNG
+통지서를	통지서/NNG + 를/JKO
+보낸다.	보내/VV + ㄴ다/EF + ./SF
+
+채점에	채점/NNG + 에/JKB
+동원되는	동원/NNG + 되/XSV + 는/ETM
+장비는	장비/NNG + 는/JX
+CDC	CDC/SL
+사이버	사이버/NNG
+960	960/SN
+컴퓨터와	컴퓨터/NNG + 와/JC
+5대의	5/SN + 대/NNB + 의/JKG
+광학	광학/NNG
+문자	문자/NNG
+판독기	판독기/NNG
+시스템이다.	시스템/NNG + 이/VCP + 다/EF + ./SF
+
+연구소는	연구소/NNG + 는/JX
+11월	11/SN + 월/NNB
+16일	16/SN + 일/NNB
+치를	치르/VV + ㄹ/ETM
+예정인	예정/NNG + 이/VCP + ㄴ/ETM
+두번째	두/MM + 번/NNB + 째/XSN
+수학	수학/NNG
+능력	능력/NNG
+시험도	시험/NNG + 도/JX
+동일한	동일/NNG + 하/XSA + ㄴ/ETM
+요령으로	요령/NNG + 으로/JKB
+채점하게	채점/NNG + 하/XSV + 게/EC
+된다.	되/VV + ㄴ다/EF + ./SF
+
+이	이/MM
+연구소는	연구소/NNG + 는/JX
+이미	이미/MAG
+지난	지나/VV + ㄴ/ETM
+71년부터	71/SN + 년/NNB + 부터/JX
+86년까지	86/SN + 년/NNB + 까지/JX
+15년간	15/SN + 년/NNB + 간/NNG
+대학	대학/NNG
+학력	학력/NNG
+고사를	고사/NNG + 를/JKO
+아무	아무/MM
+사고	사고/NNG
+없이	없이/MAG
+채점한	채점/NNG + 하/XSV + ㄴ/ETM
+경험을	경험/NNG + 을/JKO
+갖고	갖/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+87년부터	87/SN + 년/NNB + 부터/JX
+시험지	시험지/NNG
+채점은	채점/NNG + 은/JX
+각	각/MM
+대학으로	대학/NNG + 으로/JKB
+넘어갔으나	넘어가/VV + 았/EP + 으나/EC
+각종	각종/NNG
+입시	입시/NNG
+부정	부정/NNG
+사건이	사건/NNG + 이/JKS
+터져	터지/VV + 어/EC
+나왔었다.	나오/VV + 았었/EP + 다/EF + ./SF
+
+시스템	시스템/NNG
+공학	공학/NNG
+연구소는	연구소/NNG + 는/JX
+지난	지나/VV + ㄴ/ETM
+달	달/NNG
+교육부의	교육부/NNG + 의/JKG
+갑작스런	갑작/MAG + 스럽/XSA + ㄴ/ETM
+채점	채점/NNG
+제의를	제의/NNG + 를/JKO
+받고	받/VV + 고/EC
+처음에는	처음/NNG + 에/JKB + 는/JX
+'장비와	'/SS + 장비/NNG + 와/JC
+인력이	인력/NNG + 이/JKS
+부족할	부족/NNG + 하/XSA + ㄹ/ETM
+뿐더러	뿐/NNB + 더러/JKB
+본연의	본연/NNG + 의/JKG
+소프트웨어	소프트웨어/NNG
+연구에	연구/NNG + 에/JKB
+몰두해야	몰두/NNG + 하/XSV + 아야/EC
+한다'는	하/VX + ㄴ다/EC + '/SS + 는/ETM
+입장을	입장/NNG + 을/JKO
+내세워	내세우/VV + 어/EC
+거절했었다.	거절/NNG + 하/XSV + 았었/EP + 다/EF + ./SF
+
+실제로	실제로/MAG
+컴퓨터	컴퓨터/NNG
+채점은	채점/NNG + 은/JX
+기술적으로	기술/NNG + 적/XSN + 으로/JKB
+그다지	그다지/MAG
+어려운	어렵/VA + ㄴ/ETM
+일이	일/NNG + 이/JKC
+아니므로	아니/VCN + 므로/EC
+국내	국내/NNG
+대학교와	대학교/NNG + 와/JC
+몇몇	몇몇/MM
+기관에서	기관/NNG + 에서/JKB
+채점을	채점/NNG + 을/JKO
+할	하/VV + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+것으로	것/NNB + 으로/JKB
+알려졌다.	알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+
+이	이/MM
+때문에	때문/NNB + 에/JKB
+김문현	김문현/NNP
+소장은	소장/NNG + 은/JX
+"국가	"/SS + 국가/NNG
+발전에	발전/NNG + 에/JKB
+필요한	필요/NNG + 하/XSA + ㄴ/ETM
+컴퓨터	컴퓨터/NNG
+소프트웨어	소프트웨어/NNG
+개발에	개발/NNG + 에/JKB
+몰두하기	몰두/NNG + 하/XSV + 기/ETN
+위해	위하/VV + 아/EC
+내년부터는	내년/NNG + 부터/JX + 는/JX
+교육부에서	교육부/NNG + 에서/JKB
+자체적으로	자체/NNG + 적/XSN + 으로/JKB
+처리하길	처리/NNG + 하/XSV + 기/ETN + ㄹ/JKO
+바란다"고	바라/VV + ㄴ다/EC + "/SS + 고/JKQ
+말했다.	말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+한국과	한국/NNP + 과/JC
+중국의	중국/NNP + 의/JKG
+체신부	체신/NNG + 부/NNG
+장관이	장관/NNG + 이/JKS
+지난	지나/VV + ㄴ/ETM
+24일	24/SN + 일/NNB
+북경에서	북경/NNP + 에서/JKB
+우편	우편/NNG
+및	및/MAG
+전기	전기/NNG
+통신	통신/NNG
+분야	분야/NNG
+협력에	협력/NNG + 에/JKB
+관한	관하/VV + ㄴ/ETM
+협정을	협정/NNG + 을/JKO
+체결함으로써	체결/NNG + 하/XSV + ㅁ/ETN + 으로써/JKB
+세계	세계/NNG
+최대의	최대/NNG + 의/JKG
+통신	통신/NNG
+시장인	시장/NNG + 이/VCP + ㄴ/ETM
+중국에	중국/NNP + 에/JKB
+한국의	한국/NNP + 의/JKG
+통신	통신/NNG
+산업체와	산업체/NNG + 와/JC
+통신	통신/NNG
+기기가	기기/NNG + 가/JKS
+진출할	진출/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+기반이	기반/NNG + 이/JKS
+마련됐다.	마련/NNG + 되/XSV + 었/EP + 다/EF + ./SF
+
+윤동윤	윤동윤/NNP
+체신부	체신/NNG + 부/NNG
+장관과	장관/NNG + 과/JC
+오기전	오기전/NNP
+중국	중국/NNP
+우전	우전/NNG
+부장은	부장/NNG + 은/JX
+이번	이번/NNG
+회담을	회담/NNG + 을/JKO
+통해	통하/VV + 아/EC
+우선	우선/MAG
+전자	전자/NNG
+교환기	교환기/NNG
+광케이블	광케이블/NNG
+전송	전송/NNG
+장비	장비/NNG
+통신	통신/NNG
+단말기	단말기/NNG
+등	등/NNB
+국산	국산/NNG
+통신	통신/NNG
+기기의	기기/NNG + 의/JKG
+중국	중국/NNP
+내	내/NNB
+합작	합작/NNG
+생산을	생산/NNG + 을/JKO
+확대하고	확대/NNG + 하/XSV + 고/EC
+중국의	중국/NNP + 의/JKG
+통신망	통신망/NNG
+현대화	현대/NNG + 화/XSN
+계획에	계획/NNG + 에/JKB
+한국	한국/NNP
+기업이	기업/NNG + 이/JKS
+적극	적극/NNG
+참여토록	참여/NNG + 하/XSV + 도록/EC
+한다는	하/VX + ㄴ다는/ETM
+데	데/NNB
+합의했다.	합의/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+통신	통신/NNG
+기기	기기/NNG
+가운데	가운데/NNG
+우리	우리/NP
+통신	통신/NNG
+산업체들이	산업체/NNG + 들/XSN + 이/JKS
+중국	중국/NNP
+진출을	진출/NNG + 을/JKO
+노리는	노리/VV + 는/ETM
+유망	유망/NNG
+분야로는	분야/NNG + 로/JKB + 는/JX
+무엇보다	무엇/NP + 보다/JKB
+국산	국산/NNG
+전전자	전전자/NNG
+교환기(TDX)를	교환기/NNG + (/SS + TDX/SL + )/SS + 를/JKO
+들	들/VV + ㄹ/ETM
+수	수/NNB
+있다.	있/VV + 다/EF + ./SF
+
+중국은	중국/NNP + 은/JX
+전화	전화/NNG
+시설을	시설/NNG + 을/JKO
+연간	연간/NNG
+1천만	1/SN + 천만/NR
+회선씩	회선/NNG + 씩/XSN
+증설,	증설/NNG + ,/SP
+오는	오/VV + 는/ETM
+2000년까지	2000/SN + 년/NNB + 까지/JX
+모두	모두/MAG
+1억	1/SN + 억/NR
+회선을	회선/NNG + 을/JKO
+구축한다는	구축/NNG + 하/XSV + ㄴ다는/ETM
+통신망	통신망/NNG
+현대화	현대/NNG + 화/XSN
+계획을	계획/NNG + 을/JKO
+추진하고	추진/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+이에	이/NP + 에/JKB
+필요한	필요/NNG + 하/XSA + ㄴ/ETM
+교환기는	교환기/NNG + 는/JX
+독일	독일/NNP
+프랑스	프랑스/NNP
+스웨덴	스웨덴/NNP
+일본	일본/NNP
+한국	한국/NNP
+등의	등/NNB + 의/JKG
+통신	통신/NNG
+기기	기기/NNG
+제조	제조/NNG
+업체에	업체/NNG + 에/JKB
+발주할	발주/NNG + 하/XSV + ㄹ/ETM
+예정인데	예정/NNG + 이/VCP + ㄴ데/EC
+이번	이번/NNG
+협정으로	협정/NNG + 으로/JKB
+한국	한국/NNP
+업체의	업체/NNG + 의/JKG
+진출이	진출/NNG + 이/JKS
+훨씬	훨씬/MAG
+쉬워질	쉽/VA + 어/EC + 지/VX + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+보인다.	보이/VV + ㄴ다/EF + ./SF
+
+또	또/MAG
+이번	이번/NNG
+협정을	협정/NNG + 을/JKO
+계기로	계기/NNG + 로/JKB
+날로	날로/MAG
+증가하는	증가/NNG + 하/XSV + 는/ETM
+양국간	양국/NNG + 간/NNB
+통신량	통신/NNG + 량/NNG
+수용을	수용/NNG + 을/JKO
+위한	위하/VV + ㄴ/ETM
+위성	위성/NNG
+통신망과	통신망/NNG + 과/JC
+해저	해저/NNG
+광케이블망	광케이블/NNG + 망/NNG
+추진이	추진/NNG + 이/JKS
+급속히	급속히/MAG
+진행될	진행/NNG + 되/XSV + ㄹ/ETM
+전망이다.	전망/NNG + 이/VCP + 다/EF + ./SF
+
+한국과	한국/NNP + 과/JC
+중국은	중국/NNP + 은/JX
+지난	지나/VV + ㄴ/ETM
+89년	89/SN + 년/NNB
+서울~북경간	서울/NNP + ~/SO + 북경/NNP + 간/NNB
+전화	전화/NNG
+11회선이	11/SN + 회선/NNG + 이/JKS
+개설된	개설/NNG + 되/XSV + ㄴ/ETM
+이래	이래/NNB
+통신량이	통신/NNG + 량/NNG + 이/JKS
+해마다	해/NNG + 마다/JX
+1백~4백	1/SN + 백/NR + ~/SO + 4/SN + 백/NR
+50%씩	50/SN + %/SW + 씩/XSN
+증가,	증가/NNG + ,/SP
+한국의	한국/NNP + 의/JKG
+입장에서	입장/NNG + 에서/JKB
+보면	보/VV + 면/EC
+중국은	중국/NNP + 은/JX
+현재	현재/MAG
+4대	4/SN + 대/NNG
+통신국에	통신국/NNG + 에/JKB
+들고	들/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+2000년에는	2000/SN + 년/NNB + 에/JKB + 는/JX
+양국간	양국/NNG + 간/NNB
+통신	통신/NNG
+회선이	회선/NNG + 이/JKS
+모두	모두/MAG
+3천	3/SN + 천/NR
+회선	회선/NNG
+정도	정도/NNG
+필요할	필요/NNG + 하/XSA + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+전망된다.	전망/NNG + 되/XSV + ㄴ다/EF + ./SF
+
+이	이/MM
+때문에	때문/NNB + 에/JKB
+서울~산동성(위해)간	서울/NNP + ~/SO + 산동성/NNP + (/SS + 위해/NNP + )/SS + 간/NNB
+위성	위성/NNG
+통신	통신/NNG
+지구국이	지구국/NNG + 이/JKS
+이번에	이번/NNG + 에/JKB
+개통된	개통/NNG + 되/XSV + ㄴ/ETM
+데	데/NNB
+이어	잇/VV + 어/EC
+95년말에는	95/SN + 년/NNB + 말/NNB + 에/JKB + 는/JX
+한국의	한국/NNP + 의/JKG
+태안과	태안/NNP + 과/JC
+중국의	중국/NNP + 의/JKG
+위해	위해/NNP
+또는	또는/MAG
+청도간	청도/NNP + 간/NNB
+해저	해저/NNG
+광케이블도	광케이블/NNG + 도/JX
+개통될	개통/NNG + 되/XSV + ㄹ/ETM
+예정이다.	예정/NNG + 이/VCP + 다/EF + ./SF
+
+국내선	국내/NNG + 서/JKB + ㄴ/JX
+거의	거의/MAG
+미개척	미/XPN + 개척/NNG
+분야인	분야/NNG + 이/VCP + ㄴ/ETM
+만성통증	만성/NNG + 통증/NNG
+치료법들이	치료법/NNG + 들/XSN + 이/JKS
+집중적으로	집중/NNG + 적/XSN + 으로/JKB
+소개된다.	소개/NNG + 되/XSV + ㄴ다/EF + ./SF
+
+오는	오/VV + 는/ETM
+16~19일	16/SN + ~/SO + 19/SN + 일/NNB
+한국	한국/NNP
+통증	통증/NNG
+연구학회와	연구/NNG + 학회/NNG + 와/JC
+한국	한국/NNP
+통증	통증/NNG
+연구소(전화	연구소/NNG + (/SS + 전화/NNG
+02-235-6403)가	02/SN + -/SS + 235/SN + -/SS + 6403/SN + )/SS + 가/JKS
+서울	서울/NNP
+인터콘티넨탈	인터콘티넨탈/NNP
+호텔서	호텔/NNG + 서/JKB
+개최하는	개최/NNG + 하/XSV + 는/ETM
+'세계	'/SS + 세계/NNG
+제	제/XPN
+1차	1/SN + 차/NNB
+동서	동서/NNG
+의학	의학/NNG
+통증	통증/NNG
+치료	치료/NNG
+학술	학술/NNG
+대회'에	대회/NNG + '/SS + 에/JKB
+세계적인	세계/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+통증	통증/NNG
+의학	의학/NNG
+전문가들이	전문가/NNG + 들/XSN + 이/JKS
+대거	대거/MAG
+내한한다.	내한/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+소개되는	소개/NNG + 되/XSV + 는/ETM
+만성	만성/NNG
+통증	통증/NNG
+치료법들은	치료법/NNG + 들/XSN + 은/JX
+레이저	레이저/NNG
+요법,	요법/NNG + ,/SP
+전기	전기/NNG
+침요법,	침/NNG + 요법/NNG + ,/SP
+벌독	벌/NNG + 독/NNG
+요법,	요법/NNG + ,/SP
+방아쇠점	방아쇠점/NNG
+주사	주사/NNG
+요법	요법/NNG
+등으로	등/NNB + 으로/JKB
+양-한방에	양/NNG + -/SS + 한방/NNG + 에/JKB
+두루	두루/MAG
+관련되는	관련/NNG + 되/XSV + 는/ETM
+것이	것/NNB + 이/JKS
+특징.	특징/NNG + ./SF
+
+국제	국제/NNG
+통증	통증/NNG
+연구학	연구학/NNG
+회장	회장/NNG
+존	존/NNP
+뢰서	뢰서/NNP
+교수(워싱턴	교수/NNG + (/SS + 워싱턴/NNP
+의대	의대/NNG
+종합	종합/NNG
+통증	통증/NNG
+치료	치료/NNG
+센터	센터/NNG
+원장)	원장/NNG + )/SS
+등	등/NNB
+20여명의	20/SN + 여/XSN + 명/NNB + 의/JKG
+외국	외국/NNG
+전문가들이	전문가/NNG + 들/XSN + 이/JKS
+분야별로	분야/NNG + 별/XSN + 로/JKB
+주제	주제/NNG
+강연을	강연/NNG + 을/JKO
+할	하/VV + ㄹ/ETM
+예정이다.	예정/NNG + 이/VCP + 다/EF + ./SF
+
+먼저	먼저/MAG
+국제	국제/NNG
+레이저	레이저/NNG
+치료	치료/NNG
+학회장	학회장/NNG
+페카	페카/NNP
+폰티넨	폰티넨/NNP
+교수(핀란드	교수/NNG + (/SS + 핀란드/NNP
+쿠오피오	쿠오피오/NNP
+의대	의대/NNG
+마취과)는	마취/NNG + 과/NNG + )/SS + 는/JX
+레이저	레이저/NNG
+요법을	요법/NNG + 을/JKO
+소개한다.	소개/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+침술의	침술/NNG + 의/JKG
+침자리에	침/NNG + 자리/NNG + 에/JKB
+레이저로	레이저/NNG + 로/JKB
+빛에너지	빛/NNG + 에너지/NNG
+자극을	자극/NNG + 을/JKO
+가하는	가하/VV + 는/ETM
+이	이/MM
+치료법은	치료법/NNG + 은/JX
+일반적인	일반/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+침	침/NNG
+치료	치료/NNG
+질환	질환/NNG
+외에	외/NNB + 에/JKB
+얼굴의	얼굴/NNG + 의/JKG
+3차	3/SN + 차/NNB
+신경통,	신경통/NNG + ,/SP
+안면부	안면부/NNG
+두통,	두통/NNG + ,/SP
+월경	월경/NNG
+전	전/NNG
+긴장통	긴장통/NNG
+증후군에	증후군/NNG + 에/JKB
+우수한	우수/NNG + 하/XSA + ㄴ/ETM
+효과를	효과/NNG + 를/JKO
+보이고	보이/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+사용되는	사용/NNG + 되/XSV + 는/ETM
+레이저는	레이저/NNG + 는/JX
+헬륨니온	헬륨니온/NNG
+레이저와	레이저/NNG + 와/JC
+적외선	적외선/NNG
+레이저로	레이저/NNG + 로/JKB
+수술용	수술/NNG + 용/XSN
+레이저와는	레이저/NNG + 와/JKB + 는/JX
+성질이	성질/NNG + 이/JKS
+전혀	전혀/MAG
+다르다.	다르/VA + 다/EF + ./SF
+
+뉴욕	뉴욕/NNP
+심장	심장/NNG
+질환	질환/NNG
+연구	연구/NNG
+재단	재단/NNG
+요시아키	요시아키/NNP
+오무라	오무라/NNP
+교수는	교수/NNG + 는/JX
+전기	전기/NNG
+침	침/NNG
+요법에	요법/NNG + 에/JKB
+대해	대하/VV + 아/EC
+강연한다.	강연/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+전기	전기/NNG
+침	침/NNG
+요법은	요법/NNG + 은/JX
+통증	통증/NNG
+부위에	부위/NNG + 에/JKB
+침을	침/NNG + 을/JKO
+꽂은	꽂/VV + 은/ETM
+후	후/NNG
+그	그/MM
+침에	침/NNG + 에/JKB
+특수한	특수/NNG + 하/XSA + ㄴ/ETM
+전류를	전류/NNG + 를/JKO
+흐르게	흐르/VV + 게/EC
+하는	하/VX + 는/ETM
+시술법.	시술/NNG + 법/NNG + ./SF
+
+일반	일반/NNG
+침의	침/NNG + 의/JKG
+치료	치료/NNG
+영역	영역/NNG
+외에	외/NNB + 에/JKB
+수술시	수술/NNG + 시/NNB
+부분	부분/NNG
+마취-국소	마취/NNG + -/SS + 국소/NNG
+마취용으로	마취/NNG + 용/XSN + 으로/JKB
+널리	널리/MAG
+이용되고	이용/NNG + 되/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+만성	만성/NNG
+통증	통증/NNG
+치료에는	치료/NNG + 에/JKB + 는/JX
+2~5㎐의	2/SN + ~/SO + 5/SN + ㎐/SW + 의/JKG
+저주파	저/XPN + 주파/NNG
+전류가	전류/NNG + 가/JKS
+이용되며,	이용/NNG + 되/XSV + 며/EC + ,/SP
+치료	치료/NNG
+효과는	효과/NNG + 는/JX
+재래식	재래식/NNG
+침보다	침/NNG + 보다/JKB
+훨씬	훨씬/MAG
+뛰어난	뛰어나/VA + ㄴ/ETM
+것으로	것/NNB + 으로/JKB
+알려졌다.	알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+
+재미	재미/NNG
+의사	의사/NNG
+김문호	김문호/NNP
+박사(뉴저지	박사/NNG + (/SS + 뉴저지/NNP
+매머드	매머드/NNG
+통증	통증/NNG
+연구소장)는	연구소장/NNG + )/SS + 는/JX
+벌의	벌/NNG + 의/JKG
+독을	독/NNG + 을/JKO
+인체에	인체/NNG + 에/JKB
+주사해	주사/NNG + 하/XSV + 아/EC
+신경통,	신경통/NNG + ,/SP
+근육통,	근육통/NNG + ,/SP
+관절염	관절염/NNG
+등을	등/NNB + 을/JKO
+치료하는	치료/NNG + 하/XSV + 는/ETM
+벌독	벌/NNG + 독/NNG
+요법에	요법/NNG + 에/JKB
+대해	대하/VV + 아/EC
+강연한다.	강연/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+꿀벌에	꿀벌/NNG + 에/JKB
+전기	전기/NNG
+자극을	자극/NNG + 을/JKO
+가해	가하/VV + 아/EC
+독을	독/NNG + 을/JKO
+추출하는	추출/NNG + 하/XSV + 는/ETM
+방법과	방법/NNG + 과/JC
+벌독의	벌/NNG + 독/NNG + 의/JKG
+정제법,	정제법/NNG + ,/SP
+주사	주사/NNG
+요령	요령/NNG
+등을	등/NNB + 을/JKO
+소개한다.	소개/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+살아	살/VV + 아/EC
+있는	있/VX + 는/ETM
+벌의	벌/NNG + 의/JKG
+독침을	독침/NNG + 을/JKO
+몸에	몸/NNG + 에/JKB
+직접	직접/MAG
+찌르는	찌르/VV + 는/ETM
+민간	민간/NNG
+시술법보다	시술/NNG + 법/NNG + 보다/JKB
+훨씬	훨씬/MAG
+과학적이고	과학/NNG + 적/XSN + 이/VCP + 고/EC
+효과적이다.	효과/NNG + 적/XSN + 이/VCP + 다/EF + ./SF
+
+미국	미국/NNP
+뉴욕	뉴욕/NNP
+마운트	마운트/NNG
+사이나이	사이나이/NNP
+의대	의대/NNG
+앤드루	앤드루/NNP
+피셔	피셔/NNP
+교수(재활	교수/NNG + (/SS + 재활/NNG
+의학)는	의학/NNG + )/SS + 는/JX
+방아쇠점	방아쇠점/NNG
+주사	주사/NNG
+요법에	요법/NNG + 에/JKB
+대해	대하/VV + 아/EC
+강연한다.	강연/NNG + 하/XSV + ㄴ다/EF + ./SF
+
+주로	주로/MAG
+근육통이나	근육통/NNG + 이나/JC
+근막통	근막통/NNG
+치료에	치료/NNG + 에/JKB
+적용되는	적용/NNG + 되/XSV + 는/ETM
+이	이/MM
+방법은	방법/NNG + 은/JX
+실제	실제/NNG
+통증	통증/NNG
+부위와	부위/NNG + 와/JC
+통증	통증/NNG
+유발점(방아쇠점)이	유발/NNG + 점/NNG + (/SS + 방아쇠/NNG + 점/NNG + )/SS + 이/JKS
+멀리	멀리/MAG
+떨어져	떨어지/VV + 어/EC
+있는	있/VX + 는/ETM
+경우에	경우/NNG + 에/JKB
+사용된다.	사용/NNG + 되/XSV + ㄴ다/EF + ./SF
+
+김광우	김광우/NNP
+대회장(서울대병원	대회장/NNG + (/SS + 서울대병원/NNP
+제1	제/XPN + 1/SN
+진료	진료/NNG
+부원장·마취과)은	부원장/NNG + ·/SP + 마취/NNG + 과/NNG + )/SS + 은/JX
+"국제	"/SS + 국제/NNG
+통증	통증/NNG
+연구학회의	연구/NNG + 학회/NNG + 의/JKG
+공인을	공인/NNG + 을/JKO
+받아	받/VV + 아/EC
+한국서	한국/NNP + 서/JKB
+처음	처음/NNG
+열리는	열리/VV + 는/ETM
+이번	이번/NNG
+대회가	대회/NNG + 가/JKS
+국내	국내/NNG
+통증	통증/NNG
+의학	의학/NNG
+발전에	발전/NNG + 에/JKB
+크게	크/VA + 게/EC
+기여할	기여/NNG + 하/XSV + ㄹ/ETM
+것"이라고	것/NNB + "/SS + 이라고/JKQ
+말했다.	말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+환경	환경/NNG
+관련	관련/NNG
+국내	국내/NNG
+기술	기술/NNG
+개발	개발/NNG
+건수가	건수/NNG + 가/JKS
+최근	최근/NNG
+급증하고	급증/NNG + 하/XSV + 고/EC
+있으나	있/VX + 으나/EC
+기술	기술/NNG
+수준	수준/NNG
+면에서는	면/NNG + 에서/JKB + 는/JX
+아직도	아직/MAG + 도/JX
+외국에	외국/NNG + 에/JKB
+비해	비하/VV + 아/EC
+크게	크/VA + 게/EC
+뒤지는	뒤지/VV + 는/ETM
+것으로	것/NNB + 으로/JKB
+나타났다.	나타나/VV + 았/EP + 다/EF + ./SF
+
+88년부터	88/SN + 년/NNB + 부터/JX
+92년까지	92/SN + 년/NNB + 까지/JX
+5년	5/SN + 년/NNB
+동안	동안/NNG
+국내에	국내/NNG + 에/JKB
+출원된	출원/NNG + 되/XSV + ㄴ/ETM
+내-외국인의	내/NNB + -/SS + 외국인/NNG + 의/JKG
+환경	환경/NNG
+관련	관련/NNG
+기술	기술/NNG
+특허를	특허/NNG + 를/JKO
+분석한	분석/NNG + 하/XSV + ㄴ/ETM
+특허청	특허청/NNG
+무기	무기/NNG
+화학과	화학/NNG + 과/NNG
+김동수	김동수/NNP
+과장은	과장/NNG + 은/JX
+국내의	국내/NNG + 의/JKG
+환경	환경/NNG
+기술	기술/NNG
+개발이	개발/NNG + 이/JKS
+최근	최근/NNG
+활발히	활발히/MAG
+이루어지고	이루어지/VV + 고/EC
+있으나	있/VX + 으나/EC
+그	그/MM
+규모가	규모/NNG + 가/JKS
+작고	작/VA + 고/EC
+일부	일부/NNG
+대기업들은	대/XPN + 기업/NNG + 들/XSN + 은/JX
+기술	기술/NNG
+개발보다는	개발/NNG + 보다/JKB + 는/JX
+손쉬운	손쉽/VA + ㄴ/ETM
+외국	외국/NNG
+기술	기술/NNG
+도입에	도입/NNG + 에/JKB
+급급하고	급급/XR + 하/XSA + 고/EC
+있다고	있/VV + 다고/EC
+분석했다.	분석/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+이	이/NP
+같은	같/VA + 은/ETM
+내용은	내용/NNG + 은/JX
+12일	12/SN + 일/NNB
+한국	한국/NNP
+종합	종합/NNG
+전시장에서	전시장/NNG + 에서/JKB
+열리는	열리/VV + 는/ETM
+'환경	'/SS + 환경/NNG
+기술과	기술/NNG + 과/JC
+특허	특허/NNG
+보호	보호/NNG
+세미나'에서	세미나/NNG + '/SS + 에서/JKB
+발표될	발표/NNG + 되/XSV + ㄹ/ETM
+예정이다.	예정/NNG + 이/VCP + 다/EF + ./SF
+
+김	김/NNP
+과장의	과장/NNG + 의/JKG
+연구	연구/NNG
+결과에	결과/NNG + 에/JKB
+따르면	따르/VV + 면/EC
+88년부터	88/SN + 년/NNB + 부터/JX
+92년까지	92/SN + 년/NNB + 까지/JX
+출원된	출원/NNG + 되/XSV + ㄴ/ETM
+환경	환경/NNG
+관련	관련/NNG
+기술은	기술/NNG + 은/JX
+모두	모두/MAG
+2천	2/SN + 천/NR
+1백	1/SN + 백/NR
+11건.	11/SN + 건/NNB + ./SF
+
+연평균	연평균/NNG
+21.8%씩	21/SN + ./SP + 8/SN + %/SW + 씩/XSN
+증가해	증가/NNG + 하/XSV + 아/EC
+전체	전체/NNG
+국내	국내/NNG
+특허	특허/NNG
+출원	출원/NNG
+증가율	증가/NNG + 율/XSN
+8.7%를	8/SN + ./SP + 7/SN + %/SW + 를/JKO
+크게	크/VA + 게/EC
+웃돌고	웃돌/VV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+분야별	분야/NNG + 별/XSN
+출원	출원/NNG
+건수	건수/NNG
+증가율은	증가/NNG + 율/XSN + 은/JX
+폐기물	폐기물/NNG
+분야	분야/NNG
+64%,	64/SN + %/SW + ,/SP
+수질	수질/NNG
+24.3%,	24/SN + ./SP + 3/SN + %/SW + ,/SP
+대기	대기/NNG
+20.4%,	20/SN + ./SP + 4/SN + %/SW + ,/SP
+소음	소음/NNG
+진동	진동/NNG
+13.5%	13/SN + ./SP + 5/SN + %/SW
+등이었다.	등/NNB + 이/VCP + 었/EP + 다/EF + ./SF
+
+내국인과	내국인/NNG + 과/JC
+외국인의	외국인/NNG + 의/JKG
+특허	특허/NNG
+출원	출원/NNG
+건수를	건수/NNG + 를/JKO
+비교해	비교/NNG + 하/XSV + 아/EC
+보면	보/VX + 면/EC
+내국인이	내국인/NNG + 이/JKS
+외국인보다	외국인/NNG + 보다/JKB
+3배	3/SN + 배/NNG
+이상	이상/NNG
+많지만	많/VA + 지만/EC
+기술	기술/NNG
+수준	수준/NNG
+면에선	면/NNG + 에서/JKB + ㄴ/JX
+크게	크/VA + 게/EC
+뒤지는	뒤지/VV + 는/ETM
+것으로	것/NNB + 으로/JKB
+나타났다.	나타나/VV + 았/EP + 다/EF + ./SF
+
+대기	대기/NNG
+오염	오염/NNG
+분야를	분야/NNG + 를/JKO
+예로	예/NNG + 로/JKB
+들면	들/VV + 면/EC
+내국인의	내국인/NNG + 의/JKG
+출원이	출원/NNG + 이/JKS
+주로	주로/MAG
+물리적인	물리/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+여과	여과/NNG
+방법에	방법/NNG + 에/JKB
+의존하는	의존/NNG + 하/XSV + 는/ETM
+공기	공기/NNG
+정화기와	정화기/NNG + 와/JC
+집진기에	집진기/NNG + 에/JKB
+집중되어	집중/NNG + 되/XSV + 어/EC
+있는	있/VX + 는/ETM
+반면	반면/NNG
+외국인	외국인/NNG
+출원은	출원/NNG + 은/JX
+흡수	흡수/NNG
+또는	또는/MAG
+흡착에	흡착/NNG + 에/JKB
+의한	의하/VV + ㄴ/ETM
+공기	공기/NNG
+정화	정화/NNG
+및	및/MAG
+폐가스의	폐/XPN + 가스/NNG + 의/JKG
+탈황	탈황/NNG
+등	등/NNB
+화학	화학/NNG
+정화에	정화/NNG + 에/JKB
+집중되어	집중/NNG + 되/XSV + 어/EC
+있다.	있/VX + 다/EF + ./SF
+
+김	김/NNP
+과장은	과장/NNG + 은/JX
+이러한	이러/XR + 하/XSA + ㄴ/ETM
+분야	분야/NNG
+연구에는	연구/NNG + 에/JKB + 는/JX
+대규모	대/XPN + 규모/NNG
+장치와	장치/NNG + 와/JC
+고도	고도/NNG
+기술이	기술/NNG + 이/JKS
+요구되지만	요구/NNG + 되/XSV + 지만/EC
+국내	국내/NNG
+기술은	기술/NNG + 은/JX
+취약하기	취약/NNG + 하/XSA + 기/ETN
+때문이라고	때문/NNB + 이/VCP + 라고/EC
+그	그/MM
+원인을	원인/NNG + 을/JKO
+분석했다.	분석/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+다른	다른/MM
+분야에서도	분야/NNG + 에서/JKB + 도/JX
+마찬가지여서	마찬가지/NNG + 이/VCP + 어서/EC
+고도	고도/NNG
+폐수	폐수/NNG
+처리,	처리/NNG + ,/SP
+폐기물	폐기물/NNG
+소각	소각/NNG
+분야	분야/NNG
+등	등/NNB
+고도	고도/NNG
+기술	기술/NNG
+분야에선	분야/NNG + 에서/JKB + ㄴ/JX
+그	그/MM
+출원	출원/NNG
+건수가	건수/NNG + 가/JKS
+외국인과	외국인/NNG + 과/JKB
+현저히	현저히/MAG
+차이가	차이/NNG + 가/JKS
+났다.	나/VV + 았/EP + 다/EF + ./SF
+
+외국에서	외국/NNG + 에서/JKB
+들여오는	들여오/VV + 는/ETM
+환경	환경/NNG
+관련	관련/NNG
+기술도	기술/NNG + 도/JX
+장기적인	장기/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+전략에	전략/NNG + 에/JKB
+따라	따르/VV + 아/EC
+이루어져야	이루어지/VV + 어야/EC
+할	하/VX + ㄹ/ETM
+것이라는	것/NNB + 이/VCP + 라는/ETM
+지적도	지적/NNG + 도/JX
+뒤따랐다.	뒤따르/VV + 았/EP + 다/EF + ./SF
+
+88년에서	88/SN + 년/NNB + 에서/JKB
+92년	92/SN + 년/NNB
+사이에	사이/NNG + 에/JKB
+매년	매년/MAG
+10여건씩	10/SN + 여/XSN + 건/NNB + 씩/XSN
+총	총/MM
+62건의	62/SN + 건/NNB + 의/JKG
+기술이	기술/NNG + 이/JKS
+외국에서	외국/NNG + 에서/JKB
+도입됐으나	도입/NNG + 되/XSV + 었/EP + 으나/EC
+기술	기술/NNG
+도입	도입/NNG
+계약	계약/NNG
+기간이	기간/NNG + 이/JKS
+점점	점점/MAG
+짧아져	짧아지/VV + 어/EC
+88년에	88/SN + 년/NNB + 에/JKB
+평균	평균/NNG
+7.54년이었던	7/SN + ./SP + 54/SN + 년/NNB + 이/VCP + 었/EP + 던/ETM
+것이	것/NNB + 이/JKS
+92년에는	92/SN + 년/NNB + 에/JKB + 는/JX
+평균	평균/NNG
+5.6년으로	5/SN + ./SP + 6/SN + 년/NNB + 으로/JKB
+나타났다.	나타나/VV + 았/EP + 다/EF + ./SF
+
+김	김/NNP
+과장은	과장/NNG + 은/JX
+이것은	이것/NP + 은/JX
+우리	우리/NP
+기업들이	기업/NNG + 들/XSN + 이/JKS
+단기적인	단기/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+기술	기술/NNG
+사용	사용/NNG
+위주에	위주/NNG + 에/JKB
+머무르고	머무르/VV + 고/EC
+있는	있/VX + 는/ETM
+증거라고	증거/NNG + 이/VCP + 라고/EC
+분석했다.	분석/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+김	김/NNP
+과장은	과장/NNG + 은/JX
+결론에서	결론/NNG + 에서/JKB
+"우리	"/SS + 우리/NP
+나라	나라/NNG
+기업들의	기업/NNG + 들/XSN + 의/JKG
+환경	환경/NNG
+기술	기술/NNG
+연구가	연구/NNG + 가/JKS
+GNP	GNP/SL
+대비	대비/NNG
+0.22%로	0/SN + ./SP + 22/SN + %/SW + 로/JKB
+선진국의	선진국/NNG + 의/JKG
+절반밖에	절반/NNG + 밖에/JX
+되지	되/VV + 지/EC
+않는다"며	않/VX + 는다/EC + "/SS + 며/EC
+"서둘러	"/SS + 서두르/VV + 어/EC
+환경	환경/NNG
+부문에	부문/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+전체	전체/NNG
+투자를	투자/NNG + 를/JKO
+늘리는	늘리/VV + 는/ETM
+한편	한편/MAG
+필수적이고	필수/NNG + 적/XSN + 이/VCP + 고/EC
+기술	기술/NNG
+파급	파급/NNG
+효과가	효과/NNG + 가/JKS
+큰	크/VA + ㄴ/ETM
+분야에	분야/NNG + 에/JKB
+집중적인	집중/NNG + 적/XSN + 이/VCP + ㄴ/ETM
+투자가	투자/NNG + 가/JKS
+필요하다"고	필요/NNG + 하/XSA + 다/EC + "/SS + 고/JKQ
+말했다.	말/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+영국	영국/NNP
+런던의	런던/NNP + 의/JKG
+국제	국제/NNG
+해사	해사/NNG
+기구(IMO)	기구/NNG + (/SS + IMO/SL + )/SS
+본부에서	본부/NNG + 에서/JKB
+지난	지나/VV + ㄴ/ETM
+8일부터	8/SN + 일/NNB + 부터/JX
+열리고	열리/VV + 고/EC
+있는	있/VV + 는/ETM
+'런던	'/SS + 런던/NNP
+덤핑	덤핑/NNG
+협약	협약/NNG
+가입국	가입국/NNG
+회의'는	회의/NNG + '/SS + 는/JX
+방사성	방사/NNG + 성/XSN
+폐기물의	폐기물/NNG + 의/JKG
+해양	해양/NNG
+투기를	투기/NNG + 를/JKO
+전면	전면/NNG
+금지할	금지/NNG + 하/XSV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+알려졌다.	알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+
+이에	이/NP + 에/JKB
+따라	따르/VV + 아/EC
+현재	현재/MAG
+옵서버	옵서버/NNG
+자격으로	자격/NNG + 으로/JKB
+이	이/MM
+회의에	회의/NNG + 에/JKB
+참석	참석/NNG
+중인	중/NNB + 이/VCP + ㄴ/ETM
+우리	우리/NP
+나라는	나라/NNG + 는/JX
+올해	올해/NNG
+안에	안/NNG + 에/JKB
+런던	런던/NNP
+협약	협약/NNG
+가입을	가입/NNG + 을/JKO
+추진하는	추진/NNG + 하/XSV + 는/ETM
+한편	한편/MAG
+전면	전면/NNG
+금지에	금지/NNG + 에/JKB
+따른	따르/VV + ㄴ/ETM
+입장	입장/NNG
+정리와	정리/NNG + 와/JC
+대응	대응/NNG
+전략을	전략/NNG + 을/JKO
+마련하고	마련/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+런던	런던/NNP
+덤핑	덤핑/NNG
+협약(The	협약/NNG + (/SS + The/SL
+London	London/SL
+Dumping	Dumping/SL
+Convention)이란	Convention/SL + )/SS + 이란/JX
+지난	지나/VV + ㄴ/ETM
+72년	72/SN + 년/NNB
+수은	수은/NNG
+카드뮴	카드뮴/NNG
+등의	등/NNB + 의/JKG
+독성	독/NNG + 성/XSN
+물질	물질/NNG
+및	및/MAG
+고준위	고/XPN + 준위/NNG
+방사성	방사/NNG + 성/XSN
+폐기물	폐기물/NNG
+등의	등/NNB + 의/JKG
+해양	해양/NNG
+투기를	투기/NNG + 를/JKO
+금지한	금지/NNG + 하/XSV + ㄴ/ETM
+국제	국제/NNG
+협약.	협약/NNG + ./SF
+
+75년	75/SN + 년/NNB
+발효됐으며	발효/NNG + 되/XSV + 었/EP + 으며/EC
+IMO	IMO/SL
+내에	내/NNB + 에/JKB
+사무국을	사무국/NNG + 을/JKO
+운영하고	운영/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+가입국은	가입국/NNG + 은/JX
+72년	72/SN + 년/NNB
+당시의	당시/NNG + 의/JKG
+15개국에서	15/SN + 개국/NNB + 에서/JKB
+현재	현재/MAG
+71개국으로	71/SN + 개국/NNB + 으로/JKB
+늘어났다.	늘어나/VV + 았/EP + 다/EF + ./SF
+
+러시아는	러시아/NNP + 는/JX
+76년,	76/SN + 년/NNB + ,/SP
+일본은	일본/NNP + 은/JX
+80년,	80/SN + 년/NNB + ,/SP
+중국은	중국/NNP + 은/JX
+85년에	85/SN + 년/NNB + 에/JKB
+각각	각각/MAG
+가입했으며	가입/NNG + 하/XSV + 았/EP + 으며/EC
+우리	우리/NP
+나라는	나라/NNG + 는/JX
+아직	아직/MAG
+가입하지	가입/NNG + 하/XSV + 지/EC
+않았다.	않/VX + 았/EP + 다/EF + ./SF
+
+러시아의	러시아/NNP + 의/JKG
+동해	동해/NNP
+핵폐기물	핵폐기물/NNG
+투기로	투기/NNG + 로/JKB
+요즘	요즘/NNG
+문제가	문제/NNG + 가/JKC
+된	되/VV + ㄴ/ETM
+중-저준위	중/NNG + -/SS + 저/XPN + 준위/NNG
+폐기물은	폐기물/NNG + 은/JX
+협약	협약/NNG
+당시에는	당시/NNG + 에/JKB + 는/JX
+IMO에	IMO/SL + 에/JKB
+투기	투기/NNG
+물질의	물질/NNG + 의/JKG
+종류와	종류/NNG + 와/JC
+양	양/NNG
+등을	등/NNB + 을/JKO
+사전에	사전/NNG + 에/JKB
+통보하고	통보/NNG + 하/XSV + 고/EC
+국제	국제/NNG
+원자력	원자력/NNG
+기구(IAEA)의	기구/NNG + (/SS + IAEA/SL + )/SS + 의/JKG
+투기	투기/NNG
+기준을	기준/NNG + 을/JKO
+성실히	성실히/MAG
+이행할	이행/NNG + 하/XSV + ㄹ/ETM
+경우,	경우/NNG + ,/SP
+바다에	바다/NNG + 에/JKB
+버릴	버리/VV + ㄹ/ETM
+수	수/NNB
+있도록	있/VV + 도록/EC
+돼	되/VV + 어/EC
+있었다.	있/VX + 었/EP + 다/EF + ./SF
+
+런던	런던/NNP
+협약은	협약/NNG + 은/JX
+그러나	그러나/MAJ
+미량의	미량/NNG + 의/JKG
+방사능	방사능/NNG
+물질	물질/NNG
+투기라도	투기/NNG + 이/VCP + 라도/EC
+해양	해양/NNG
+오염을	오염/NNG + 을/JKO
+일으킬	일으키/VV + ㄹ/ETM
+가능성이	가능/NNG + 성/XSN + 이/JKS
+있기	있/VV + 기/ETN
+때문에	때문/NNB + 에/JKB
+논란이	논란/NNG + 이/JKC
+돼	되/VV + 어/EC
+왔다.	오/VX + 았/EP + 다/EF + ./SF
+
+이에	이/NP + 에/JKB
+따라	따르/VV + 아/EC
+83년	83/SN + 년/NNB
+7차	7/SN + 차/NNB
+가입국	가입국/NNG
+회의에서	회의/NNG + 에서/JKB
+모든	모든/MM
+방사성	방사/NNG + 성/XSN
+폐기물의	폐기물/NNG + 의/JKG
+해양	해양/NNG
+투기를	투기/NNG + 를/JKO
+일시	일시/NNG
+중지키로	중지/NNG + 하/XSV + 기/ETN + 로/JKB
+결의했고	결의/NNG + 하/XSV + 았/EP + 고/EC
+85년에는	85/SN + 년/NNB + 에/JKB + 는/JX
+이	이/MM
+결의안을	결의안/NNG + 을/JKO
+과학기술적	과학/NNG + 기술/NNG + 적/XSN
+연구	연구/NNG
+결과가	결과/NNG + 가/JKS
+나올	나오/VV + ㄹ/ETM
+때까지	때/NNG + 까지/JX
+계속	계속/MAG
+유지키로	유지/NNG + 하/XSV + 기/ETN + 로/JKB
+결정한	결정/NNG + 하/XSV + ㄴ/ETM
+바	바/NNB
+있다.	있/VV + 다/EF + ./SF
+
+이번	이번/NNG
+16번째	16/SN + 번/NNB + 째/XSN
+가입국	가입국/NNG
+회의에서는	회의/NNG + 에서/JKB + 는/JX
+지난	지나/VV + ㄴ/ETM
+86년부터	86/SN + 년/NNB + 부터/JX
+운영돼	운영/NNG + 되/XSV + 어/EC
+온	오/VX + ㄴ/ETM
+'정부	'/SS + 정부/NNG
+간	간/NNB
+전문가	전문가/NNG
+위원회'의	위원회/NNG + '/SS + 의/JKG
+보고에	보고/NNG + 에/JKB
+따라	따르/VV + 아/EC
+방사성	방사/NNG + 성/XSN
+폐기물의	폐기물/NNG + 의/JKG
+해양	해양/NNG
+투기와	투기/NNG + 와/JC
+관련,	관련/NNG + ,/SP
+몇	몇/MM
+가지	가지/NNB
+결의안	결의안/NNG
+채택을	채택/NNG + 을/JKO
+검토하고	검토/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+이중	이/MM + 중/NNB
+협약	협약/NNG
+헌장의	헌장/NNG + 의/JKG
+개정을	개정/NNG + 을/JKO
+통해	통하/VV + 아/EC
+해양	해양/NNG
+투기의	투기/NNG + 의/JKG
+전면	전면/NNG
+금지를	금지/NNG + 를/JKO
+명시하자는	명시/NNG + 하/XSV + 자는/ETM
+안이	안/NNG + 이/JKS
+채택될	채택/NNG + 되/XSV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+보인다.	보이/VV + ㄴ다/EF + ./SF
+
+이번	이번/NNG
+회의에서는	회의/NNG + 에서/JKB + 는/JX
+또	또/MAG
+산업	산업/NNG
+폐기물의	폐기물/NNG + 의/JKG
+해양	해양/NNG
+투기와	투기/NNG + 와/JC
+폐기물의	폐기물/NNG + 의/JKG
+해양	해양/NNG
+소각도	소각/NNG + 도/JX
+금지하고	금지/NNG + 하/XSV + 고/EC
+런던	런던/NNP
+협약	협약/NNG
+전체에	전체/NNG + 에/JKB
+대해서도	대하/VV + 아서/EC + 도/JX
+96년까지	96/SN + 년/NNB + 까지/JX
+검토하자는	검토/NNG + 하/XSV + 자는/ETM
+결의안이	결의안/NNG + 이/JKS
+통과될	통과/NNG + 되/XSV + ㄹ/ETM
+전망이다.	전망/NNG + 이/VCP + 다/EF + ./SF
+
+외무부	외무부/NNG
+이태식	이태식/NNP
+국제	국제/NNG
+경제국	경제국/NNG
+심의관을	심의관/NNG + 을/JKO
+수석으로	수석/NNG + 으로/JKB
+6명의	6/SN + 명/NNB + 의/JKG
+대표를	대표/NNG + 를/JKO
+런던	런던/NNP
+회의에	회의/NNG + 에/JKB
+파견	파견/NNG
+중인	중/NNB + 이/VCP + ㄴ/ETM
+우리	우리/NP
+나라는	나라/NNG + 는/JX
+이	이/MM
+결의안이	결의안/NNG + 이/JKS
+국내	국내/NNG
+원전	원전/NNG
+산업	산업/NNG
+및	및/MAG
+폐기물	폐기물/NNG
+처리에	처리/NNG + 에/JKB
+미칠	미치/VV + ㄹ/ETM
+영향을	영향/NNG + 을/JKO
+가늠하고	가늠/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+하지만	하지만/MAJ
+당초부터	당초/NNG + 부터/JX
+방사성	방사/NNG + 성/XSN
+폐기물의	폐기물/NNG + 의/JKG
+육지	육지/NNG
+처분을	처분/NNG + 을/JKO
+주장해	주장/NNG + 하/XSV + 아/EC
+온	오/VX + ㄴ/ETM
+우리	우리/NP
+나라는	나라/NNG + 는/JX
+전면	전면/NNG
+금지안이	금지안/NNG + 이/JKS
+통과되더라도	통과/NNG + 되/XSV + 더라도/EC
+별다른	별다르/VA + ㄴ/ETM
+영향을	영향/NNG + 을/JKO
+받지	받/VV + 지/EC
+않을	않/VX + 을/ETM
+것	것/NNB
+같다.	같/VA + 다/EF + ./SF
+
+우리는	우리/NP + 는/JX
+현재	현재/MAG
+원전의	원전/NNG + 의/JKG
+정상	정상/NNG
+운영에서	운영/NNG + 에서/JKB
+발생하는	발생/NNG + 하/XSV + 는/ETM
+폐액을	폐액/NNG + 을/JKO
+강과	강/NNG + 과/JC
+바다로	바다/NNG + 로/JKB
+방류하고	방류/NNG + 하/XSV + 고/EC
+있으나	있/VX + 으나/EC
+이	이/MM
+유출물들은	유출물/NNG + 들/XSN + 은/JX
+런던	런던/NNP
+협약에서	협약/NNG + 에서/JKB
+'덤핑'으로	'/SS + 덤핑/NNG + '/SS + 으로/JKB
+규정치	규정/NNG + 하/XSV + 지/EC
+않아	않/VX + 아/EC
+아무런	아무런/MM
+문제가	문제/NNG + 가/JKS
+없다는	없/VA + 다는/ETM
+것이	것/NNB + 이/JKS
+정부	정부/NNG
+관계자의	관계자/NNG + 의/JKG
+설명이다.	설명/NNG + 이/VCP + 다/EF + ./SF
+
+이	이/NP
+같은	같/VA + 은/ETM
+폐액은	폐액/NNG + 은/JX
+일본	일본/NNP
+프랑스	프랑스/NNP
+미국	미국/NNP
+영국	영국/NNP
+등	등/NNB
+원전	원전/NNG
+운영	운영/NNG
+국가에서	국가/NNG + 에서/JKB
+공통적으로	공통/NNG + 적/XSN + 으로/JKB
+발생하는	발생/NNG + 하/XSV + 는/ETM
+것으로	것/NNB + 으로/JKB
+일정	일정/NNG
+방사능이	방사능/NNG + 이/JKS
+하의	하/NNG + 의/JKG
+수준이며	수준/NNG + 이/VCP + 며/EC
+IAEA와	IAEA/SL + 와/JC
+국제	국제/NNG
+방사선	방사선/NNG
+방호	방호/NNG
+위원회의	위원회/NNG + 의/JKG
+규정에	규정/NNG + 에/JKB
+따라	따르/VV + 아/EC
+엄격히	엄격히/MAG
+관리되고	관리/NNG + 되/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+정부는	정부/NNG + 는/JX
+한편	한편/MAG
+러시아	러시아/NNP
+동해	동해/NNP
+투기와	투기/NNG + 와/JC
+런던	런던/NNP
+협약	협약/NNG
+회의	회의/NNG
+등이	등/NNB + 이/JKS
+4년	4/SN + 년/NNB
+이상	이상/NNG
+끌어	끌/VV + 어/EC
+온	오/VX + ㄴ/ETM
+국내	국내/NNG
+방사성	방사/NNG + 성/XSN
+폐기물	폐기물/NNG
+처분장	처분장/NNG
+부지	부지/NNG
+선정	선정/NNG
+작업에	작업/NNG + 에/JKB
+미칠	미치/VV + ㄹ/ETM
+영향을	영향/NNG + 을/JKO
+분석하고	분석/NNG + 하/XSV + 고/EC
+있다.	있/VX + 다/EF + ./SF
+
+현재	현재/MAG
+각	각/MM
+원전에	원전/NNG + 에/JKB
+임시	임시/NNG
+저장	저장/NNG
+중인	중/NNB + 이/VCP + ㄴ/ETM
+방사성	방사/NNG + 성/XSN
+폐기물은	폐기물/NNG + 은/JX
+9월말	9/SN + 월/NNB + 말/NNB
+현재	현재/MAG
+4만	4/SN + 만/NR
+1천	1/SN + 천/NR
+5백	5/SN + 백/NR
+드럼에	드럼/NNG + 에/JKB
+이르고	이르/VV + 고/EC
+있으며	있/VX + 으며/EC
+각	각/MM
+원전의	원전/NNG + 의/JKG
+임시	임시/NNG
+저장고가	저장고/NNG + 가/JKS
+곧	곧/MAG
+가득	가득/MAG
+차	차/VV + 아/EC
+영구	영구/NNG
+처분장	처분장/NNG
+설치가	설치/NNG + 가/JKS
+시급한	시급/XR + 하/XSA + ㄴ/ETM
+실정이다.	실정/NNG + 이/VCP + 다/EF + ./SF
+
+국회는	국회/NNG + 는/JX
+이번	이번/NNG
+회기에서	회기/NNG + 에서/JKB
+원전의	원전/NNG + 의/JKG
+방사성	방사/NNG + 성/XSN
+폐기물	폐기물/NNG
+처분장	처분장/NNG
+부지	부지/NNG
+선정	선정/NNG
+절차와	절차/NNG + 와/JC
+주민	주민/NNG
+보상을	보상/NNG + 을/JKO
+규정한	규정/NNG + 하/XSV + ㄴ/ETM
+새	새/MM
+법률안을	법률안/NNG + 을/JKO
+심의할	심의/NNG + 하/XSV + ㄹ/ETM
+예정이다.	예정/NNG + 이/VCP + 다/EF + ./SF
+
+이번에	이번/NNG + 에/JKB
+한국	한국/NNP
+화학	화학/NNG
+연구소	연구소/NNG
+이해방-육순홍	이해방/NNP + -/SS + 육순홍/NNP
+박사	박사/NNG
+팀이	팀/NNG + 이/JKS
+개발한	개발/NNG + 하/XSV + ㄴ/ETM
+'초미세	'/SS + 초/XPN + 미세/NNG
+캡슐을	캡슐/NNG + 을/JKO
+이용한	이용/NNG + 하/XSV + ㄴ/ETM
+약물	약물/NNG
+전달	전달/NNG
+기술'은	기술/NNG + '/SS + 은/JX
+기존	기존/NNG
+의약	의약/NNG
+제재	제재/NNG
+기술의	기술/NNG + 의/JKG
+한계성을	한계/NNG + 성/XSN + 을/JKO
+획기적으로	획기적/NNG + 으로/JKB
+개선,	개선/NNG + ,/SP
+각종	각종/NNG
+고성능	고/XPN + 성능/NNG
+의약품의	의약품/NNG + 의/JKG
+생산에	생산/NNG + 에/JKB
+널리	널리/MAG
+이용될	이용/NNG + 되/XSV + ㄹ/ETM
+수	수/NNB
+있는	있/VV + 는/ETM
+길을	길/NNG + 을/JKO
+텄다.	트/VV + 었/EP + 다/EF + ./SF
+
+이번	이번/NNG
+연구의	연구/NNG + 의/JKG
+핵심은	핵심/NNG + 은/JX
+복용한	복용/NNG + 하/XSV + ㄴ/ETM
+약물이	약물/NNG + 이/JKS
+위	위/NNG
+등에서	등/NNB + 에서/JKB
+손실되지	손실/NNG + 되/XSV + 지/EC
+않고	않/VX + 고/EC
+장에	장/NNG + 에/JKB
+도달,	도달/NNG + ,/SP
+오랜	오랜/MM
+시간	시간/NNG
+동안	동안/NNG
+머물면서	머물/VV + 면서/EC
+서서히	서서히/MAG
+흡수되도록	흡수/NNG + 되/XSV + 도록/EC
+만들자는	만들/VV + 자는/ETM
+것.	것/NNB + ./SF
+
+이를	이/NP + 를/JKO
+위해	위하/VV + 아/EC
+연구팀은	연구/NNG + 팀/NNG + 은/JX
+약물을	약물/NNG + 을/JKO
+캡슐	캡슐/NNG
+형태의	형태/NNG + 의/JKG
+매우	매우/MAG
+얇은	얇/VA + 은/ETM
+막으로	막/NNG + 으로/JKB
+감쌌다.	감싸/VV + 았/EP + 다/EF + ./SF
+
+이	이/MM
+막은	막/NNG + 은/JX
+해초	해초/NNG
+등에서	등/NNB + 에서/JKB
+나오는	나오/VV + 는/ETM
+알긴산나트륨이	알긴산/NNG + 나트륨/NNG + 이/JKS
+주성분으로	주성분/NNG + 으로/JKB
+산성이	산성/NNG + 이/JKS
+강한	강하/VV + ㄴ/ETM
+위에서는	위/NNG + 에서/JKB + 는/JX
+반응하지	반응/NNG + 하/XSV + 지/EC
+않고	않/VX + 고/EC
+알칼리성인	알칼리/NNG + 성/XSN + 이/VCP + ㄴ/ETM
+장에서	장/NNG + 에서/JKB
+팽창해	팽창/NNG + 하/XSV + 아/EC
+터지는	터지/VV + 는/ETM
+성질을	성질/NNG + 을/JKO
+가졌다.	가지/VV + 었/EP + 다/EF + ./SF
+
+또	또/MAG
+장	장/NNG
+속의	속/NNG + 의/JKG
+체류	체류/NNG
+시간을	시간/NNG + 을/JKO
+늘리기	늘리/VV + 기/ETN
+위해	위하/VV + 아/EC
+약물을	약물/NNG + 을/JKO
+식용유	식용유/NNG
+등	등/NNB
+오일에	오일/NNG + 에/JKB
+혼합,	혼합/NNG + ,/SP
+매우	매우/MAG
+작은	작/VA + 은/ETM
+입자를	입자/NNG + 를/JKO
+갖는	갖/VV + 는/ETM
+에멀전	에멀전/NNG
+형태로	형태/NNG + 로/JKB
+만들었다	만들/VV + 었/EP + 다/EC
+<그림	</SS + 그림/NNG
+참조>.	참조/NNG + >/SS + ./SF
+
+캡슐의	캡슐/NNG + 의/JKG
+막은	막/NNG + 은/JX
+미국과	미국/NNP + 과/JC
+국내에서	국내/NNG + 에서/JKB
+특허를	특허/NNG + 를/JKO
+얻은	얻/VV + 은/ETM
+신물질이며	신/XPN + 물질/NNG + 이/VCP + 며/EC
+캡슐	캡슐/NNG
+제조	제조/NNG
+기술은	기술/NNG + 은/JX
+7개국에	7/SN + 개국/NNB + 에/JKB
+특허를	특허/NNG + 를/JKO
+출원했다.	출원/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+연구팀은	연구/NNG + 팀/NNG + 은/JX
+캡슐의	캡슐/NNG + 의/JKG
+직경을	직경/NNG + 을/JKO
+1천분의	1/SN + 천/NR + 분/XSN + 의/JKG
+2㎜까지	2/SN + ㎜/SW + 까지/JX
+작게	작/VA + 게/EC
+만드는	만들/VV + 는/ETM
+데도	데/NNB + 도/JX
+성공했다.	성공/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+지금까지	지금/NNG + 까지/JX
+많은	많/VA + 은/ETM
+알약이나	알약/NNG + 이나/JC
+캡슐들은	캡슐/NNG + 들/XSN + 은/JX
+위에서	위/NNG + 에서/JKB
+파손될	파손/NNG + 되/XSV + ㄹ/ETM
+것을	것/NNB + 을/JKO
+고려,	고려/NNG + ,/SP
+필요	필요/NNG
+이상의	이상/NNG + 의/JKG
+약물을	약물/NNG + 을/JKO
+넣어	넣/VV + 어/EC
+위가	위/NNG + 가/JKS
+손상되는	손상/NNG + 되/XSV + 는/ETM
+등	등/NNB
+부작용을	부작용/NNG + 을/JKO
+일으켰으며,	일으키/VV + 었/EP + 으며/EC + ,/SP
+장내	장내/NNG
+체류	체류/NNG
+시간이	시간/NNG + 이/JKS
+짧아	짧/VA + 아/EC
+원하는	원하/VV + 는/ETM
+약효를	약효/NNG + 를/JKO
+얻기	얻/VV + 기/ETN
+위해	위하/VV + 아/EC
+복용	복용/NNG
+횟수를	횟수/NNG + 를/JKO
+늘려야	늘리/VV + 어야/EC
+하는	하/VX + 는/ETM
+단점을	단점/NNG + 을/JKO
+가지고	가지/VV + 고/EC
+있었다.	있/VX + 었/EP + 다/EF + ./SF
+
+초미세	초/XPN + 미세/NNG
+캡슐은	캡슐/NNG + 은/JX
+위장약	위장약/NNG
+항생제	항생제/NNG
+항암제	항암제/NNG
+등	등/NNB
+각종	각종/NNG
+의약품	의약품/NNG
+제조에	제조/NNG + 에/JKB
+광범위하게	광범위/NNG + 하/XSA + 게/EC
+사용될	사용/NNG + 되/XSV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+보인다.	보이/VV + ㄴ다/EF + ./SF
+
+이미	이미/MAG
+스웨덴	스웨덴/NNP
+아스트라	아스트라/NNP
+사의	사/NNG + 의/JKG
+세계적	세계/NNG + 적/XSN
+위장약	위장약/NNG
+'오메프라졸'을	'/SS + 오메프라졸/NNG + '/SS + 을/JKO
+이용한	이용/NNG + 하/XSV + ㄴ/ETM
+임상	임상/NNG
+실험에서	실험/NNG + 에서/JKB
+합격점을	합격/NNG + 점/NNB + 을/JKO
+받았다.	받/VV + 았/EP + 다/EF + ./SF
+
+이	이/MM
+방법은	방법/NNG + 은/JX
+또	또/MAG
+복용	복용/NNG
+시	시/NNB
+불쾌감을	불쾌감/NNG + 을/JKO
+없애	없애/VV + 어/EC
+의약품에	의약품/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+거부감을	거부감/NNG + 을/JKO
+줄이며,	줄이/VV + 며/EC + ,/SP
+자극이	자극/NNG + 이/JKS
+강한	강하/VV + ㄴ/ETM
+항암제	항암제/NNG
+등도	등/NNB + 도/JX
+장기간	장기간/NNG
+복용할	복용/NNG + 하/XSV + ㄹ/ETM
+수	수/NNB
+있게	있/VV + 게/EC
+해	하/VX + 아/EC
+암재발	암/NNG + 재발/NNG
+방지에도	방지/NNG + 에/JKB + 도/JX
+큰	크/VA + ㄴ/ETM
+기여를	기여/NNG + 를/JKO
+할	하/VV + ㄹ/ETM
+것으로	것/NNB + 으로/JKB
+보인다.	보이/VV + ㄴ다/EF + ./SF
+
+이해방	이해방/NNP
+박사는	박사/NNG + 는/JX
+"현재	"/SS + 현재/MAG
+주사로만	주사/NNG + 로/JKB + 만/JX
+가능했던	가능/NNG + 하/XSA + 았/EP + 던/ETM
+5-Fu	5/SN + -/SS + Fu/SL
+같은	같/VA + 은/ETM
+항암제에	항암제/NNG + 에/JKB
+대한	대하/VV + ㄴ/ETM
+실험을	실험/NNG + 을/JKO
+수행하고	수행/NNG + 하/XSV + 고/EC
+있다"며	있/VX + 다/EC + "/SS + 며/EC
+"결과가	"/SS + 결과/NNG + 가/JKS
+매우	매우/MAG
+긍정적으로	긍정/NNG + 적/XSN + 으로/JKB
+나오고	나오/VV + 고/EC
+있다"고	있/VX + 다/EC + "/SS + 고/JKQ
+밝혔다.	밝히/VV + 었/EP + 다/EF + ./SF
+
+주사약	주사약/NNG
+항암제는	항암제/NNG + 는/JX
+몸	몸/NNG
+전체에	전체/NNG + 에/JKB
+약이	약/NNG + 이/JKS
+퍼져	퍼지/VV + 어/EC
+부작용이	부작용/NNG + 이/JKS
+심한	심하/VA + ㄴ/ETM
+것이	것/NNB + 이/JKS
+단점이다.	단점/NNG + 이/VCP + 다/EF + ./SF
+
+또	또/MAG
+이번	이번/NNG
+기술에는	기술/NNG + 에/JKB + 는/JX
+약물이	약물/NNG + 이/JKS
+천천히	천천히/MAG
+흡수되어	흡수/NNG + 되/XSV + 어/EC
+약효	약효/NNG
+지속	지속/NNG
+시간이	시간/NNG + 이/JKS
+오래가도록	오래가/VV + 도록/EC
+만들었으므로	만들/VV + 었/EP + 으므로/EC
+약물	약물/NNG
+복용	복용/NNG
+횟수도	횟수/NNG + 도/JX
+크게	크/VA + 게/EC
+줄일	줄이/VV + ㄹ/ETM
+수	수/NNB
+있다.	있/VV + 다/EF + ./SF
+
+이번	이번/NNG
+기술은	기술/NNG + 은/JX
+경제적으로도	경제/NNG + 적/XSN + 으로/JKB + 도/JX
+효과를	효과/NNG + 를/JKO
+거둘	거두/VV + ㄹ/ETM
+수	수/NNB
+있을	있/VV + 을/ETM
+것으로	것/NNB + 으로/JKB
+보인다.	보이/VV + ㄴ다/EF + ./SF
+
+같은	같/VA + 은/ETM
+효과를	효과/NNG + 를/JKO
+나타내더라도	나타내/VV + 더라도/EC
+사용되는	사용/NNG + 되/XSV + 는/ETM
+약제량이	약제/NNG + 량/NNG + 이/JKS
+줄어들므로	줄어들/VV + 므로/EC
+생산	생산/NNG
+단가도	단가/NNG + 도/JX
+낮아지고	낮/VA + 아/EC + 지/VX + 고/EC
+세계	세계/NNG
+시장에서	시장/NNG + 에서/JKB
+국내	국내/NNG
+의약품의	의약품/NNG + 의/JKG
+가격	가격/NNG
+경쟁력도	경쟁력/NNG + 도/JX
+높일	높이/VV + ㄹ/ETM
+수	수/NNB
+있게	있/VV + 게/EC
+됐다.	되/VV + 었/EP + 다/EF + ./SF
+
+또	또/MAG
+동신	동신/NNP
+제약은	제약/NNG + 은/JX
+이	이/MM
+기술을	기술/NNG + 을/JKO
+이용,	이용/NNG + ,/SP
+세계적	세계/NNG + 적/XSN
+제약	제약/NNG
+회사와	회사/NNG + 와/JKB
+합작해	합작/NNG + 하/XSV + 아/EC
+세계	세계/NNG
+시장으로	시장/NNG + 으로/JKB
+진출할	진출/NNG + 하/XSV + ㄹ/ETM
+가능성도	가능/NNG + 성/XSN + 도/JX
+생겼다.	생기/VV + 었/EP + 다/EF + ./SF
+
+지금까지	지금/NNG + 까지/JX
+선진국의	선진국/NNG + 의/JKG
+일부	일부/NNG
+제약	제약/NNG
+회사에서	회사/NNG + 에서/JKB
+약효의	약효/NNG + 의/JKG
+지속성을	지속/NNG + 성/XSN + 을/JKO
+높이기	높이/VV + 기/ETN
+위해	위하/VV + 아/EC
+약물	약물/NNG
+주위에	주위/NNG + 에/JKB
+여러	여러/MM
+물질을	물질/NNG + 을/JKO
+코팅하는	코팅/NNG + 하/XSV + 는/ETM
+방법	방법/NNG
+등을	등/NNB + 을/JKO
+연구해	연구/NNG + 하/XSV + 아/EC
+왔으나	오/VX + 았/EP + 으나/EC
+이번	이번/NNG
+기술에	기술/NNG + 에/JKB
+비해	비하/VV + 아/EC
+상당히	상당히/MAG
+뒤떨어진	뒤떨어지/VV + ㄴ/ETM
+것들이다.	것/NNB + 들/XSN + 이/VCP + 다/EF + ./SF
+
+또	또/MAG
+주사제를	주사제/NNG + 를/JKO
+복용법으로	복용법/NNG + 으로/JKB
+바꾸려는	바꾸/VV + 려는/ETM
+연구도	연구/NNG + 도/JX
+병행하고	병행/NNG + 하/XSV + 고/EC
+있으나	있/VX + 으나/EC
+아직	아직/MAG
+위를	위/NNG + 를/JKO
+통과할	통과/NNG + 하/XSV + ㄹ/ETM
+때	때/NNG
+약제가	약제/NNG + 가/JKS
+손상되거나	손상/NNG + 되/XSV + 거나/EC
+변질되는	변질/NNG + 되/XSV + 는/ETM
+문제	문제/NNG
+및	및/MAG
+장기간	장기간/NNG
+약효를	약효/NNG + 를/JKO
+떨어뜨리지	떨어뜨리/VV + 지/EC
+않고	않/VX + 고/EC
+보관하는	보관/NNG + 하/XSV + 는/ETM
+문제	문제/NNG
+등을	등/NNB + 을/JKO
+해결하지	해결/NNG + 하/XSV + 지/EC
+못한	못하/VX + ㄴ/ETM
+것으로	것/NNB + 으로/JKB
+알려졌다.	알리/VV + 어/EC + 지/VX + 었/EP + 다/EF + ./SF
+
+이번	이번/NNG
+연구	연구/NNG
+테마는	테마/NNG + 는/JX
+지난	지나/VV + ㄴ/ETM
+90년	90/SN + 년/NNB
+과기처의	과기처/NNG + 의/JKG
+특정	특정/NNG
+연구	연구/NNG
+사업으로	사업/NNG + 으로/JKB
+선정돼	선정/NNG + 되/XSV + 어/EC
+시작되었으며	시작/NNG + 되/XSV + 었/EP + 으며/EC
+92년	92/SN + 년/NNB
+동신	동신/NNP
+제약측이	제약/NNG + 측/NNB + 이/JKS
+1억	1/SN + 억/NR
+8천만	8/SN + 천만/NR
+원을	원/NNB + 을/JKO
+투자하면서	투자/NNG + 하/XSV + 면서/EC
+연구에	연구/NNG + 에/JKB
+합류했다.	합류/NNG + 하/XSV + 았/EP + 다/EF + ./SF
+
+지난	지나/VV + ㄴ/ETM
+91년	91/SN + 년/NNB
+화학	화학/NNG
+연구소	연구소/NNG
+이해방	이해방/NNP
+박사	박사/NNG
+팀은	팀/NNG + 은/JX
+동신	동신/NNP
+제약과	제약/NNG + 과/JC
+함께	함께/MAG
+붙이는	붙이/VV + 는/ETM
+인슐린	인슐린/NNG
+파스를	파스/NNG + 를/JKO
+개발하는	개발/NNG + 하/XSV + 는/ETM
+데	데/NNB
+성공하기도	성공/NNG + 하/XSV + 기/ETN + 도/JX
+했다.	하/VX + 았/EP + 다/EF + ./SF
+
